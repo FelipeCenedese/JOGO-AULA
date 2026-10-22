@@ -11,7 +11,7 @@ public class CameraSegue : MonoBehaviour
 
     [Header("Movimento")]
     public float tempoSuavizacao = 0.15f;   // menor = câmera gruda mais rápido no player
-    public float olharAFrente = 1.5f;       // quanto a câmera adianta para o lado que o player olha
+    public float olharAFrente = 0f;         // 0 = player sempre no centro. Ex.: 1.5 adianta a câmera para o lado que ele olha
 
     Camera cam;
     Vector3 velocidade;
