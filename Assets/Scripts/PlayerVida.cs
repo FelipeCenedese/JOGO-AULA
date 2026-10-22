@@ -16,6 +16,7 @@ public class PlayerVida : MonoBehaviour
     SpriteRenderer sr;
     bool invencivel;
     bool morto;
+    Coroutine piscando;
 
     void Awake()
     {
@@ -43,7 +44,7 @@ public class PlayerVida : MonoBehaviour
             return;
         }
 
-        StartCoroutine(Piscar());
+        piscando = StartCoroutine(Piscar());
     }
 
     IEnumerator Piscar()
@@ -62,9 +63,21 @@ public class PlayerVida : MonoBehaviour
     IEnumerator Morrer()
     {
         morto = true;
+        if (piscando != null) StopCoroutine(piscando);
+        if (sr != null) sr.enabled = true;
         if (player != null) player.enabled = false;
-        if (sr != null) sr.color = Color.red;
-        yield return new WaitForSeconds(1.5f);
+
+        // Toca a animação de morte e espera ela terminar
+        float espera = 1.5f;
+        Animator anim = GetComponent<Animator>();
+        if (anim != null)
+        {
+            anim.Play("Morte", 0, 0f);
+            foreach (var clip in anim.runtimeAnimatorController.animationClips)
+                if (clip.name == "Morte") espera = clip.length + 0.8f;
+        }
+
+        yield return new WaitForSeconds(espera);
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex); // recomeça a fase
     }
 }

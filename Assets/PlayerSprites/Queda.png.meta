@@ -14,12 +14,6 @@ TextureImporter:
   - first:
       213: 1548478654755182028
     second: Queda_3
-  - first:
-      213: -6313250658631092753
-    second: Queda_4
-  - first:
-      213: 1884279862300839162
-    second: Queda_5
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -52,7 +46,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -66,7 +60,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 28
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -90,7 +84,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -103,7 +97,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -118,19 +112,19 @@ TextureImporter:
       name: Queda_0
       rect:
         serializedVersion: 2
-        x: 2
-        y: 1
-        width: 88
-        height: 93
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.484, y: 0.465}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a010e1d7df5ed4350800000000000000
+      spriteID: c28afe6e3bf048af83b20d310142055f
       internalID: 6002706755243344138
       vertices: []
       indices: 
@@ -140,19 +134,19 @@ TextureImporter:
       name: Queda_1
       rect:
         serializedVersion: 2
-        x: 113
-        y: 1
-        width: 88
-        height: 94
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.484, y: 0.465}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: addd95d1875752e60800000000000000
+      spriteID: 5c516a6cdc024118b3b046aa9ac5c3ac
       internalID: 7936879077059321306
       vertices: []
       indices: 
@@ -162,19 +156,19 @@ TextureImporter:
       name: Queda_2
       rect:
         serializedVersion: 2
-        x: 226
-        y: 1
-        width: 86
-        height: 90
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.484, y: 0.465}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8504e7164b6374a30800000000000000
+      spriteID: 1b230d465eae45fabe9cffebd5687bd9
       internalID: 4199385325903954008
       vertices: []
       indices: 
@@ -184,64 +178,20 @@ TextureImporter:
       name: Queda_3
       rect:
         serializedVersion: 2
-        x: 338
-        y: 1
-        width: 88
-        height: 88
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.484, y: 0.465}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cc515fed12d4d7510800000000000000
+      spriteID: 8142ccb150604f7ba609a0098c130052
       internalID: 1548478654755182028
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Queda_4
-      rect:
-        serializedVersion: 2
-        x: 450
-        y: 1
-        width: 87
-        height: 89
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fe5fa4a99f3d268a0800000000000000
-      internalID: -6313250658631092753
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Queda_5
-      rect:
-        serializedVersion: 2
-        x: 562
-        y: 1
-        width: 88
-        height: 87
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: afc0dd92d8e462a10800000000000000
-      internalID: 1884279862300839162
       vertices: []
       indices: 
       edges: []
@@ -264,8 +214,6 @@ TextureImporter:
       Queda_1: 7936879077059321306
       Queda_2: 4199385325903954008
       Queda_3: 1548478654755182028
-      Queda_4: -6313250658631092753
-      Queda_5: 1884279862300839162
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -20,6 +20,12 @@ TextureImporter:
   - first:
       213: 7985056307004402208
     second: Parado_5
+  - first:
+      213: -7169676182496904803
+    second: Parado_6
+  - first:
+      213: -4149976519821344517
+    second: Parado_7
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -52,7 +58,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -66,7 +72,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 28
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -90,7 +96,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -103,7 +109,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -118,19 +124,19 @@ TextureImporter:
       name: Parado_0
       rect:
         serializedVersion: 2
-        x: 3
-        y: 1
-        width: 81
-        height: 99
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.484, y: 0.465}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a9f68f8dd0c81e260800000000000000
+      spriteID: 5333e5a6ea1f4538b36fbd6751d68515
       internalID: 7125130076579458970
       vertices: []
       indices: 
@@ -140,19 +146,19 @@ TextureImporter:
       name: Parado_1
       rect:
         serializedVersion: 2
-        x: 104
-        y: 1
-        width: 78
-        height: 98
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.484, y: 0.465}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5f521300226e875f0800000000000000
+      spriteID: 7f94d7b122884fc8a31cc0ac29a2e919
       internalID: -758603503505431051
       vertices: []
       indices: 
@@ -162,19 +168,19 @@ TextureImporter:
       name: Parado_2
       rect:
         serializedVersion: 2
-        x: 200
-        y: 1
-        width: 79
-        height: 98
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.484, y: 0.465}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c98ae1e89c8065950800000000000000
+      spriteID: 37bb05fa932b4810a6bd2f04670be095
       internalID: 6437342379138525340
       vertices: []
       indices: 
@@ -184,19 +190,19 @@ TextureImporter:
       name: Parado_3
       rect:
         serializedVersion: 2
-        x: 297
-        y: 1
-        width: 80
-        height: 97
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.484, y: 0.465}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c8b60842fc84b08a0800000000000000
+      spriteID: 122dd5dcd1d64e608e2287bb45265167
       internalID: -6337891996086015092
       vertices: []
       indices: 
@@ -206,19 +212,19 @@ TextureImporter:
       name: Parado_4
       rect:
         serializedVersion: 2
-        x: 395
-        y: 1
-        width: 79
-        height: 97
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.484, y: 0.465}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e356a929d30145700800000000000000
+      spriteID: 62257e66e6174149ba429d6a9df5f5ba
       internalID: 528064912947832126
       vertices: []
       indices: 
@@ -228,20 +234,64 @@ TextureImporter:
       name: Parado_5
       rect:
         serializedVersion: 2
-        x: 491
-        y: 1
-        width: 82
-        height: 99
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.484, y: 0.465}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 02a6d72976e90de60800000000000000
+      spriteID: 4366252b84234fc696241fb069131173
       internalID: 7985056307004402208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parado_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.484, y: 0.465}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f769b050a16d42d082ccd2c1abf2c745
+      internalID: -7169676182496904803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parado_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.484, y: 0.465}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d8019bd38842b08d403beb23a089c7
+      internalID: -4149976519821344517
       vertices: []
       indices: 
       edges: []
@@ -266,6 +316,8 @@ TextureImporter:
       Parado_3: -6337891996086015092
       Parado_4: 528064912947832126
       Parado_5: 7985056307004402208
+      Parado_6: -7169676182496904803
+      Parado_7: -4149976519821344517
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
