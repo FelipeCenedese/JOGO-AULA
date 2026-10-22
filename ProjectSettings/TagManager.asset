@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Chao
+  - Inimigo
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ceu
+    uniqueID: 830482735
+    locked: 0
+  - name: FundoLonge
+    uniqueID: 2783637915
+    locked: 0
+  - name: FundoMeio
+    uniqueID: 3420109631
+    locked: 0
+  - name: Cenario
+    uniqueID: 673607343
+    locked: 0
+  - name: Chao
+    uniqueID: 926922385
+    locked: 0
+  - name: Player
+    uniqueID: 2571829117
+    locked: 0
+  - name: Frente
+    uniqueID: 1507081121
+    locked: 0
+  m_RenderingLayers:
+  - Default
