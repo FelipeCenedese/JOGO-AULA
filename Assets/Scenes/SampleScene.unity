@@ -1074,17 +1074,19 @@ PolygonCollider2D:
   m_AutoTiling: 0
   m_Points:
     m_Paths:
-    - - {x: 3.515625, y: -0.8125}
-      - {x: 3.515625, y: -0.75}
-      - {x: 3.328125, y: 0.375}
-      - {x: 3.234375, y: 0.6875}
-      - {x: 3.234375, y: 1.5}
-      - {x: 2.765625, y: 2.15625}
-      - {x: 1.453125, y: 2.15625}
-      - {x: 1.046875, y: 2.125}
-      - {x: 0.609375, y: 1.78125}
-      - {x: -0.421875, y: 1.34375}
-      - {x: -1.640625, y: 1.3125}
+    - - {x: 3.3690808, y: -0.958209}
+      - {x: 3.3465366, y: -0.71114427}
+      - {x: 3.2717621, y: 0.4429976}
+      - {x: 3.0765579, y: 0.95949006}
+      - {x: 3.1667376, y: 1.4320028}
+      - {x: 2.6528072, y: 2.0930512}
+      - {x: 1.4926445, y: 2.0298784}
+      - {x: 1.0863823, y: 2.0084069}
+      - {x: 0.84617555, y: 1.742394}
+      - {x: 0.09767407, y: 1.3542767}
+      - {x: -0.37108085, y: 1.2076385}
+      - {x: -1.4321295, y: 1.2159852}
+      - {x: -1.7195336, y: 1.2445024}
       - {x: -2.140625, y: 1.15625}
       - {x: -2.484375, y: 0.9375}
       - {x: -2.765625, y: 0.25}
@@ -1093,8 +1095,8 @@ PolygonCollider2D:
       - {x: -3.515625, y: -1.6875}
       - {x: -3.515625, y: -2.15625}
       - {x: 3.515625, y: -2.15625}
-      - {x: 3.515625, y: -1.84375}
-      - {x: 3.421875, y: -1.25}
+      - {x: 3.4367166, y: -1.8728918}
+      - {x: 3.3429663, y: -1.5219904}
   m_UseDelaunayMesh: 1
 --- !u!212 &198945222
 SpriteRenderer:
@@ -1701,6 +1703,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 356905538}
+  - {fileID: 531334821}
   m_Father: {fileID: 519420032}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &274241952
@@ -2450,8 +2453,94 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::CameraSegue
   alvo: {fileID: 1693661146}
-  suavidade: 5
-  deslocamento: {x: 0, y: 1, z: -10}
+  deslocamento: {x: 3.8, y: 0.5, z: -10}
+  tamanho: 4
+  tempoSuavizacao: 0.15
+  olharAFrente: 0
+--- !u!1 &531334820
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 531334821}
+  - component: {fileID: 531334822}
+  m_Layer: 0
+  m_Name: LuzDaLua
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &531334821
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 531334820}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -10.05, y: 11.42, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 259135084}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &531334822
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 531334820}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 073797afb82c5a1438f328866b10b3f0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.RenderPipelines.Universal.2D.Runtime::UnityEngine.Rendering.Universal.Light2D
+  m_ComponentVersion: 3
+  m_LightType: 3
+  m_BlendStyleIndex: 0
+  m_FalloffIntensity: 0.5
+  m_Color: {r: 0.9490196, g: 0.8901961, b: 0.74509805, a: 1}
+  m_Intensity: 2
+  m_LightVolumeIntensity: 1
+  m_LightVolumeEnabled: 0
+  m_ApplyToSortingLayers: 000000002f2980319bf1eaa53fbbdacbaf6e262891b63f377dff4a99a13bd459
+  m_LightCookieSprite: {fileID: 0}
+  m_DeprecatedPointLightCookieSprite: {fileID: 0}
+  m_LightOrder: 0
+  m_AlphaBlendOnOverlap: 0
+  m_OverlapOperation: 0
+  m_NormalMapDistance: 3
+  m_NormalMapQuality: 2
+  m_UseNormalMap: 0
+  m_ShadowsEnabled: 1
+  m_ShadowIntensity: 0.75
+  m_ShadowSoftness: 0.3
+  m_ShadowSoftnessFalloffIntensity: 0.5
+  m_ShadowVolumeIntensityEnabled: 0
+  m_ShadowVolumeIntensity: 0.75
+  m_LocalBounds:
+    m_Center: {x: 0, y: -0.00000011920929, z: 0}
+    m_Extent: {x: 0.9985302, y: 0.99853027, z: 0}
+  m_PointLightInnerAngle: 360
+  m_PointLightOuterAngle: 360
+  m_PointLightInnerRadius: 2
+  m_PointLightOuterRadius: 13
+  m_ShapeLightParametricSides: 5
+  m_ShapeLightParametricAngleOffset: 0
+  m_ShapeLightParametricRadius: 1
+  m_ShapeLightFalloffSize: 0.5
+  m_ShapeLightFalloffOffset: {x: 0, y: 0}
+  m_ShapePath:
+  - {x: -0.5, y: -0.5, z: 0}
+  - {x: 0.5, y: -0.5, z: 0}
+  - {x: 0.5, y: 0.5, z: 0}
+  - {x: -0.5, y: 0.5, z: 0}
 --- !u!1 &557224820
 GameObject:
   m_ObjectHideFlags: 0
@@ -2613,8 +2702,8 @@ MonoBehaviour:
   m_LightType: 4
   m_BlendStyleIndex: 0
   m_FalloffIntensity: 0.5
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_Intensity: 1
+  m_Color: {r: 0.49803922, g: 0.56078434, b: 0.72156864, a: 1}
+  m_Intensity: 0.5
   m_LightVolumeIntensity: 1
   m_LightVolumeEnabled: 0
   m_ApplyToSortingLayers: 000000002f2980319bf1eaa53fbbdacbaf6e262891b63f377dff4a99a13bd459
@@ -4452,11 +4541,11 @@ PolygonCollider2D:
     - - {x: 2.015625, y: -0.109375}
       - {x: 1.796875, y: 0.828125}
       - {x: 1.796875, y: 1.484375}
-      - {x: 1.578125, y: 1.890625}
-      - {x: 1.296875, y: 2.171875}
-      - {x: 0.046875, y: 2.171875}
-      - {x: -0.359375, y: 2.140625}
-      - {x: -1.515625, y: 1.390625}
+      - {x: 1.4827508, y: 1.8825938}
+      - {x: 1.2312661, y: 2.0236454}
+      - {x: -0.26691628, y: 1.9169478}
+      - {x: -0.5524769, y: 1.6688749}
+      - {x: -1.2984569, y: 1.2717637}
       - {x: -1.671875, y: 0.703125}
       - {x: -1.515625, y: 0.109375}
       - {x: -1.640625, y: -0.609375}
@@ -6840,11 +6929,12 @@ PolygonCollider2D:
     - - {x: 2.015625, y: -0.109375}
       - {x: 1.796875, y: 0.828125}
       - {x: 1.796875, y: 1.484375}
-      - {x: 1.578125, y: 1.890625}
-      - {x: 1.296875, y: 2.171875}
-      - {x: 0.046875, y: 2.171875}
-      - {x: -0.359375, y: 2.140625}
-      - {x: -1.515625, y: 1.390625}
+      - {x: 1.4478595, y: 1.8440725}
+      - {x: 1.2603849, y: 2.1078656}
+      - {x: 0.14060855, y: 2.0555863}
+      - {x: -0.29679385, y: 2.0302174}
+      - {x: -0.62842935, y: 1.6759952}
+      - {x: -1.4061835, y: 1.3149769}
       - {x: -1.671875, y: 0.703125}
       - {x: -1.515625, y: 0.109375}
       - {x: -1.640625, y: -0.609375}
@@ -7653,8 +7743,8 @@ CapsuleCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0.08177614, y: -0.0926801}
-  m_Size: {x: 0.4439211, y: 0.9205506}
+  m_Offset: {x: 0.08177614, y: -0.031390905}
+  m_Size: {x: 0.4439211, y: 0.7979722}
   m_Direction: 0
 --- !u!50 &1693661144
 Rigidbody2D:
@@ -7751,7 +7841,7 @@ Transform:
   m_GameObject: {fileID: 1693661141}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -4.79, y: -2.41, z: 0}
+  m_LocalPosition: {x: 21.3, y: 1.22, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -8283,13 +8373,18 @@ PolygonCollider2D:
       - {x: 3.328125, y: 0.375}
       - {x: 3.234375, y: 0.6875}
       - {x: 3.234375, y: 1.5}
-      - {x: 2.765625, y: 2.15625}
-      - {x: 1.453125, y: 2.15625}
-      - {x: 1.046875, y: 2.125}
-      - {x: 0.609375, y: 1.78125}
-      - {x: -0.421875, y: 1.34375}
-      - {x: -1.640625, y: 1.3125}
-      - {x: -2.140625, y: 1.15625}
+      - {x: 2.779217, y: 1.9550548}
+      - {x: 2.624908, y: 2.0029986}
+      - {x: 2.3259168, y: 2.0563433}
+      - {x: 2.092935, y: 2.0286121}
+      - {x: 1.6919872, y: 2.0131378}
+      - {x: 1.5021609, y: 2.0057855}
+      - {x: 1.1598768, y: 1.9190696}
+      - {x: 0.8361612, y: 1.6232586}
+      - {x: 0.11533892, y: 1.2836428}
+      - {x: -0.42929137, y: 1.1084833}
+      - {x: -1.6265726, y: 1.1913003}
+      - {x: -2.2037477, y: 0.940714}
       - {x: -2.484375, y: 0.9375}
       - {x: -2.765625, y: 0.25}
       - {x: -2.859375, y: -1.0625}
