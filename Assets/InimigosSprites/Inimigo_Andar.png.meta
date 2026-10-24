@@ -118,19 +118,19 @@ TextureImporter:
       name: Inimigo_Andar_0
       rect:
         serializedVersion: 2
-        x: 3
+        x: 0
         y: 0
-        width: 46
-        height: 42
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.406, y: 0.4875}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2d86090b6ec7ebcc0800000000000000
+      spriteID: aba1a8a7b3fc4829ae12d2760d7470ee
       internalID: -3693377314150651694
       vertices: []
       indices: 
@@ -140,19 +140,19 @@ TextureImporter:
       name: Inimigo_Andar_1
       rect:
         serializedVersion: 2
-        x: 67
+        x: 64
         y: 0
-        width: 44
-        height: 42
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.406, y: 0.4875}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cf278116f642d7670800000000000000
+      spriteID: 223110157d774a7b83067f61375c1dc3
       internalID: 8538020529353290492
       vertices: []
       indices: 
@@ -162,19 +162,19 @@ TextureImporter:
       name: Inimigo_Andar_2
       rect:
         serializedVersion: 2
-        x: 131
+        x: 128
         y: 0
-        width: 42
-        height: 42
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.406, y: 0.4875}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0ea978a0adace28d0800000000000000
+      spriteID: 38e6c2b40fa848098af7877896862dd1
       internalID: -2869132874760086816
       vertices: []
       indices: 
@@ -184,19 +184,19 @@ TextureImporter:
       name: Inimigo_Andar_3
       rect:
         serializedVersion: 2
-        x: 195
+        x: 192
         y: 0
-        width: 45
-        height: 41
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.406, y: 0.4875}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 36efe4cf890713a10800000000000000
+      spriteID: 289234a2072e4d9aa2d1609fb96a457f
       internalID: 1887413521215323747
       vertices: []
       indices: 
@@ -206,19 +206,19 @@ TextureImporter:
       name: Inimigo_Andar_4
       rect:
         serializedVersion: 2
-        x: 259
+        x: 256
         y: 0
-        width: 44
-        height: 41
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.406, y: 0.4875}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: aacb091b6c3b35630800000000000000
+      spriteID: 7cf41e1eb376477f95a865351cd29198
       internalID: 3914670167079042218
       vertices: []
       indices: 
@@ -228,19 +228,19 @@ TextureImporter:
       name: Inimigo_Andar_5
       rect:
         serializedVersion: 2
-        x: 323
+        x: 320
         y: 0
-        width: 46
-        height: 41
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.406, y: 0.4875}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b8afeb2563a06fc40800000000000000
+      spriteID: a6e30b8f3e5b4a2e9d33de77aa15c7d2
       internalID: 5545631219586103947
       vertices: []
       indices: 

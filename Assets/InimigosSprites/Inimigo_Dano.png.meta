@@ -109,19 +109,19 @@ TextureImporter:
       name: Inimigo_Dano_0
       rect:
         serializedVersion: 2
-        x: 3
+        x: 0
         y: 0
-        width: 45
-        height: 45
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.406, y: 0.4875}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 50d781002d7443a40800000000000000
+      spriteID: 1e983b3a2dc94303a446e6e1d9fbf1cf
       internalID: 5346977624865930501
       vertices: []
       indices: 
@@ -131,19 +131,19 @@ TextureImporter:
       name: Inimigo_Dano_1
       rect:
         serializedVersion: 2
-        x: 66
+        x: 64
         y: 0
-        width: 46
-        height: 47
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.406, y: 0.4875}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f6929f4b095133170800000000000000
+      spriteID: 791c6115e09b43c78039c93d0f32d852
       internalID: 8156887061353802095
       vertices: []
       indices: 
@@ -153,19 +153,19 @@ TextureImporter:
       name: Inimigo_Dano_2
       rect:
         serializedVersion: 2
-        x: 127
+        x: 128
         y: 0
-        width: 49
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.406, y: 0.4875}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 40d4f93cc75d6bee0800000000000000
+      spriteID: 507ddd10f9204c37ac763b9f2b91e36c
       internalID: -1245573515086705404
       vertices: []
       indices: 

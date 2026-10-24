@@ -66,6 +66,19 @@ public class Inimigo : MonoBehaviour
         sr = GetComponent<SpriteRenderer>();
         anim = GetComponent<Animator>();
 
+        // Arredonda as quinas da caixa de colisão (mesmo tamanho por fora).
+        // Sem isso, a caixa enrosca nas emendas entre os pedaços de chão e o inimigo trava.
+        if (col is BoxCollider2D caixa && caixa.edgeRadius == 0f)
+        {
+            float raio = Mathf.Min(0.08f, caixa.size.x * 0.25f);
+            caixa.size -= Vector2.one * raio * 2f;
+            caixa.edgeRadius = raio;
+        }
+
+        // Sem atrito: não gruda no chão nem nas paredes
+        if (rb.sharedMaterial == null)
+            rb.sharedMaterial = new PhysicsMaterial2D("InimigoSemAtrito") { friction = 0f, bounciness = 0f };
+
         vida = vidaMaxima;
         lado = comecaIndoParaDireita ? 1f : -1f;
         inicioX = transform.position.x;

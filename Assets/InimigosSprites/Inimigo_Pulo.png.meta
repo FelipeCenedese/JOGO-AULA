@@ -115,19 +115,19 @@ TextureImporter:
       name: Inimigo_Pulo_0
       rect:
         serializedVersion: 2
-        x: 3
+        x: 0
         y: 0
-        width: 45
-        height: 43
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.406, y: 0.4875}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 40838ebd95a01dff0800000000000000
+      spriteID: 4b248b09a93f475fb7a86a02ecb38b21
       internalID: -13217942847604732
       vertices: []
       indices: 
@@ -137,19 +137,19 @@ TextureImporter:
       name: Inimigo_Pulo_1
       rect:
         serializedVersion: 2
-        x: 67
+        x: 64
         y: 0
-        width: 45
-        height: 43
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.406, y: 0.4875}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 47272757b6eb79360800000000000000
+      spriteID: 1c7febb7c7bf45eab09a4dd203a73d24
       internalID: 7176413899979387508
       vertices: []
       indices: 
@@ -159,19 +159,19 @@ TextureImporter:
       name: Inimigo_Pulo_2
       rect:
         serializedVersion: 2
-        x: 131
+        x: 128
         y: 0
-        width: 45
-        height: 43
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.406, y: 0.4875}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 715ae453656795930800000000000000
+      spriteID: 10b3ef6e61434e13a1dbd06500e55653
       internalID: 4132464245722752279
       vertices: []
       indices: 
@@ -181,19 +181,19 @@ TextureImporter:
       name: Inimigo_Pulo_3
       rect:
         serializedVersion: 2
-        x: 195
+        x: 192
         y: 0
-        width: 45
-        height: 43
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.406, y: 0.4875}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 553333efe3bf530b0800000000000000
+      spriteID: ecdfb8b747a8423c8d80c4a31fbcb02b
       internalID: -5749413101297257643
       vertices: []
       indices: 
@@ -203,19 +203,19 @@ TextureImporter:
       name: Inimigo_Pulo_4
       rect:
         serializedVersion: 2
-        x: 259
+        x: 256
         y: 0
-        width: 45
-        height: 40
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.406, y: 0.4875}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9ac27da65df006f80800000000000000
+      spriteID: 76e8767f922441689581503370185c18
       internalID: -8115469119226696535
       vertices: []
       indices: 
