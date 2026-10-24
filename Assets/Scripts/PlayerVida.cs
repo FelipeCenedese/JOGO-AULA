@@ -23,6 +23,10 @@ public class PlayerVida : MonoBehaviour
         vida = vidaMaxima;
         player = GetComponent<Player>();
         sr = GetComponent<SpriteRenderer>();
+
+        // Se morreu depois de acender um checkpoint, nasce nele
+        if (GerenciadorCheckpoint.temCheckpoint)
+            transform.position = GerenciadorCheckpoint.posicao;
     }
 
     // Chamado pelo inimigo quando encosta no player
