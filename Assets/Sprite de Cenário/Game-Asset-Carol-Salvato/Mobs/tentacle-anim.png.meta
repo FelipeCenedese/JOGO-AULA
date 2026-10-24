@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: 3d863d0be329d3a49b7d9b369f1fc6c0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2744507474832584085
+    second: tentacle-anim_0
+  - first:
+      213: 5133682286469201486
+    second: tentacle-anim_1
+  - first:
+      213: 6806743784315461637
+    second: tentacle-anim_2
+  - first:
+      213: -1006613110784397056
+    second: tentacle-anim_3
+  - first:
+      213: 8117429858167393614
+    second: tentacle-anim_4
+  - first:
+      213: 6574683999021479263
+    second: tentacle-anim_5
+  - first:
+      213: -3413912106313548595
+    second: tentacle-anim_6
+  - first:
+      213: 5449018838135212861
+    second: tentacle-anim_7
+  - first:
+      213: -1329755028307819787
+    second: tentacle-anim_8
+  - first:
+      213: -3844645882840013621
+    second: tentacle-anim_9
+  - first:
+      213: 569560956938174702
+    second: tentacle-anim_10
+  - first:
+      213: 6823932408534211707
+    second: tentacle-anim_11
+  - first:
+      213: 655493456736220035
+    second: tentacle-anim_12
+  - first:
+      213: -2733442606361296581
+    second: tentacle-anim_13
+  - first:
+      213: 113053263966826378
+    second: tentacle-anim_14
+  - first:
+      213: 3349838936353420023
+    second: tentacle-anim_15
+  - first:
+      213: -1620676491907543563
+    second: tentacle-anim_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tentacle-anim_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 130
+        width: 24
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59decc0e103761620800000000000000
+      internalID: 2744507474832584085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tentacle-anim_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 130
+        width: 24
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4e36b217d08e3740800000000000000
+      internalID: 5133682286469201486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tentacle-anim_2
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 130
+        width: 24
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 500a83d7869667e50800000000000000
+      internalID: 6806743784315461637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tentacle-anim_3
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 130
+        width: 24
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 001f17185bac702f0800000000000000
+      internalID: -1006613110784397056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tentacle-anim_4
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 130
+        width: 24
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4d8731b277e6a070800000000000000
+      internalID: 8117429858167393614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tentacle-anim_5
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 67
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f55be105348fd3b50800000000000000
+      internalID: 6574683999021479263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tentacle-anim_6
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 67
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc76c8e6095f90d0800000000000000
+      internalID: -3413912106313548595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tentacle-anim_7
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 67
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b067d53cdce9b40800000000000000
+      internalID: 5449018838135212861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tentacle-anim_8
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 67
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f24c6bd8d2cb8de0800000000000000
+      internalID: -1329755028307819787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tentacle-anim_9
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 67
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc4272a70f215aac0800000000000000
+      internalID: -3844645882840013621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tentacle-anim_10
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 67
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee04b343cac77e700800000000000000
+      internalID: 569560956938174702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tentacle-anim_11
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 67
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7c15fdee5a73be50800000000000000
+      internalID: 6823932408534211707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tentacle-anim_12
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 67
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 383fa5173d7c81900800000000000000
+      internalID: 655493456736220035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tentacle-anim_13
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 6
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b31cae19e6cd01ad0800000000000000
+      internalID: -2733442606361296581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tentacle-anim_14
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 6
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8fe0773855a19100800000000000000
+      internalID: 113053263966826378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tentacle-anim_15
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 6
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f23e10b3c40d7e20800000000000000
+      internalID: 3349838936353420023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tentacle-anim_16
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 6
+        width: 24
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd460c31533289e0800000000000000
+      internalID: -1620676491907543563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      tentacle-anim_0: 2744507474832584085
+      tentacle-anim_1: 5133682286469201486
+      tentacle-anim_10: 569560956938174702
+      tentacle-anim_11: 6823932408534211707
+      tentacle-anim_12: 655493456736220035
+      tentacle-anim_13: -2733442606361296581
+      tentacle-anim_14: 113053263966826378
+      tentacle-anim_15: 3349838936353420023
+      tentacle-anim_16: -1620676491907543563
+      tentacle-anim_2: 6806743784315461637
+      tentacle-anim_3: -1006613110784397056
+      tentacle-anim_4: 8117429858167393614
+      tentacle-anim_5: 6574683999021479263
+      tentacle-anim_6: -3413912106313548595
+      tentacle-anim_7: 5449018838135212861
+      tentacle-anim_8: -1329755028307819787
+      tentacle-anim_9: -3844645882840013621
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
