@@ -24,8 +24,26 @@ public class PlayerVida : MonoBehaviour
         player = GetComponent<Player>();
         sr = GetComponent<SpriteRenderer>();
 
-        // Se morreu depois de acender um checkpoint, nasce nele
-        if (GerenciadorCheckpoint.temCheckpoint)
+        // Onde o player nasce nesta cena:
+        // 1) chegou por uma porta -> no PontoChegada com o mesmo id
+        // 2) senão, se o último checkpoint é desta cena -> no checkpoint
+        // 3) senão -> onde ele está posicionado na cena
+        string cenaAtual = SceneManager.GetActiveScene().name;
+        bool posicionado = false;
+        if (!string.IsNullOrEmpty(GerenciadorPortas.idChegada))
+        {
+            foreach (var ponto in FindObjectsByType<PontoChegada>(FindObjectsSortMode.None))
+            {
+                if (ponto.id == GerenciadorPortas.idChegada)
+                {
+                    transform.position = ponto.transform.position;
+                    posicionado = true;
+                    break;
+                }
+            }
+            GerenciadorPortas.idChegada = null;
+        }
+        if (!posicionado && GerenciadorCheckpoint.temCheckpoint && GerenciadorCheckpoint.cena == cenaAtual)
             transform.position = GerenciadorCheckpoint.posicao;
     }
 
@@ -82,6 +100,11 @@ public class PlayerVida : MonoBehaviour
         }
 
         yield return new WaitForSeconds(espera);
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex); // recomeça a fase
+
+        // Volta para a cena do último checkpoint (pode ser outra área); sem checkpoint, recomeça esta
+        if (GerenciadorCheckpoint.temCheckpoint && !string.IsNullOrEmpty(GerenciadorCheckpoint.cena))
+            SceneManager.LoadScene(GerenciadorCheckpoint.cena);
+        else
+            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
     }
 }

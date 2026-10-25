@@ -1,5 +1,6 @@
 using UnityEngine;
 using UnityEngine.Rendering.Universal;
+using UnityEngine.SceneManagement;
 
 // Checkpoint (pilar com fogo azul).
 // Quando o player chega perto, o fogo acende em cima do pilar e o checkpoint é salvo.
@@ -23,7 +24,7 @@ public class Checkpoint : MonoBehaviour
     float tempoAnim;
 
     // Identifica este checkpoint pela posição (para lembrar dele depois que a fase recarrega)
-    string Id => $"{transform.position.x:F2}_{transform.position.y:F2}";
+    string Id => $"{SceneManager.GetActiveScene().name}_{transform.position.x:F2}_{transform.position.y:F2}";
 
     void Awake()
     {
@@ -116,12 +117,14 @@ public static class GerenciadorCheckpoint
     public static bool temCheckpoint;
     public static string idAtual;
     public static Vector3 posicao;
+    public static string cena;              // em qual cena está o checkpoint
 
     public static void Salvar(string id, Vector3 pos)
     {
         temCheckpoint = true;
         idAtual = id;
         posicao = pos;
+        cena = SceneManager.GetActiveScene().name;
     }
 
     // Limpa tudo quando o jogo começa de novo (botão Play)
@@ -131,5 +134,6 @@ public static class GerenciadorCheckpoint
         temCheckpoint = false;
         idAtual = null;
         posicao = Vector3.zero;
+        cena = null;
     }
 }
