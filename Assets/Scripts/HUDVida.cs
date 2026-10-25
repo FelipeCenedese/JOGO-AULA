@@ -10,7 +10,8 @@ public class HUDVida : MonoBehaviour
 {
     // Tamanho e posição na tela
     const float Escala = 1.8f;                       // tamanho na tela: aumente para a barra ficar maior
-    static readonly Vector2 Margem = new Vector2(24, 24);
+    // Distância da borda da tela: X = da esquerda, Y = do topo (aumente o Y para descer a barra)
+    static readonly Vector2 Margem = new Vector2(40, 90);
 
     // Medidas do desenho (em pixels), recortado em 38 x 127
     const float LarguraMoldura = 38, AlturaMoldura = 127;
