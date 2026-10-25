@@ -10,7 +10,7 @@ public class Gorgona : MonoBehaviour
     public class Ataque
     {
         public string animacao = "Gorgona_Ataque1";
-        public float distanciaMaxima = 1.5f;  // usa este ataque se o player estiver até essa distância
+        public float distanciaMaxima = 1.5f;  // (não é mais usado: ela só ataca quando a área do golpe alcança o player de verdade)
         public float momentoAcerto = 0.5f;    // segundos depois do início em que o golpe acerta
         public float duracao = 1f;            // tempo total (igual à animação)
         public float alcance = 1f;            // distância do centro do corpo até o centro da área do golpe
@@ -60,6 +60,7 @@ public class Gorgona : MonoBehaviour
     SpriteRenderer sr;
     Animator anim;
     Transform player;
+    Collider2D colPlayer;
 
     int vida;
     float lado;
@@ -87,7 +88,7 @@ public class Gorgona : MonoBehaviour
         if (sr != null) corOriginal = sr.color;
 
         var p = FindFirstObjectByType<Player>();
-        if (p != null) player = p.transform;
+        if (p != null) { player = p.transform; colPlayer = p.GetComponent<Collider2D>(); }
 
         Virar();
     }
@@ -161,7 +162,7 @@ public class Gorgona : MonoBehaviour
         }
 
         // Tem algum ataque que alcança o player?
-        Ataque escolhido = EscolherAtaque(dist);
+        Ataque escolhido = EscolherAtaque();
         if (escolhido != null)
         {
             Parar();
@@ -181,21 +182,31 @@ public class Gorgona : MonoBehaviour
         TocarAnimacao("Gorgona_Correr");
     }
 
-    // Sorteia entre os ataques que alcançam o player nessa distância
-    Ataque EscolherAtaque(float dist)
+    // Sorteia entre os ataques cuja área de acerto realmente alcança o player.
+    // Se nenhum alcança, ela continua se aproximando (antes ela ficava parada golpeando o ar).
+    Ataque EscolherAtaque()
     {
         int possiveis = 0;
-        foreach (var a in ataques) if (dist <= a.distanciaMaxima) possiveis++;
+        foreach (var a in ataques) if (Alcanca(a)) possiveis++;
         if (possiveis == 0) return null;
 
         int sorteio = Random.Range(0, possiveis);
         foreach (var a in ataques)
         {
-            if (dist > a.distanciaMaxima) continue;
+            if (!Alcanca(a)) continue;
             if (sorteio == 0) return a;
             sorteio--;
         }
         return null;
+    }
+
+    // O player está dentro da área desse golpe? (com uma folga, porque ele pode se mexer até o golpe acertar)
+    bool Alcanca(Ataque a)
+    {
+        if (player == null) return false;
+        Vector2 centro = (Vector2)col.bounds.center + new Vector2(lado * a.alcance, 0);
+        Vector2 maisPerto = colPlayer != null ? colPlayer.ClosestPoint(centro) : (Vector2)player.position;
+        return Vector2.Distance(maisPerto, centro) <= a.raio * 0.85f;
     }
 
     // ================= Ataque =================
