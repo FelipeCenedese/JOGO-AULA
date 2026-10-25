@@ -55,6 +55,7 @@ public class Porta : MonoBehaviour
         yield return Fade.Escurecer(tempoFade);
 
         GerenciadorPortas.idChegada = idChegada;
+        GerenciadorPortas.cenaOrigem = SceneManager.GetActiveScene().name;
         SceneManager.LoadScene(cenaDestino);
     }
 
@@ -69,9 +70,10 @@ public class Porta : MonoBehaviour
 public static class GerenciadorPortas
 {
     public static string idChegada;
+    public static string cenaOrigem;   // de qual cena o player veio
 
     [RuntimeInitializeOnLoadMethod(RuntimeInitializeLoadType.SubsystemRegistration)]
-    static void Limpar() { idChegada = null; }
+    static void Limpar() { idChegada = null; cenaOrigem = null; }
 }
 
 // Tela preta que escurece e clareia entre as cenas

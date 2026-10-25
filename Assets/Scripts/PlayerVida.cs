@@ -25,7 +25,7 @@ public class PlayerVida : MonoBehaviour
         sr = GetComponent<SpriteRenderer>();
 
         // Onde o player nasce nesta cena:
-        // 1) chegou por uma porta -> no PontoChegada com o mesmo id
+        // 1) chegou por uma porta -> no PontoChegada com o mesmo id (ou, sem ele, na porta de volta)
         // 2) senão, se o último checkpoint é desta cena -> no checkpoint
         // 3) senão -> onde ele está posicionado na cena
         string cenaAtual = SceneManager.GetActiveScene().name;
@@ -41,7 +41,21 @@ public class PlayerVida : MonoBehaviour
                     break;
                 }
             }
+            // Não achou o PontoChegada? Aparece na porta desta cena que leva de volta para onde ele veio
+            if (!posicionado && !string.IsNullOrEmpty(GerenciadorPortas.cenaOrigem))
+            {
+                foreach (var porta in FindObjectsByType<Porta>(FindObjectsSortMode.None))
+                {
+                    if (porta.cenaDestino == GerenciadorPortas.cenaOrigem)
+                    {
+                        transform.position = porta.transform.position;
+                        posicionado = true;
+                        break;
+                    }
+                }
+            }
             GerenciadorPortas.idChegada = null;
+            GerenciadorPortas.cenaOrigem = null;
         }
         if (!posicionado && GerenciadorCheckpoint.temCheckpoint && GerenciadorCheckpoint.cena == cenaAtual)
             transform.position = GerenciadorCheckpoint.posicao;
