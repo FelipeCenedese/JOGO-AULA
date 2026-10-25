@@ -9,37 +9,37 @@ TextureImporter:
       213: -982904232830982447
     second: Walk_1
   - first:
-      213: -350908408369970039
+      213: 11406907883527339
     second: Walk_2
   - first:
-      213: -5409570386352685021
+      213: 8030128826893041618
     second: Walk_3
   - first:
-      213: 1553940418269799609
+      213: 2315132830120601726
     second: Walk_4
   - first:
-      213: 2416434504916517810
+      213: -350908408369970039
     second: Walk_5
   - first:
-      213: -6428935122508569504
+      213: -5409570386352685021
     second: Walk_6
   - first:
-      213: 7144598999076838305
+      213: 1553940418269799609
     second: Walk_7
   - first:
-      213: 7500509103958437945
+      213: 2416434504916517810
     second: Walk_8
   - first:
-      213: 1008816216748069464
+      213: -6428935122508569504
     second: Walk_9
   - first:
-      213: 11406907883527339
+      213: 7144598999076838305
     second: Walk_10
   - first:
-      213: 8030128826893041618
+      213: 7500509103958437945
     second: Walk_11
   - first:
-      213: 2315132830120601726
+      213: 1008816216748069464
     second: Walk_12
   externalObjects: {}
   serializedVersion: 13
@@ -73,7 +73,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -87,7 +87,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 64
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -111,7 +111,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -124,7 +124,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -139,19 +139,19 @@ TextureImporter:
       name: Walk_0
       rect:
         serializedVersion: 2
-        x: 17
+        x: 0
         y: 0
-        width: 55
-        height: 86
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.36, y: 0.0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cdce119379b920830800000000000000
+      spriteID: e2b55258c4b44bfcb792a7e78e06f8e9
       internalID: 4035959289877228764
       vertices: []
       indices: 
@@ -161,19 +161,19 @@ TextureImporter:
       name: Walk_1
       rect:
         serializedVersion: 2
-        x: 144
+        x: 128
         y: 0
-        width: 56
-        height: 84
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.36, y: 0.0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1d6a1e1dec50c52f0800000000000000
+      spriteID: 3de8df0f3c1040ac956c502e8fc58725
       internalID: -982904232830982447
       vertices: []
       indices: 
@@ -183,20 +183,20 @@ TextureImporter:
       name: Walk_2
       rect:
         serializedVersion: 2
-        x: 269
+        x: 256
         y: 0
-        width: 59
-        height: 83
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.36, y: 0.0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 984096a69a2512bf0800000000000000
-      internalID: -350908408369970039
+      spriteID: 02acf724a24248f498df18db4bc94b86
+      internalID: 11406907883527339
       vertices: []
       indices: 
       edges: []
@@ -205,20 +205,20 @@ TextureImporter:
       name: Walk_3
       rect:
         serializedVersion: 2
-        x: 394
+        x: 384
         y: 0
-        width: 62
-        height: 82
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.36, y: 0.0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 320c9fd05685de4b0800000000000000
-      internalID: -5409570386352685021
+      spriteID: b07d0ad337504e388c9e9d2f1f60f47a
+      internalID: 8030128826893041618
       vertices: []
       indices: 
       edges: []
@@ -227,20 +227,20 @@ TextureImporter:
       name: Walk_4
       rect:
         serializedVersion: 2
-        x: 520
+        x: 512
         y: 0
-        width: 64
-        height: 84
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.36, y: 0.0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9b4e719c394b09510800000000000000
-      internalID: 1553940418269799609
+      spriteID: 89b47defa2204c6185e20d75b31a5c54
+      internalID: 2315132830120601726
       vertices: []
       indices: 
       edges: []
@@ -249,20 +249,20 @@ TextureImporter:
       name: Walk_5
       rect:
         serializedVersion: 2
-        x: 642
+        x: 640
         y: 0
-        width: 70
-        height: 87
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.36, y: 0.0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2b3cb802166e88120800000000000000
-      internalID: 2416434504916517810
+      spriteID: d251de9a25ac4ad7a29eddf18381af93
+      internalID: -350908408369970039
       vertices: []
       indices: 
       edges: []
@@ -271,20 +271,20 @@ TextureImporter:
       name: Walk_6
       rect:
         serializedVersion: 2
-        x: 766
+        x: 768
         y: 0
-        width: 75
-        height: 89
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.36, y: 0.0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 06428da6195d7c6a0800000000000000
-      internalID: -6428935122508569504
+      spriteID: a0d000aaa0a54a58b3d47f7bbbce597a
+      internalID: -5409570386352685021
       vertices: []
       indices: 
       edges: []
@@ -293,20 +293,20 @@ TextureImporter:
       name: Walk_7
       rect:
         serializedVersion: 2
-        x: 910
+        x: 896
         y: 0
-        width: 59
-        height: 89
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.36, y: 0.0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1ab169a9fe6b62360800000000000000
-      internalID: 7144598999076838305
+      spriteID: 58e9bbd7fcdb49d89b6f98e41268dfdb
+      internalID: 1553940418269799609
       vertices: []
       indices: 
       edges: []
@@ -315,20 +315,20 @@ TextureImporter:
       name: Walk_8
       rect:
         serializedVersion: 2
-        x: 1035
+        x: 1024
         y: 0
-        width: 62
-        height: 90
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.36, y: 0.0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 930b6086a49271860800000000000000
-      internalID: 7500509103958437945
+      spriteID: e5b1ba4c842c42218ad6a34c215af442
+      internalID: 2416434504916517810
       vertices: []
       indices: 
       edges: []
@@ -337,20 +337,20 @@ TextureImporter:
       name: Walk_9
       rect:
         serializedVersion: 2
-        x: 1162
+        x: 1152
         y: 0
-        width: 62
-        height: 88
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.36, y: 0.0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8521ce21109000e00800000000000000
-      internalID: 1008816216748069464
+      spriteID: 46113de252e24b3ebe93c195eea78bb8
+      internalID: -6428935122508569504
       vertices: []
       indices: 
       edges: []
@@ -359,20 +359,20 @@ TextureImporter:
       name: Walk_10
       rect:
         serializedVersion: 2
-        x: 1289
+        x: 1280
         y: 0
-        width: 63
-        height: 86
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.36, y: 0.0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bac1264b586882000800000000000000
-      internalID: 11406907883527339
+      spriteID: 57e97ce0cf9a41c5b3c6cea16ed7bd2a
+      internalID: 7144598999076838305
       vertices: []
       indices: 
       edges: []
@@ -381,20 +381,20 @@ TextureImporter:
       name: Walk_11
       rect:
         serializedVersion: 2
-        x: 1420
+        x: 1408
         y: 0
-        width: 60
-        height: 85
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.36, y: 0.0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2df75936f9fb07f60800000000000000
-      internalID: 8030128826893041618
+      spriteID: 0bcef311439d4df9acb0e13024e3ff24
+      internalID: 7500509103958437945
       vertices: []
       indices: 
       edges: []
@@ -403,20 +403,20 @@ TextureImporter:
       name: Walk_12
       rect:
         serializedVersion: 2
-        x: 1559
+        x: 1536
         y: 0
-        width: 49
-        height: 86
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.36, y: 0.0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e78ee2bfa01012020800000000000000
-      internalID: 2315132830120601726
+      spriteID: c3795f58b4f54c7092c74277774c0929
+      internalID: 1008816216748069464
       vertices: []
       indices: 
       edges: []
@@ -437,17 +437,17 @@ TextureImporter:
     nameFileIdTable:
       Walk_0: 4035959289877228764
       Walk_1: -982904232830982447
-      Walk_10: 11406907883527339
-      Walk_11: 8030128826893041618
-      Walk_12: 2315132830120601726
-      Walk_2: -350908408369970039
-      Walk_3: -5409570386352685021
-      Walk_4: 1553940418269799609
-      Walk_5: 2416434504916517810
-      Walk_6: -6428935122508569504
-      Walk_7: 7144598999076838305
-      Walk_8: 7500509103958437945
-      Walk_9: 1008816216748069464
+      Walk_2: 11406907883527339
+      Walk_3: 8030128826893041618
+      Walk_4: 2315132830120601726
+      Walk_5: -350908408369970039
+      Walk_6: -5409570386352685021
+      Walk_7: 1553940418269799609
+      Walk_8: 2416434504916517810
+      Walk_9: -6428935122508569504
+      Walk_10: 7144598999076838305
+      Walk_11: 7500509103958437945
+      Walk_12: 1008816216748069464
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
