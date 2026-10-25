@@ -227,6 +227,7 @@ public class Inimigo : MonoBehaviour
         if (morto) return;
 
         vida -= dano;
+        BarraVidaInimigo.Atualizar(this, vida, vidaMaxima);
         StopAllCoroutines();   // interrompe ataque ou recuo que estava acontecendo
         atacando = false;
         recuando = false;

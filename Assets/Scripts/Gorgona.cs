@@ -230,6 +230,7 @@ public class Gorgona : MonoBehaviour
         if (morto) return;
 
         vida -= dano;
+        BarraVidaInimigo.Atualizar(this, vida, vidaMaxima);
         perseguindo = true;
 
         if (vida <= 0)
