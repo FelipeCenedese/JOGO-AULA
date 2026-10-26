@@ -28,6 +28,8 @@ public class Player : MonoBehaviour
     public LayerMask camadaInimigo;
     public float raioAtaqueRapido = 0.6f;
     public float raioAtaquePesado = 0.9f;
+    public float avancoAtaque = 0.35f;     // empurra a área do golpe mais pra frente (aumenta o alcance)
+    public float raioExtra = 0.25f;        // soma no tamanho da área de todos os golpes
     public int danoRapido = 1;
     public int danoPesado = 3;
     public int danoDashAtaque = 2;
@@ -258,12 +260,19 @@ public class Player : MonoBehaviour
     {
         if (pontoAtaque == null) return;
 
-        var alvos = Physics2D.OverlapCircleAll(pontoAtaque.position, raio, camadaInimigo);
+        var alvos = Physics2D.OverlapCircleAll(CentroAtaque(), raio + raioExtra, camadaInimigo);
         foreach (var alvo in alvos)
         {
             // O inimigo precisa ter um método: public void ReceberDano(int dano)
             alvo.SendMessage("ReceberDano", dano, SendMessageOptions.DontRequireReceiver);
         }
+    }
+
+    // Centro da área do golpe: o pontoAtaque, mais um pouco para o lado em que o player olha
+    Vector2 CentroAtaque()
+    {
+        float frente = transform.localScale.x < 0 ? -1f : 1f;
+        return (Vector2)pontoAtaque.position + new Vector2(frente * avancoAtaque, 0);
     }
 
     // Chamado pelo PlayerVida quando leva dano: joga o player para trás
@@ -331,9 +340,9 @@ public class Player : MonoBehaviour
         if (pontoAtaque != null)
         {
             Gizmos.color = Color.red;
-            Gizmos.DrawWireSphere(pontoAtaque.position, raioAtaqueRapido);
+            Gizmos.DrawWireSphere(CentroAtaque(), raioAtaqueRapido + raioExtra);
             Gizmos.color = new Color(1f, 0.5f, 0f);
-            Gizmos.DrawWireSphere(pontoAtaque.position, raioAtaquePesado);
+            Gizmos.DrawWireSphere(CentroAtaque(), raioAtaquePesado + raioExtra);
         }
     }
 }

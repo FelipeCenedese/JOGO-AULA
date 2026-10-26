@@ -32,8 +32,9 @@ public class Inimigo : MonoBehaviour
     public float duracaoAtaque = 0.9f;       // tempo total do ataque (igual à animação)
     public float recargaAtaque = 1.2f;       // espera entre um ataque e outro
 
-    [Header("Dano no player ao encostar")]
-    public int danoAoEncostar = 1;
+    [Header("Encostar no player")]
+    public int danoAoEncostar = 1;           // (não é mais usado: ele só dá dano com o golpe da lança)
+    public float distanciaVirar = 1f;        // se o player chegar até essa distância por trás, ele vira e ataca
 
     [Header("Ao levar dano")]
     public float forcaRecuo = 4f;
@@ -151,8 +152,10 @@ public class Inimigo : MonoBehaviour
         float limite = perseguindo ? distanciaPerder : distanciaVisao;
         if (Mathf.Abs(dif.x) > limite) return false;
 
-        // Para começar a perseguir, o player precisa estar na frente dele
-        if (!perseguindo && Mathf.Sign(dif.x) != lado) return false;
+        // Para começar a perseguir, o player precisa estar na frente dele...
+        // ...a não ser que chegue muito perto por trás: aí ele percebe e vira
+        bool muitoPerto = Mathf.Abs(dif.x) <= distanciaVirar;
+        if (!perseguindo && !muitoPerto && Mathf.Sign(dif.x) != lado) return false;
 
         return true;
     }
@@ -287,12 +290,12 @@ public class Inimigo : MonoBehaviour
 
     // ================= Encostar no player =================
 
+    // Encostar não dá mais dano: ele só percebe o player, vira e ataca com a lança
     void OnCollisionStay2D(Collision2D outro)
     {
         if (morto) return;
-        var vidaPlayer = outro.collider.GetComponent<PlayerVida>();
-        if (vidaPlayer != null)
-            vidaPlayer.LevarDano(danoAoEncostar, transform.position);
+        if (outro.collider.GetComponent<PlayerVida>() != null)
+            perseguindo = true;
     }
 
     // ================= Sensores =================
