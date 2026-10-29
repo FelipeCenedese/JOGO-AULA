@@ -3,152 +3,140 @@ guid: a26a8a131accbcb4f99987071207d89c
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7025154549869057301
-    second: Skeleton enemy_0
+      213: -113617412488171292
+    second: Esqueleto_Ataque_0
   - first:
-      213: -1052431571235582798
-    second: Skeleton enemy_1
+      213: 7818118854246308322
+    second: Esqueleto_Ataque_1
   - first:
-      213: -8249531409998353857
-    second: Skeleton enemy_2
+      213: 6448745891573871226
+    second: Esqueleto_Ataque_2
   - first:
-      213: -5725178719030385771
-    second: Skeleton enemy_3
+      213: -3907853479182050363
+    second: Esqueleto_Ataque_3
   - first:
-      213: -4345535007044184461
-    second: Skeleton enemy_4
+      213: 7857099448675442385
+    second: Esqueleto_Ataque_4
   - first:
-      213: -6608955959846293068
-    second: Skeleton enemy_5
+      213: -596057782658550471
+    second: Esqueleto_Ataque_5
   - first:
-      213: 2682571728898774543
-    second: Skeleton enemy_6
+      213: -44172093238841635
+    second: Esqueleto_Ataque_6
   - first:
-      213: 3980739256242589887
-    second: Skeleton enemy_7
+      213: 1386954031276320041
+    second: Esqueleto_Ataque_7
   - first:
-      213: 5994429131288928525
-    second: Skeleton enemy_8
+      213: -1966243726020004811
+    second: Esqueleto_Ataque_8
   - first:
-      213: 8976488520447721068
-    second: Skeleton enemy_9
+      213: 1953620069739029163
+    second: Esqueleto_Ataque_9
   - first:
-      213: -4367081648991140790
-    second: Skeleton enemy_10
+      213: 8520754304241982313
+    second: Esqueleto_Ataque_10
   - first:
-      213: 3900501143166408568
-    second: Skeleton enemy_11
+      213: -5168302526177194761
+    second: Esqueleto_Ataque_11
   - first:
-      213: -1326419318096611321
-    second: Skeleton enemy_12
+      213: -120636133350923586
+    second: Esqueleto_Ataque_12
   - first:
-      213: 4251906360239513419
-    second: Skeleton enemy_13
+      213: 8204005279984571089
+    second: Esqueleto_Morte_0
   - first:
-      213: 2646334155208643579
-    second: Skeleton enemy_14
+      213: -5517507121762707023
+    second: Esqueleto_Morte_1
   - first:
-      213: -3712685219517249095
-    second: Skeleton enemy_15
+      213: -8643903276407465230
+    second: Esqueleto_Morte_2
   - first:
-      213: -2627258213357970557
-    second: Skeleton enemy_16
+      213: -7796215977876811523
+    second: Esqueleto_Morte_3
   - first:
-      213: 1107983150400447951
-    second: Skeleton enemy_17
+      213: 5718337467364585368
+    second: Esqueleto_Morte_4
   - first:
-      213: -841477135289833387
-    second: Skeleton enemy_18
+      213: 6647697889140607773
+    second: Esqueleto_Morte_5
   - first:
-      213: 306834143366845967
-    second: Skeleton enemy_19
+      213: 3723275529464281037
+    second: Esqueleto_Morte_6
   - first:
-      213: -6289823522979162965
-    second: Skeleton enemy_20
+      213: -8976449753326224757
+    second: Esqueleto_Morte_7
   - first:
-      213: 8507390889452736926
-    second: Skeleton enemy_21
+      213: -5750329267916801169
+    second: Esqueleto_Morte_8
   - first:
-      213: 5801475551444210642
-    second: Skeleton enemy_22
+      213: 5184543249096623302
+    second: Esqueleto_Morte_9
   - first:
-      213: 2915540044530629201
-    second: Skeleton enemy_23
+      213: 6561665119641941382
+    second: Esqueleto_Morte_10
   - first:
-      213: -2360470341137857836
-    second: Skeleton enemy_24
+      213: 469093703777134990
+    second: Esqueleto_Morte_11
   - first:
-      213: 1529470679888677018
-    second: Skeleton enemy_25
+      213: -7744467600301903540
+    second: Esqueleto_Morte_12
   - first:
-      213: 3437145983743085951
-    second: Skeleton enemy_26
+      213: 1905465049628923890
+    second: Esqueleto_Andar_0
   - first:
-      213: 7668837336211610510
-    second: Skeleton enemy_27
+      213: 5444024879719671182
+    second: Esqueleto_Andar_1
   - first:
-      213: -422267860648895622
-    second: Skeleton enemy_28
+      213: 186149560916439078
+    second: Esqueleto_Andar_2
   - first:
-      213: -7213611353175648617
-    second: Skeleton enemy_29
+      213: -7725030298432203558
+    second: Esqueleto_Andar_3
   - first:
-      213: 3978353915906207673
-    second: Skeleton enemy_30
+      213: 7800945409428214993
+    second: Esqueleto_Andar_4
   - first:
-      213: -3238468278916570848
-    second: Skeleton enemy_31
+      213: -2259422015985922716
+    second: Esqueleto_Andar_5
   - first:
-      213: -8619853186011431500
-    second: Skeleton enemy_32
+      213: -4063213942272071492
+    second: Esqueleto_Andar_6
   - first:
-      213: 4625816606421005513
-    second: Skeleton enemy_33
+      213: 1082725530151842231
+    second: Esqueleto_Andar_7
   - first:
-      213: -6819641155109389077
-    second: Skeleton enemy_34
+      213: 3711374865545451543
+    second: Esqueleto_Andar_8
   - first:
-      213: 5789935519133889292
-    second: Skeleton enemy_35
+      213: 7313909848355244834
+    second: Esqueleto_Andar_9
   - first:
-      213: 8145106839956665129
-    second: Skeleton enemy_36
+      213: 2909567042750134495
+    second: Esqueleto_Andar_10
   - first:
-      213: -862854591641819843
-    second: Skeleton enemy_37
+      213: -6158538600373927340
+    second: Esqueleto_Andar_11
   - first:
-      213: -1492088842765610512
-    second: Skeleton enemy_38
+      213: 1437937757096124929
+    second: Esqueleto_Parado_0
   - first:
-      213: -8068354712703553056
-    second: Skeleton enemy_39
+      213: -5433583919582063349
+    second: Esqueleto_Parado_1
   - first:
-      213: 5015575561642519280
-    second: Skeleton enemy_40
+      213: 77465499349936859
+    second: Esqueleto_Parado_2
   - first:
-      213: -3857987652739811041
-    second: Skeleton enemy_41
+      213: 5902327441734216602
+    second: Esqueleto_Parado_3
   - first:
-      213: 1058141771445020729
-    second: Skeleton enemy_42
+      213: -3143924493405168074
+    second: Esqueleto_Dano_0
   - first:
-      213: -4619378450006378782
-    second: Skeleton enemy_43
+      213: -281413971293569373
+    second: Esqueleto_Dano_1
   - first:
-      213: 6633196986395104502
-    second: Skeleton enemy_44
-  - first:
-      213: -1795847655132535910
-    second: Skeleton enemy_45
-  - first:
-      213: -6102231720097055162
-    second: Skeleton enemy_46
-  - first:
-      213: 4874424467986802822
-    second: Skeleton enemy_47
-  - first:
-      213: 8691063690198233308
-    second: Skeleton enemy_48
+      213: -310815586866449852
+    second: Esqueleto_Dano_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -181,7 +169,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -195,7 +183,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 36
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -219,7 +207,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -232,7 +220,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -244,1079 +232,991 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Skeleton enemy_0
+      name: Esqueleto_Ataque_0
       rect:
         serializedVersion: 2
-        x: 7
-        y: 271
-        width: 36
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.4375, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5151a2d97dc5e7160800000000000000
-      internalID: 7025154549869057301
+      spriteID: 621e15813c314f2d88c8e6ff171ebc0a
+      internalID: -113617412488171292
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton enemy_1
+      name: Esqueleto_Ataque_1
       rect:
         serializedVersion: 2
-        x: 68
-        y: 271
-        width: 39
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.4375, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2bcc81edf030561f0800000000000000
-      internalID: -1052431571235582798
+      spriteID: 22f09bb32ae34451a02358afbac5b2ba
+      internalID: 7818118854246308322
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton enemy_2
+      name: Esqueleto_Ataque_2
       rect:
         serializedVersion: 2
         x: 128
-        y: 271
-        width: 43
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f3aee97f3e6c38d80800000000000000
-      internalID: -8249531409998353857
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Skeleton enemy_3
-      rect:
-        serializedVersion: 2
-        x: 195
-        y: 271
-        width: 40
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5936190d9441c80b0800000000000000
-      internalID: -5725178719030385771
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Skeleton enemy_4
-      rect:
-        serializedVersion: 2
-        x: 268
-        y: 271
-        width: 53
-        height: 42
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3765b1a4fee81b3c0800000000000000
-      internalID: -4345535007044184461
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Skeleton enemy_5
-      rect:
-        serializedVersion: 2
-        x: 334
-        y: 271
-        width: 33
-        height: 41
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4b1392df1954844a0800000000000000
-      internalID: -6608955959846293068
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Skeleton enemy_6
-      rect:
-        serializedVersion: 2
-        x: 400
-        y: 271
-        width: 28
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f06548946c86a3520800000000000000
-      internalID: 2682571728898774543
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Skeleton enemy_7
-      rect:
-        serializedVersion: 2
-        x: 465
-        y: 271
-        width: 27
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fb0dacf334d6e3730800000000000000
-      internalID: 3980739256242589887
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Skeleton enemy_8
-      rect:
-        serializedVersion: 2
-        x: 513
-        y: 271
+        y: 256
         width: 64
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 64
+      alignment: 9
+      pivot: {x: 0.4375, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d01eab9f88d703350800000000000000
-      internalID: 5994429131288928525
+      spriteID: 2257570e2307415eac062f71345b7af9
+      internalID: 6448745891573871226
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton enemy_9
+      name: Esqueleto_Ataque_3
       rect:
         serializedVersion: 2
-        x: 578
-        y: 271
-        width: 41
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.4375, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c6e78a7ffb4e29c70800000000000000
-      internalID: 8976488520447721068
+      spriteID: 974733a4d9d641819b5de84561b8a77f
+      internalID: -3907853479182050363
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton enemy_10
+      name: Esqueleto_Ataque_4
       rect:
         serializedVersion: 2
-        x: 645
-        y: 271
-        width: 38
-        height: 38
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 256
+        y: 256
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.4375, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a4481c6c0620563c0800000000000000
-      internalID: -4367081648991140790
+      spriteID: b5c5cdf4d3ad49aeb4c30cce63d4fa29
+      internalID: 7857099448675442385
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton enemy_11
+      name: Esqueleto_Ataque_5
       rect:
         serializedVersion: 2
-        x: 705
-        y: 271
-        width: 42
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 320
+        y: 256
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.4375, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 877507cbf1d512630800000000000000
-      internalID: 3900501143166408568
+      spriteID: d92ce50179dd41fda151d1c803f1fb1d
+      internalID: -596057782658550471
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton enemy_12
+      name: Esqueleto_Ataque_6
       rect:
         serializedVersion: 2
-        x: 775
-        y: 271
-        width: 36
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 384
+        y: 256
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.4375, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 708b2a968ac979de0800000000000000
-      internalID: -1326419318096611321
+      spriteID: cbe233a7b0344f9baba8df9ad8a4b8e0
+      internalID: -44172093238841635
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton enemy_13
+      name: Esqueleto_Ataque_7
       rect:
         serializedVersion: 2
-        x: 8
-        y: 206
-        width: 34
-        height: 36
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 448
+        y: 256
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.4375, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b4fdc4c9e4ec10b30800000000000000
-      internalID: 4251906360239513419
+      spriteID: 85a3115a8960474094755251ee7528a3
+      internalID: 1386954031276320041
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton enemy_14
+      name: Esqueleto_Ataque_8
       rect:
         serializedVersion: 2
-        x: 72
-        y: 206
-        width: 34
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 512
+        y: 256
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.4375, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bf3d13ea4eaa9b420800000000000000
-      internalID: 2646334155208643579
+      spriteID: da9671693089446cb91b733efa285463
+      internalID: -1966243726020004811
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton enemy_15
+      name: Esqueleto_Ataque_9
       rect:
         serializedVersion: 2
-        x: 136
-        y: 206
-        width: 33
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 576
+        y: 256
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.4375, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9b9c4d7a674e97cc0800000000000000
-      internalID: -3712685219517249095
+      spriteID: 139e5c908f1149ff90eb4189a7c3b881
+      internalID: 1953620069739029163
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton enemy_16
+      name: Esqueleto_Ataque_10
       rect:
         serializedVersion: 2
-        x: 200
-        y: 206
-        width: 37
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 640
+        y: 256
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.4375, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 38b1293239a1a8bd0800000000000000
-      internalID: -2627258213357970557
+      spriteID: 3fb8521bb5434fe6b6bf5018ce310c8f
+      internalID: 8520754304241982313
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton enemy_17
+      name: Esqueleto_Ataque_11
       rect:
         serializedVersion: 2
-        x: 276
-        y: 207
-        width: 27
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 704
+        y: 256
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.4375, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fc5acb01ec8506f00800000000000000
-      internalID: 1107983150400447951
+      spriteID: 1f12f6d3c7934e989a1d4e6ee1b582d4
+      internalID: -5168302526177194761
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton enemy_18
+      name: Esqueleto_Ataque_12
       rect:
         serializedVersion: 2
-        x: 328
-        y: 206
-        width: 40
-        height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 768
+        y: 256
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.4375, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 558af68f0097254f0800000000000000
-      internalID: -841477135289833387
+      spriteID: bed20085b776416dbdf5de648020af85
+      internalID: -120636133350923586
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton enemy_19
+      name: Esqueleto_Morte_0
       rect:
         serializedVersion: 2
-        x: 360
-        y: 230
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.4375, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f0697581708124400800000000000000
-      internalID: 306834143366845967
+      spriteID: 93b3743ebb144f4ea133f65875a6b47d
+      internalID: 8204005279984571089
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton enemy_20
+      name: Esqueleto_Morte_1
       rect:
         serializedVersion: 2
-        x: 414
-        y: 224
-        width: 15
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.4375, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ba45eeca4de06b8a0800000000000000
-      internalID: -6289823522979162965
+      spriteID: d7e10872124e42a6a11aabcc5f48d402
+      internalID: -5517507121762707023
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton enemy_21
+      name: Esqueleto_Morte_2
       rect:
         serializedVersion: 2
-        x: 478
-        y: 227
-        width: 14
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.4375, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e91993b90f2501670800000000000000
-      internalID: 8507390889452736926
+      spriteID: 5b68ddbae4ff429eb3f14a6e41102585
+      internalID: -8643903276407465230
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton enemy_22
+      name: Esqueleto_Morte_3
       rect:
         serializedVersion: 2
-        x: 520
-        y: 206
-        width: 44
-        height: 36
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.4375, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2d312f8c64bf28050800000000000000
-      internalID: 5801475551444210642
+      spriteID: 1ed1c6fdcc064701b5e2d696edef9931
+      internalID: -7796215977876811523
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton enemy_23
+      name: Esqueleto_Morte_4
       rect:
         serializedVersion: 2
-        x: 584
-        y: 206
-        width: 44
-        height: 36
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.4375, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 15abcaa2934167820800000000000000
-      internalID: 2915540044530629201
+      spriteID: 68714605ecdf46b79d278d9638290338
+      internalID: 5718337467364585368
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton enemy_24
+      name: Esqueleto_Morte_5
       rect:
         serializedVersion: 2
-        x: 648
-        y: 206
-        width: 44
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.4375, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4d202a52bbced3fd0800000000000000
-      internalID: -2360470341137857836
+      spriteID: 0ce9d55e1adb42cd8847db2bdb3d5963
+      internalID: 6647697889140607773
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton enemy_25
+      name: Esqueleto_Morte_6
       rect:
         serializedVersion: 2
-        x: 712
-        y: 206
-        width: 44
-        height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 384
+        y: 192
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.4375, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a98c329da75c93510800000000000000
-      internalID: 1529470679888677018
+      spriteID: aa3c8d5c118943c4a2abea5358c34263
+      internalID: 3723275529464281037
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton enemy_26
+      name: Esqueleto_Morte_7
       rect:
         serializedVersion: 2
-        x: 264
-        y: 206
-        width: 20
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 448
+        y: 192
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.4375, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f7dca2abf0233bf20800000000000000
-      internalID: 3437145983743085951
+      spriteID: 415a8d0811364a3ba9de4c43fad16217
+      internalID: -8976449753326224757
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton enemy_27
+      name: Esqueleto_Morte_8
       rect:
         serializedVersion: 2
-        x: 392
-        y: 206
-        width: 44
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 512
+        y: 192
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.4375, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e8b55211dee2d6a60800000000000000
-      internalID: 7668837336211610510
+      spriteID: 995586fdaf6349fc8f243cc01d04146f
+      internalID: -5750329267916801169
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton enemy_28
+      name: Esqueleto_Morte_9
       rect:
         serializedVersion: 2
-        x: 456
-        y: 206
-        width: 44
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 576
+        y: 192
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.4375, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a7b55f53e9dc32af0800000000000000
-      internalID: -422267860648895622
+      spriteID: 814be8752eb647b69fa24fd89da30fc3
+      internalID: 5184543249096623302
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton enemy_29
+      name: Esqueleto_Morte_10
       rect:
         serializedVersion: 2
-        x: 776
-        y: 206
-        width: 44
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 640
+        y: 192
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.4375, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7969d3291ba14eb90800000000000000
-      internalID: -7213611353175648617
+      spriteID: e97692cc0cb541be9224e58ddf73d7e0
+      internalID: 6561665119641941382
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton enemy_30
+      name: Esqueleto_Morte_11
       rect:
         serializedVersion: 2
-        x: 4
-        y: 142
-        width: 38
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 704
+        y: 192
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.4375, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9bfaf5ceec3f53730800000000000000
-      internalID: 3978353915906207673
+      spriteID: 3e1a824ca1b643be93dab22bfe50458e
+      internalID: 469093703777134990
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton enemy_31
+      name: Esqueleto_Morte_12
       rect:
         serializedVersion: 2
-        x: 69
-        y: 142
-        width: 37
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 768
+        y: 192
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.4375, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 021aeca2246ae03d0800000000000000
-      internalID: -3238468278916570848
+      spriteID: c038dbcf0a2b4f4e946e0995787dfc2d
+      internalID: -7744467600301903540
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton enemy_32
+      name: Esqueleto_Andar_0
       rect:
         serializedVersion: 2
-        x: 133
-        y: 142
-        width: 37
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.4375, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4bdf4cf7231206880800000000000000
-      internalID: -8619853186011431500
+      spriteID: 304640f9fb7f44918731e85e850680cf
+      internalID: 1905465049628923890
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton enemy_33
+      name: Esqueleto_Andar_1
       rect:
         serializedVersion: 2
-        x: 197
-        y: 142
-        width: 37
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.4375, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9c4b3d5e1b3323040800000000000000
-      internalID: 4625816606421005513
+      spriteID: 8b9e88636ec34980a1c7e9477d8664ef
+      internalID: 5444024879719671182
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton enemy_34
+      name: Esqueleto_Andar_2
       rect:
         serializedVersion: 2
-        x: 260
-        y: 142
-        width: 38
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.4375, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: becf11e5084cb51a0800000000000000
-      internalID: -6819641155109389077
+      spriteID: 8e991b7a02244e1dbffd55a5e5f1c61a
+      internalID: 186149560916439078
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton enemy_35
+      name: Esqueleto_Andar_3
       rect:
         serializedVersion: 2
-        x: 324
-        y: 142
-        width: 38
-        height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.4375, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c037462adabf95050800000000000000
-      internalID: 5789935519133889292
+      spriteID: ffd26cc6e62f42028d8d12256fc6bdfb
+      internalID: -7725030298432203558
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton enemy_36
+      name: Esqueleto_Andar_4
       rect:
         serializedVersion: 2
-        x: 388
-        y: 142
-        width: 38
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.4375, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 923b83d248b390170800000000000000
-      internalID: 8145106839956665129
+      spriteID: 17b86d127d3f4a3d9700d008024193de
+      internalID: 7800945409428214993
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton enemy_37
+      name: Esqueleto_Andar_5
       rect:
         serializedVersion: 2
-        x: 451
-        y: 142
-        width: 40
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.4375, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d35ef5c02568604f0800000000000000
-      internalID: -862854591641819843
+      spriteID: dc9297a4b65442a6b3cc85c3e37f2a0a
+      internalID: -2259422015985922716
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton enemy_38
+      name: Esqueleto_Andar_6
       rect:
         serializedVersion: 2
-        x: 515
-        y: 142
-        width: 40
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 384
+        y: 128
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.4375, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0f1d1a95a190b4be0800000000000000
-      internalID: -1492088842765610512
+      spriteID: 47d6d8a4fb4b4852b2a58ff62c8a2c23
+      internalID: -4063213942272071492
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton enemy_39
+      name: Esqueleto_Andar_7
       rect:
         serializedVersion: 2
-        x: 579
-        y: 142
-        width: 40
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 448
+        y: 128
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.4375, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0e1b4730322770090800000000000000
-      internalID: -8068354712703553056
+      spriteID: d1b38775e33e4bafaa0487223d86da34
+      internalID: 1082725530151842231
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton enemy_40
+      name: Esqueleto_Andar_8
       rect:
         serializedVersion: 2
-        x: 644
-        y: 142
-        width: 39
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 512
+        y: 128
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.4375, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0fa25df4667ea9540800000000000000
-      internalID: 5015575561642519280
+      spriteID: 5dd2eedaf5be4c1c99639a28c397a5bb
+      internalID: 3711374865545451543
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton enemy_41
+      name: Esqueleto_Andar_9
       rect:
         serializedVersion: 2
-        x: 708
-        y: 142
-        width: 39
-        height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 576
+        y: 128
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.4375, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f19b99a9baca57ac0800000000000000
-      internalID: -3857987652739811041
+      spriteID: 0997ae008759467b96fcebc170e34a47
+      internalID: 7313909848355244834
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton enemy_42
+      name: Esqueleto_Andar_10
       rect:
         serializedVersion: 2
-        x: 8
-        y: 78
-        width: 35
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 640
+        y: 128
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.4375, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 938abf8b5564fae00800000000000000
-      internalID: 1058141771445020729
+      spriteID: b69fa582f1d94ccab70e56d2f821e789
+      internalID: 2909567042750134495
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton enemy_43
+      name: Esqueleto_Andar_11
       rect:
         serializedVersion: 2
-        x: 72
-        y: 78
-        width: 36
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 704
+        y: 128
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.4375, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2e6764436cba4efb0800000000000000
-      internalID: -4619378450006378782
+      spriteID: 4d053bacb2ca461ea8f8362e335924c4
+      internalID: -6158538600373927340
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton enemy_44
+      name: Esqueleto_Parado_0
       rect:
         serializedVersion: 2
-        x: 136
-        y: 78
-        width: 37
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.4375, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6f49543d389dd0c50800000000000000
-      internalID: 6633196986395104502
+      spriteID: cfddc24fa98b4bf6b14656415147eb53
+      internalID: 1437937757096124929
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton enemy_45
+      name: Esqueleto_Parado_1
       rect:
         serializedVersion: 2
-        x: 200
-        y: 78
-        width: 36
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.4375, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a936b1d821ed317e0800000000000000
-      internalID: -1795847655132535910
+      spriteID: 73983c45a4964ae2bc21998c1d4479cb
+      internalID: -5433583919582063349
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton enemy_46
+      name: Esqueleto_Parado_2
       rect:
         serializedVersion: 2
-        x: 8
-        y: 14
-        width: 34
-        height: 36
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.4375, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 64e7e72e494805ba0800000000000000
-      internalID: -6102231720097055162
+      spriteID: 043f26d279104704be09c14551139fb0
+      internalID: 77465499349936859
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton enemy_47
+      name: Esqueleto_Parado_3
       rect:
         serializedVersion: 2
-        x: 72
-        y: 14
-        width: 34
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.4375, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 68863d25a3f65a340800000000000000
-      internalID: 4874424467986802822
+      spriteID: 1410c72e7c984f2c819c213d64546088
+      internalID: 5902327441734216602
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Skeleton enemy_48
+      name: Esqueleto_Dano_0
       rect:
         serializedVersion: 2
-        x: 136
-        y: 14
-        width: 34
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.4375, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cd0bf86016cdc9870800000000000000
-      internalID: 8691063690198233308
+      spriteID: 3d97305a5956443499af39338b71b7ae
+      internalID: -3143924493405168074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Esqueleto_Dano_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.4375, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7015278e86824f3ba99824974cfd3054
+      internalID: -281413971293569373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Esqueleto_Dano_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.4375, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa85e5194ab8409585f5db7c29585a76
+      internalID: -310815586866449852
       vertices: []
       indices: 
       edges: []
@@ -1335,55 +1235,51 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Skeleton enemy_0: 7025154549869057301
-      Skeleton enemy_1: -1052431571235582798
-      Skeleton enemy_10: -4367081648991140790
-      Skeleton enemy_11: 3900501143166408568
-      Skeleton enemy_12: -1326419318096611321
-      Skeleton enemy_13: 4251906360239513419
-      Skeleton enemy_14: 2646334155208643579
-      Skeleton enemy_15: -3712685219517249095
-      Skeleton enemy_16: -2627258213357970557
-      Skeleton enemy_17: 1107983150400447951
-      Skeleton enemy_18: -841477135289833387
-      Skeleton enemy_19: 306834143366845967
-      Skeleton enemy_2: -8249531409998353857
-      Skeleton enemy_20: -6289823522979162965
-      Skeleton enemy_21: 8507390889452736926
-      Skeleton enemy_22: 5801475551444210642
-      Skeleton enemy_23: 2915540044530629201
-      Skeleton enemy_24: -2360470341137857836
-      Skeleton enemy_25: 1529470679888677018
-      Skeleton enemy_26: 3437145983743085951
-      Skeleton enemy_27: 7668837336211610510
-      Skeleton enemy_28: -422267860648895622
-      Skeleton enemy_29: -7213611353175648617
-      Skeleton enemy_3: -5725178719030385771
-      Skeleton enemy_30: 3978353915906207673
-      Skeleton enemy_31: -3238468278916570848
-      Skeleton enemy_32: -8619853186011431500
-      Skeleton enemy_33: 4625816606421005513
-      Skeleton enemy_34: -6819641155109389077
-      Skeleton enemy_35: 5789935519133889292
-      Skeleton enemy_36: 8145106839956665129
-      Skeleton enemy_37: -862854591641819843
-      Skeleton enemy_38: -1492088842765610512
-      Skeleton enemy_39: -8068354712703553056
-      Skeleton enemy_4: -4345535007044184461
-      Skeleton enemy_40: 5015575561642519280
-      Skeleton enemy_41: -3857987652739811041
-      Skeleton enemy_42: 1058141771445020729
-      Skeleton enemy_43: -4619378450006378782
-      Skeleton enemy_44: 6633196986395104502
-      Skeleton enemy_45: -1795847655132535910
-      Skeleton enemy_46: -6102231720097055162
-      Skeleton enemy_47: 4874424467986802822
-      Skeleton enemy_48: 8691063690198233308
-      Skeleton enemy_5: -6608955959846293068
-      Skeleton enemy_6: 2682571728898774543
-      Skeleton enemy_7: 3980739256242589887
-      Skeleton enemy_8: 5994429131288928525
-      Skeleton enemy_9: 8976488520447721068
+      Esqueleto_Ataque_0: -113617412488171292
+      Esqueleto_Ataque_1: 7818118854246308322
+      Esqueleto_Ataque_2: 6448745891573871226
+      Esqueleto_Ataque_3: -3907853479182050363
+      Esqueleto_Ataque_4: 7857099448675442385
+      Esqueleto_Ataque_5: -596057782658550471
+      Esqueleto_Ataque_6: -44172093238841635
+      Esqueleto_Ataque_7: 1386954031276320041
+      Esqueleto_Ataque_8: -1966243726020004811
+      Esqueleto_Ataque_9: 1953620069739029163
+      Esqueleto_Ataque_10: 8520754304241982313
+      Esqueleto_Ataque_11: -5168302526177194761
+      Esqueleto_Ataque_12: -120636133350923586
+      Esqueleto_Morte_0: 8204005279984571089
+      Esqueleto_Morte_1: -5517507121762707023
+      Esqueleto_Morte_2: -8643903276407465230
+      Esqueleto_Morte_3: -7796215977876811523
+      Esqueleto_Morte_4: 5718337467364585368
+      Esqueleto_Morte_5: 6647697889140607773
+      Esqueleto_Morte_6: 3723275529464281037
+      Esqueleto_Morte_7: -8976449753326224757
+      Esqueleto_Morte_8: -5750329267916801169
+      Esqueleto_Morte_9: 5184543249096623302
+      Esqueleto_Morte_10: 6561665119641941382
+      Esqueleto_Morte_11: 469093703777134990
+      Esqueleto_Morte_12: -7744467600301903540
+      Esqueleto_Andar_0: 1905465049628923890
+      Esqueleto_Andar_1: 5444024879719671182
+      Esqueleto_Andar_2: 186149560916439078
+      Esqueleto_Andar_3: -7725030298432203558
+      Esqueleto_Andar_4: 7800945409428214993
+      Esqueleto_Andar_5: -2259422015985922716
+      Esqueleto_Andar_6: -4063213942272071492
+      Esqueleto_Andar_7: 1082725530151842231
+      Esqueleto_Andar_8: 3711374865545451543
+      Esqueleto_Andar_9: 7313909848355244834
+      Esqueleto_Andar_10: 2909567042750134495
+      Esqueleto_Andar_11: -6158538600373927340
+      Esqueleto_Parado_0: 1437937757096124929
+      Esqueleto_Parado_1: -5433583919582063349
+      Esqueleto_Parado_2: 77465499349936859
+      Esqueleto_Parado_3: 5902327441734216602
+      Esqueleto_Dano_0: -3143924493405168074
+      Esqueleto_Dano_1: -281413971293569373
+      Esqueleto_Dano_2: -310815586866449852
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

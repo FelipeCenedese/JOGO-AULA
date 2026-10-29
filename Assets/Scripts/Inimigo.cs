@@ -31,6 +31,7 @@ public class Inimigo : MonoBehaviour
     public int danoAtaque = 1;
     public float momentoAcerto = 0.3f;       // segundos depois de começar o ataque em que a lança acerta
     public float duracaoAtaque = 0.9f;       // tempo total do ataque (igual à animação)
+    public float momentoAcerto2 = 0f;        // segundo acerto no mesmo ataque (0 = não tem). O Esqueleto usa, o Lanceiro não
     public float recargaAtaque = 1.2f;       // espera entre um ataque e outro
 
     [Header("Encostar no player")]
@@ -210,18 +211,31 @@ public class Inimigo : MonoBehaviour
         TocarAnimacao("Inimigo_Ataque", true);
 
         yield return new WaitForSeconds(momentoAcerto);
+        AcertarGolpe();
+        float tempoPassado = momentoAcerto;
 
+        // Segundo acerto (só se momentoAcerto2 estiver preenchido)
+        if (momentoAcerto2 > momentoAcerto)
+        {
+            yield return new WaitForSeconds(momentoAcerto2 - momentoAcerto);
+            AcertarGolpe();
+            tempoPassado = momentoAcerto2;
+        }
+
+        yield return new WaitForSeconds(Mathf.Max(0f, duracaoAtaque - tempoPassado));
+
+        atacando = false;
+        TocarAnimacao("Inimigo_Parado");
+    }
+
+    void AcertarGolpe()
+    {
         Vector2 centro = (Vector2)col.bounds.center + new Vector2(lado * alcanceAtaque, 0);
         foreach (var alvo in Physics2D.OverlapCircleAll(centro, alcanceAtaque))
         {
             var vidaPlayer = alvo.GetComponent<PlayerVida>();
             if (vidaPlayer != null) vidaPlayer.LevarDano(danoAtaque, transform.position);
         }
-
-        yield return new WaitForSeconds(Mathf.Max(0f, duracaoAtaque - momentoAcerto));
-
-        atacando = false;
-        TocarAnimacao("Inimigo_Parado");
     }
 
     // ================= Levar dano (chamado pelo ataque do Player) =================
@@ -265,15 +279,26 @@ public class Inimigo : MonoBehaviour
     {
         morto = true;
         Almas.Adicionar(almasAoMorrer);
-        TocarAnimacao("Inimigo_Dano", true);
-        if (sr != null) sr.color = corDano;
 
         rb.linearVelocity = Vector2.zero;
         rb.bodyType = RigidbodyType2D.Kinematic;
         col.enabled = false;
 
-        yield return new WaitForSeconds(0.15f);
-        if (anim != null) anim.speed = 0;   // congela no quadro de dano
+        if (TemAnimacao("Inimigo_Morte"))
+        {
+            // Tem animação de morte (Esqueleto): toca inteira e depois some
+            TocarAnimacao("Inimigo_Morte", true);
+            yield return null;
+            yield return new WaitForSeconds(anim.GetCurrentAnimatorStateInfo(0).length);
+        }
+        else
+        {
+            // Sem animação de morte (Lanceiro): fica vermelho e congela no quadro de dano
+            TocarAnimacao("Inimigo_Dano", true);
+            if (sr != null) sr.color = corDano;
+            yield return new WaitForSeconds(0.15f);
+            if (anim != null) anim.speed = 0;
+        }
 
         float t = 0;
         while (t < tempoParaSumir)
@@ -327,6 +352,11 @@ public class Inimigo : MonoBehaviour
         Vector3 escala = transform.localScale;
         escala.x = Mathf.Abs(escala.x) * (lado > 0 ? 1 : -1);
         transform.localScale = escala;
+    }
+
+    bool TemAnimacao(string nome)
+    {
+        return anim != null && anim.runtimeAnimatorController != null && anim.HasState(0, Animator.StringToHash(nome));
     }
 
     // Só toca se o inimigo tiver Animator e uma animação com esse nome
