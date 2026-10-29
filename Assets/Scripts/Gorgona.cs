@@ -20,6 +20,7 @@ public class Gorgona : MonoBehaviour
 
     [Header("Vida")]
     public int vidaMaxima = 12;
+    public int almasAoMorrer = 140;          // almas que o player ganha ao matar
 
     [Header("Patrulha")]
     public float velocidade = 1.2f;
@@ -290,6 +291,7 @@ public class Gorgona : MonoBehaviour
     IEnumerator Morrer()
     {
         morto = true;
+        Almas.Adicionar(almasAoMorrer);
         if (sr != null) sr.color = corOriginal;
         TocarAnimacao("Gorgona_Morte", true);
 

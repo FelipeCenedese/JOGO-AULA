@@ -10,6 +10,7 @@ public class Inimigo : MonoBehaviour
 {
     [Header("Vida")]
     public int vidaMaxima = 5;
+    public int almasAoMorrer = 10;           // almas que o player ganha ao matar
 
     [Header("Patrulha")]
     public float velocidade = 1.5f;
@@ -263,6 +264,7 @@ public class Inimigo : MonoBehaviour
     IEnumerator Morrer()
     {
         morto = true;
+        Almas.Adicionar(almasAoMorrer);
         TocarAnimacao("Inimigo_Dano", true);
         if (sr != null) sr.color = corDano;
 
