@@ -8493,8 +8493,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::CameraSegue
   alvo: {fileID: 1175049599}
-  deslocamento: {x: 3.8, y: 0.5, z: -10}
-  tamanho: 4
+  deslocamento: {x: 0, y: 0.8, z: -10}
+  tamanho: 3
   tempoSuavizacao: 0.15
   olharAFrente: 0
 --- !u!114 &1658801095
