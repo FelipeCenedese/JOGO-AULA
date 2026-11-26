@@ -1,0 +1,3913 @@
+fileFormatVersion: 2
+guid: 525cedc63ad84428a2c396101f0b7293
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8281388538911101846
+    second: CavaleiroBrasa_0
+  - first:
+      213: -2232978990440098802
+    second: CavaleiroBrasa_1
+  - first:
+      213: -6320189307720328637
+    second: CavaleiroBrasa_2
+  - first:
+      213: -7011604967044199072
+    second: CavaleiroBrasa_3
+  - first:
+      213: 106669155472929719
+    second: CavaleiroBrasa_4
+  - first:
+      213: -3008760551560321864
+    second: CavaleiroBrasa_5
+  - first:
+      213: 4017274107449282252
+    second: CavaleiroBrasa_6
+  - first:
+      213: 2383796728636201799
+    second: CavaleiroBrasa_7
+  - first:
+      213: -1004069775450619742
+    second: CavaleiroBrasa_8
+  - first:
+      213: -4163825005477207346
+    second: CavaleiroBrasa_9
+  - first:
+      213: 308827339218829782
+    second: CavaleiroBrasa_10
+  - first:
+      213: -1777688972164610556
+    second: CavaleiroBrasa_11
+  - first:
+      213: -278875651509030973
+    second: CavaleiroBrasa_12
+  - first:
+      213: -4489955695333113869
+    second: CavaleiroBrasa_13
+  - first:
+      213: 2052595360626513255
+    second: CavaleiroBrasa_14
+  - first:
+      213: -4027947925460430379
+    second: CavaleiroBrasa_15
+  - first:
+      213: 7736117467232692430
+    second: CavaleiroBrasa_16
+  - first:
+      213: 6030708279384906409
+    second: CavaleiroBrasa_17
+  - first:
+      213: 8188997142920656354
+    second: CavaleiroBrasa_18
+  - first:
+      213: -5002338675227937371
+    second: CavaleiroBrasa_19
+  - first:
+      213: -1453769262591798191
+    second: CavaleiroBrasa_20
+  - first:
+      213: -4645458708330929942
+    second: CavaleiroBrasa_21
+  - first:
+      213: 635558592022960034
+    second: CavaleiroBrasa_22
+  - first:
+      213: -1411644699085739937
+    second: CavaleiroBrasa_23
+  - first:
+      213: 1426935675010999780
+    second: CavaleiroBrasa_24
+  - first:
+      213: 8281156601789986508
+    second: CavaleiroBrasa_25
+  - first:
+      213: 5839714654244776434
+    second: CavaleiroBrasa_26
+  - first:
+      213: 8682292673174234542
+    second: CavaleiroBrasa_27
+  - first:
+      213: -1425579463535614597
+    second: CavaleiroBrasa_28
+  - first:
+      213: 6096364497171464831
+    second: CavaleiroBrasa_29
+  - first:
+      213: 2538903638722766015
+    second: CavaleiroBrasa_30
+  - first:
+      213: 2068418664306464008
+    second: CavaleiroBrasa_31
+  - first:
+      213: 3568959706101480951
+    second: CavaleiroBrasa_32
+  - first:
+      213: -8768810338268650771
+    second: CavaleiroBrasa_33
+  - first:
+      213: -5861361080856407281
+    second: CavaleiroBrasa_34
+  - first:
+      213: -642537945764569357
+    second: CavaleiroBrasa_35
+  - first:
+      213: -5104990460617224067
+    second: CavaleiroBrasa_36
+  - first:
+      213: 5694225521880828628
+    second: CavaleiroBrasa_37
+  - first:
+      213: -7345567794881702422
+    second: CavaleiroBrasa_38
+  - first:
+      213: 7435390182529229724
+    second: CavaleiroBrasa_39
+  - first:
+      213: -4192619105846603265
+    second: CavaleiroBrasa_40
+  - first:
+      213: 8625721357709004995
+    second: CavaleiroBrasa_41
+  - first:
+      213: -6768895905148155695
+    second: CavaleiroBrasa_42
+  - first:
+      213: -7897715719282433752
+    second: CavaleiroBrasa_43
+  - first:
+      213: 1359791774432885800
+    second: CavaleiroBrasa_44
+  - first:
+      213: -7351394229365269423
+    second: CavaleiroBrasa_45
+  - first:
+      213: -4182776371403920006
+    second: CavaleiroBrasa_46
+  - first:
+      213: -6075960667998181646
+    second: CavaleiroBrasa_47
+  - first:
+      213: 8892163209609785280
+    second: CavaleiroBrasa_48
+  - first:
+      213: 5784242554916283988
+    second: CavaleiroBrasa_49
+  - first:
+      213: 7014093859271687595
+    second: CavaleiroBrasa_50
+  - first:
+      213: 7343718328799039083
+    second: CavaleiroBrasa_51
+  - first:
+      213: 4806519033277895049
+    second: CavaleiroBrasa_52
+  - first:
+      213: -39252600979630266
+    second: CavaleiroBrasa_53
+  - first:
+      213: 7993327992078034328
+    second: CavaleiroBrasa_54
+  - first:
+      213: -1833229710417083394
+    second: CavaleiroBrasa_55
+  - first:
+      213: 2957959692985774688
+    second: CavaleiroBrasa_56
+  - first:
+      213: -116738717110890799
+    second: CavaleiroBrasa_57
+  - first:
+      213: 5364001332629672965
+    second: CavaleiroBrasa_58
+  - first:
+      213: 7203406898900290765
+    second: CavaleiroBrasa_59
+  - first:
+      213: -753656564115231877
+    second: CavaleiroBrasa_60
+  - first:
+      213: 9023079295417362951
+    second: CavaleiroBrasa_61
+  - first:
+      213: -7234748544744654260
+    second: CavaleiroBrasa_62
+  - first:
+      213: -9123234118963506612
+    second: CavaleiroBrasa_63
+  - first:
+      213: -80967097481927231
+    second: CavaleiroBrasa_64
+  - first:
+      213: -1882406657103578466
+    second: CavaleiroBrasa_65
+  - first:
+      213: 1421152726568617970
+    second: CavaleiroBrasa_66
+  - first:
+      213: 163783929287575879
+    second: CavaleiroBrasa_67
+  - first:
+      213: -7598815062965424895
+    second: CavaleiroBrasa_68
+  - first:
+      213: -6482847714814987439
+    second: CavaleiroBrasa_69
+  - first:
+      213: -4272045376547605229
+    second: CavaleiroBrasa_70
+  - first:
+      213: -1165310025616618606
+    second: CavaleiroBrasa_71
+  - first:
+      213: 46070380350806319
+    second: CavaleiroBrasa_72
+  - first:
+      213: -4181795198782081756
+    second: CavaleiroBrasa_73
+  - first:
+      213: -981943087861631802
+    second: CavaleiroBrasa_74
+  - first:
+      213: -4250263063398897333
+    second: CavaleiroBrasa_75
+  - first:
+      213: -1131781794250191982
+    second: CavaleiroBrasa_76
+  - first:
+      213: -3399861923346803150
+    second: CavaleiroBrasa_77
+  - first:
+      213: -38716882303601473
+    second: CavaleiroBrasa_78
+  - first:
+      213: -6671543138655209436
+    second: CavaleiroBrasa_79
+  - first:
+      213: 3115160420939076382
+    second: CavaleiroBrasa_80
+  - first:
+      213: -934425315684869806
+    second: CavaleiroBrasa_81
+  - first:
+      213: 7854654787478054980
+    second: CavaleiroBrasa_82
+  - first:
+      213: 1652779394669867802
+    second: CavaleiroBrasa_83
+  - first:
+      213: -7039238705446634184
+    second: CavaleiroBrasa_84
+  - first:
+      213: -5990157876085326225
+    second: CavaleiroBrasa_85
+  - first:
+      213: 8859710865854980961
+    second: CavaleiroBrasa_86
+  - first:
+      213: 676405421742295173
+    second: CavaleiroBrasa_87
+  - first:
+      213: -5156183159245094340
+    second: CavaleiroBrasa_88
+  - first:
+      213: -1931941864094904648
+    second: CavaleiroBrasa_89
+  - first:
+      213: -5689359387158162183
+    second: CavaleiroBrasa_90
+  - first:
+      213: -2617004779624889390
+    second: CavaleiroBrasa_91
+  - first:
+      213: 1592170932430407594
+    second: CavaleiroBrasa_92
+  - first:
+      213: -5834204954703179541
+    second: CavaleiroBrasa_93
+  - first:
+      213: 4371783277782791699
+    second: CavaleiroBrasa_94
+  - first:
+      213: -3429054649413883893
+    second: CavaleiroBrasa_95
+  - first:
+      213: -937402918965924391
+    second: CavaleiroBrasa_96
+  - first:
+      213: -1413890304502806763
+    second: CavaleiroBrasa_97
+  - first:
+      213: -726461870811940520
+    second: CavaleiroBrasa_98
+  - first:
+      213: 6232067899535833528
+    second: CavaleiroBrasa_99
+  - first:
+      213: 5331486113440739808
+    second: CavaleiroBrasa_100
+  - first:
+      213: 5871601398515673833
+    second: CavaleiroBrasa_101
+  - first:
+      213: -612680790038122696
+    second: CavaleiroBrasa_102
+  - first:
+      213: 8652715785321525981
+    second: CavaleiroBrasa_103
+  - first:
+      213: 6395351545123063852
+    second: CavaleiroBrasa_104
+  - first:
+      213: 3350668982882745889
+    second: CavaleiroBrasa_105
+  - first:
+      213: 5692229625744629721
+    second: CavaleiroBrasa_106
+  - first:
+      213: 1776755687586525428
+    second: CavaleiroBrasa_107
+  - first:
+      213: -6709678586957928953
+    second: CavaleiroBrasa_108
+  - first:
+      213: -103594918611727780
+    second: CavaleiroBrasa_109
+  - first:
+      213: 4214338581894869696
+    second: CavaleiroBrasa_110
+  - first:
+      213: 3605982857260732274
+    second: CavaleiroBrasa_111
+  - first:
+      213: 8760530780613273492
+    second: CavaleiroBrasa_112
+  - first:
+      213: 5053491875032725441
+    second: CavaleiroBrasa_113
+  - first:
+      213: 2645697765730491416
+    second: CavaleiroBrasa_114
+  - first:
+      213: 5916811287641635223
+    second: CavaleiroBrasa_115
+  - first:
+      213: 624656310128126896
+    second: CavaleiroBrasa_116
+  - first:
+      213: -8272269349959148116
+    second: CavaleiroBrasa_117
+  - first:
+      213: 5553712068888954575
+    second: CavaleiroBrasa_118
+  - first:
+      213: 7011870274453429458
+    second: CavaleiroBrasa_119
+  - first:
+      213: -7977514092903460117
+    second: CavaleiroBrasa_120
+  - first:
+      213: -8561941966706947018
+    second: CavaleiroBrasa_121
+  - first:
+      213: -1647150729965042205
+    second: CavaleiroBrasa_122
+  - first:
+      213: 497567296441210030
+    second: CavaleiroBrasa_123
+  - first:
+      213: 56117251091040803
+    second: CavaleiroBrasa_124
+  - first:
+      213: -349157221938854627
+    second: CavaleiroBrasa_125
+  - first:
+      213: -1536472974019521125
+    second: CavaleiroBrasa_126
+  - first:
+      213: 3698199976932178086
+    second: CavaleiroBrasa_127
+  - first:
+      213: 2028052840202483084
+    second: CavaleiroBrasa_128
+  - first:
+      213: 7575156966747153836
+    second: CavaleiroBrasa_129
+  - first:
+      213: -8545083991780079114
+    second: CavaleiroBrasa_130
+  - first:
+      213: 390083013800553536
+    second: CavaleiroBrasa_131
+  - first:
+      213: -1587968062371837298
+    second: CavaleiroBrasa_132
+  - first:
+      213: 4755845321557015328
+    second: CavaleiroBrasa_133
+  - first:
+      213: 8784590470202331421
+    second: CavaleiroBrasa_134
+  - first:
+      213: 5558486152974394015
+    second: CavaleiroBrasa_135
+  - first:
+      213: 7680203505954317829
+    second: CavaleiroBrasa_136
+  - first:
+      213: -7689277311821929386
+    second: CavaleiroBrasa_137
+  - first:
+      213: 4470427149834242725
+    second: CavaleiroBrasa_138
+  - first:
+      213: 7845432984904630042
+    second: CavaleiroBrasa_139
+  - first:
+      213: 2680513741534511326
+    second: CavaleiroBrasa_140
+  - first:
+      213: -1622051386788091812
+    second: CavaleiroBrasa_141
+  - first:
+      213: 7742656652036305758
+    second: CavaleiroBrasa_142
+  - first:
+      213: 8610233844464504501
+    second: CavaleiroBrasa_143
+  - first:
+      213: -4312679250028828222
+    second: CavaleiroBrasa_144
+  - first:
+      213: 1615896989960391479
+    second: CavaleiroBrasa_145
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 18
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CavaleiroBrasa_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c4e36785ad14d88abc34c184c6d017c
+      internalID: 8281388538911101846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 576
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19dc527319b644258c44c5f139cdb7c7
+      internalID: -2232978990440098802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 576
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12f8b9da53a44365b6c99ece6c8df0a0
+      internalID: -6320189307720328637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d08cfca54544893b302e52a4704d33e
+      internalID: -7011604967044199072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 576
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 623c67898e53446186e8443ad7ddeb86
+      internalID: 106669155472929719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 576
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 059fb274896d49a69f5d21c48918c859
+      internalID: -3008760551560321864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 576
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40f8eb67f77643f3909e505b8f4a99ae
+      internalID: 4017274107449282252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 576
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1cfc5bdce1141fa96a6dd1244d67907
+      internalID: 2383796728636201799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 576
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1231e80859f42119dfeb6eac44f5b61
+      internalID: -1004069775450619742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 576
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df7db8bd80444f2ea5d878123ef0e358
+      internalID: -4163825005477207346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 576
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68a30bc0559a4fa5803cb7ee99f03f6e
+      internalID: 308827339218829782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_11
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 576
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb5307e5f294151accdad8afa6360a2
+      internalID: -1777688972164610556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_12
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 576
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eaaf51bd30f4498b78364da094d858c
+      internalID: -278875651509030973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_13
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 576
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db2c81dcc5e4c5f83aaafb6b685d5ab
+      internalID: -4489955695333113869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_14
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 576
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c8747a811f4d4584b6b66dac98759e
+      internalID: 2052595360626513255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_15
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 576
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c3578ef949d4afcab4c08ca1c72334d
+      internalID: -4027947925460430379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 711c1d0380934ba7860ac708bd36daa9
+      internalID: 7736117467232692430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e80f97a8f0514e15a0766d43cea99193
+      internalID: 6030708279384906409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8870865d9a324f4285faf42a99f75b51
+      internalID: 8188997142920656354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_19
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10235f273eda48d8926d0b15135ad878
+      internalID: -5002338675227937371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_20
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4243ccc66dcf4f54a475cc36850cce33
+      internalID: -1453769262591798191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_21
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 512
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08e9aa293fc941598c48f14ea8b71bce
+      internalID: -4645458708330929942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_22
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 469626de82d64aceb34dbf15a6074893
+      internalID: 635558592022960034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_23
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 512
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe3229a559d422288e023e114721052
+      internalID: -1411644699085739937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_24
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25458e9a99044acd9f67089f5c50fce6
+      internalID: 1426935675010999780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_25
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 512
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce47895d93ce482fb5bdfc96a843d4b4
+      internalID: 8281156601789986508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_26
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 512
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30f486b6e8ef43cd889bdbe0c4e74038
+      internalID: 5839714654244776434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_27
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 512
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f09e8657ecf84021acd4d22be01aadfc
+      internalID: 8682292673174234542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_28
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 512
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32c28ae505134d82ae0d5b8d505c98f8
+      internalID: -1425579463535614597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_29
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 512
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 567e94b3b90e45b18b5f9646591de19f
+      internalID: 6096364497171464831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_30
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 512
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 758fcfe6b40d4219aff8c10226c29662
+      internalID: 2538903638722766015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_31
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 512
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac1a27063f8c4875b36646ced85570d4
+      internalID: 2068418664306464008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2705d5c93ed9440d8a0c3cca7079ed17
+      internalID: 3568959706101480951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_33
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f88217461e407cb516430b2574c201
+      internalID: -8768810338268650771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_34
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c8e14bacfc46cbb719ecaf3c3dae41
+      internalID: -5861361080856407281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_35
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 448
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80938d387a3a4db480d1a99b8ca037b6
+      internalID: -642537945764569357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_36
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 448
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acb97c2793314c8f8d3d061f404f7b41
+      internalID: -5104990460617224067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_37
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 448
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3204e81e9b894121a343292d6a2ecbb4
+      internalID: 5694225521880828628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_38
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 448
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39fb807be6b64a0fb93e7c19e604a4eb
+      internalID: -7345567794881702422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_39
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 448
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 103f83401adc4867a30810f8c9e6c19e
+      internalID: 7435390182529229724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_40
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 448
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 789efef517624650b2a9bd2bbc152761
+      internalID: -4192619105846603265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_41
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 448
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86acea7cc398442195a112da3686ef33
+      internalID: 8625721357709004995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_42
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 448
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0cce4fc88d6485b9d926fe325886a23
+      internalID: -6768895905148155695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_43
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 448
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b90e0a18ab68427b8cafa9532fcb8eba
+      internalID: -7897715719282433752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_44
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 448
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acf6a94b6f2e422b832eb121261fc554
+      internalID: 1359791774432885800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_45
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 448
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a51ac6283bc40c687898f2f0d5736ec
+      internalID: -7351394229365269423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_46
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 448
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce890c086c274a46bd8cdfaad8f4cbc5
+      internalID: -4182776371403920006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_47
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 448
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e55e164ecca4ccdb4df63f683e071ce
+      internalID: -6075960667998181646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef1f4edd8cc43b3a6ccb3f3d7cf3ab6
+      internalID: 8892163209609785280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_49
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a85e434bdc9d44f28e8bcc09e29fd071
+      internalID: 5784242554916283988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_50
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ede9406d8f4a0fb8e26479d87e99bb
+      internalID: 7014093859271687595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_51
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7276940c59c2449392817556b0256100
+      internalID: 7343718328799039083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_52
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55833358122a45e7badb317afa54286d
+      internalID: 4806519033277895049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_53
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83729b759eb5495f984836a43bef39fa
+      internalID: -39252600979630266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_54
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01905702529b44849732e2fd7d9624c5
+      internalID: 7993327992078034328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_55
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 384
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21ec05f75aa84e4dbea45fa2b6f42b24
+      internalID: -1833229710417083394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_56
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 384
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e3e0a99007b49c08ed563bcece0e395
+      internalID: 2957959692985774688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_57
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 384
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d3576d1b4042148b590c039f6f09b7
+      internalID: -116738717110890799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_58
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 384
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c83f85413e42058f28bed01578803c
+      internalID: 5364001332629672965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_59
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 384
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c8503d54a604c7f83351f77143e4838
+      internalID: 7203406898900290765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_60
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 384
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94aeec86433a406a891e60f2750d0113
+      internalID: -753656564115231877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_61
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 384
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c5bccee35049828a6ca4c0b9143472
+      internalID: 9023079295417362951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_62
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 384
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94a02be580d042b584a10f6b66583cf4
+      internalID: -7234748544744654260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_63
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 384
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89343a1a20c64158a854b6f5822a61ba
+      internalID: -9123234118963506612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 090b764da8614ddfa68f8d4296e9d75a
+      internalID: -80967097481927231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_65
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5567fdb2be464c08a69b894f5caee189
+      internalID: -1882406657103578466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_66
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d2bd39b36fa4b85b09c43cdfa6a6247
+      internalID: 1421152726568617970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_67
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9423079d246647dc86fada02160d8424
+      internalID: 163783929287575879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_68
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 320
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f1bdc6e6e341a1817452b958d4c435
+      internalID: -7598815062965424895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_69
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 320
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00a0af9446a1448ab0c326c2d40a39c7
+      internalID: -6482847714814987439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_70
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 320
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 052f5617abd6446e9c9715a9248269e1
+      internalID: -4272045376547605229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_71
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 320
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d33fe4916aed4dada03f5a8d07120012
+      internalID: -1165310025616618606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_72
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 320
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52602a2b5af54cb88f355a688f18e92a
+      internalID: 46070380350806319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_73
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 320
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d2ff98491dc41f8b9999a22c4723dde
+      internalID: -4181795198782081756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_74
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 320
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da3c9f3713f24c1e9a16e144888a4f4b
+      internalID: -981943087861631802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_75
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 320
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4becff36ac394e439f8d243ddb06890a
+      internalID: -4250263063398897333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_76
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 320
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8e9790388594f8380262e21060c47ea
+      internalID: -1131781794250191982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_77
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 320
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f37f69835a3640e696bd070885be0e64
+      internalID: -3399861923346803150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_78
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 320
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae13f7ef24748bfa2f6c0844287ac84
+      internalID: -38716882303601473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_79
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 320
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02cfe4b7a26e4c3f9cd00b0c3f39760f
+      internalID: -6671543138655209436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c86e87e9f3aa4ca0886de4d80cd302ce
+      internalID: 3115160420939076382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_81
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c23f7aa319824af3a7e97d80f77acf92
+      internalID: -934425315684869806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_82
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64d5cf6a76b545fc8f92d0e2ea531aa3
+      internalID: 7854654787478054980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_83
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8566ebfe1b84b6b82654e1d4f5f8230
+      internalID: 1652779394669867802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_84
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29545a6e1aef4772acf2c02ac27e234a
+      internalID: -7039238705446634184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_85
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b49ea9f50784ff9a7f3d0d6e3ce9497
+      internalID: -5990157876085326225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_86
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5f852956fe246dca1393b62dd5e854b
+      internalID: 8859710865854980961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_87
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 256
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0629fbdbd424379852dfac807933131
+      internalID: 676405421742295173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_88
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 256
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c92ccb8aea49b4a9fb03db7a25d3ad
+      internalID: -5156183159245094340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_89
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 256
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db14a85a4ae0419995e47638d56bb104
+      internalID: -1931941864094904648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_90
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 256
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60e7a380258437b84fe40a557d7eca0
+      internalID: -5689359387158162183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_91
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 256
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c013567c851b45208bb35829b902196e
+      internalID: -2617004779624889390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_92
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 256
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da4e334ad8c480190de5666a19f7ee2
+      internalID: 1592170932430407594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_93
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 256
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e28ef7c0f9d84b418e97d1812dca41ae
+      internalID: -5834204954703179541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_94
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 256
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b57df5f88674321ae14e4512847a1bd
+      internalID: 4371783277782791699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_95
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 256
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de64048ab45b4026a52126c7be4a1b84
+      internalID: -3429054649413883893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0282b4e5e83f457ea8ae207ed65b5fe4
+      internalID: -937402918965924391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_97
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce45f22accf6457b960d2d98fdd6fe71
+      internalID: -1413890304502806763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_98
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4673fd235dc4d7d9ac7f063b4b315df
+      internalID: -726461870811940520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_99
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c03dcc7f6ffb40c1941bf6cb324e88af
+      internalID: 6232067899535833528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_100
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 192
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f91003416a4e6e932564389ef20c83
+      internalID: 5331486113440739808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_101
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 192
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09977cca3c8b4f6791d7402282048b8a
+      internalID: 5871601398515673833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_102
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 192
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe7e9c3bfdc495dab5b20364574f575
+      internalID: -612680790038122696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_103
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 192
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5d1dc215f224ce58189683c65681cb5
+      internalID: 8652715785321525981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_104
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 192
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b1bb69437948ad9089d32d0972d10b
+      internalID: 6395351545123063852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_105
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 192
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea04fbb944ea4386809776c65bb4aca6
+      internalID: 3350668982882745889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_106
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 192
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feef16492bf84d21a9773ca51e9beec8
+      internalID: 5692229625744629721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_107
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 192
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b42d3361b834133bcfcf2ef3f2d8767
+      internalID: 1776755687586525428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_108
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 192
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa3d9863781e4a5b99dd68c09b0cf563
+      internalID: -6709678586957928953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_109
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 192
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee77aa75f4dc45b096de98fcb886a2a9
+      internalID: -103594918611727780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_110
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 192
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fd723556243423c95f749971243dec6
+      internalID: 4214338581894869696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_111
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 192
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fca812b7d8547d5ae500bef4fbe0dcc
+      internalID: 3605982857260732274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 453bd08c966f4ab78545a09eba868eb4
+      internalID: 8760530780613273492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_113
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a567771826140b19c6fa6ea767537de
+      internalID: 5053491875032725441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_114
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ec8a7913a34d22867806bd869023c2
+      internalID: 2645697765730491416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_115
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e99b7822596641f1b38236c886aee233
+      internalID: 5916811287641635223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_116
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b65b6952c8a2445db31f38fa5600fd1f
+      internalID: 624656310128126896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_117
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74b28abda16a45c4a5998cd0ba32a7de
+      internalID: -8272269349959148116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_118
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d544205cd449898df713c5b906c73f
+      internalID: 5553712068888954575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_119
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 128
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 938ecdccc3264ff993232077c4a4b38b
+      internalID: 7011870274453429458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_120
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 128
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1478e9ce389e41ddb3de548d7b231cd7
+      internalID: -7977514092903460117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_121
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 128
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 977b458cad9047bd83738107dc2f6629
+      internalID: -8561941966706947018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_122
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 128
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d5c848858684e8ba331e105227f1cd8
+      internalID: -1647150729965042205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_123
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 128
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a13d89a880b9453e81e75d688ed405b3
+      internalID: 497567296441210030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_124
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 128
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dba9e24baf348fe83176022eb7fe4c6
+      internalID: 56117251091040803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_125
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 128
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 294c3a7c5e1d44ea89cca7a1edba4a22
+      internalID: -349157221938854627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_126
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 128
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63687cafed00496da0ef910109376935
+      internalID: -1536472974019521125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_127
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 128
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e55fffa7bf0f46b09623dcd114b6ba9f
+      internalID: 3698199976932178086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a813bac7adde4bd8aea24f2861f17cad
+      internalID: 2028052840202483084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_129
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f3aa6db694a47699ccd96dddf7fc4a4
+      internalID: 7575156966747153836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_130
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ddf0894eeb148c688e62ef01c752861
+      internalID: -8545083991780079114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_131
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff0ff08015d547079c6d6371db8aae51
+      internalID: 390083013800553536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_132
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 64
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f25ebbeb452d47898ecdfc78fd883a58
+      internalID: -1587968062371837298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_133
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db6596fa2fbf436db212851bcf778cfc
+      internalID: 4755845321557015328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_134
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 64
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8071bc0ffd9a4f3c93d093b484ebb223
+      internalID: 8784590470202331421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_135
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 64
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a30a308df347a19d83732e4797b2f7
+      internalID: 5558486152974394015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_136
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 64
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b026c3165844aa4b41e15229c9ab0c3
+      internalID: 7680203505954317829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_137
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 64
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06b4250c16fd455bb4be66cc496cbf9a
+      internalID: -7689277311821929386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_138
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 64
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 154a2cc246564cdbb3513a458fda2ce1
+      internalID: 4470427149834242725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_139
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 64
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f2ddda36354327a0346ecc65c27c8c
+      internalID: 7845432984904630042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_140
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 64
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2750277c65f34846b08e2554c631773b
+      internalID: 2680513741534511326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_141
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 64
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d704305a3d124b4e96a4a1ea2116c877
+      internalID: -1622051386788091812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_142
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 64
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df7ab1c4152f457a9c9d0635ec54e7d6
+      internalID: 7742656652036305758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_143
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 64
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33e425b7d1384c639209b7e02dbcaa14
+      internalID: 8610233844464504501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 638d67f884ab4e1ea0305d0c5a518251
+      internalID: -4312679250028828222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasa_145
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.398, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd29ed0dcc164a80b01712bcff1f7c94
+      internalID: 1615896989960391479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CavaleiroBrasa_0: 8281388538911101846
+      CavaleiroBrasa_1: -2232978990440098802
+      CavaleiroBrasa_2: -6320189307720328637
+      CavaleiroBrasa_3: -7011604967044199072
+      CavaleiroBrasa_4: 106669155472929719
+      CavaleiroBrasa_5: -3008760551560321864
+      CavaleiroBrasa_6: 4017274107449282252
+      CavaleiroBrasa_7: 2383796728636201799
+      CavaleiroBrasa_8: -1004069775450619742
+      CavaleiroBrasa_9: -4163825005477207346
+      CavaleiroBrasa_10: 308827339218829782
+      CavaleiroBrasa_11: -1777688972164610556
+      CavaleiroBrasa_12: -278875651509030973
+      CavaleiroBrasa_13: -4489955695333113869
+      CavaleiroBrasa_14: 2052595360626513255
+      CavaleiroBrasa_15: -4027947925460430379
+      CavaleiroBrasa_16: 7736117467232692430
+      CavaleiroBrasa_17: 6030708279384906409
+      CavaleiroBrasa_18: 8188997142920656354
+      CavaleiroBrasa_19: -5002338675227937371
+      CavaleiroBrasa_20: -1453769262591798191
+      CavaleiroBrasa_21: -4645458708330929942
+      CavaleiroBrasa_22: 635558592022960034
+      CavaleiroBrasa_23: -1411644699085739937
+      CavaleiroBrasa_24: 1426935675010999780
+      CavaleiroBrasa_25: 8281156601789986508
+      CavaleiroBrasa_26: 5839714654244776434
+      CavaleiroBrasa_27: 8682292673174234542
+      CavaleiroBrasa_28: -1425579463535614597
+      CavaleiroBrasa_29: 6096364497171464831
+      CavaleiroBrasa_30: 2538903638722766015
+      CavaleiroBrasa_31: 2068418664306464008
+      CavaleiroBrasa_32: 3568959706101480951
+      CavaleiroBrasa_33: -8768810338268650771
+      CavaleiroBrasa_34: -5861361080856407281
+      CavaleiroBrasa_35: -642537945764569357
+      CavaleiroBrasa_36: -5104990460617224067
+      CavaleiroBrasa_37: 5694225521880828628
+      CavaleiroBrasa_38: -7345567794881702422
+      CavaleiroBrasa_39: 7435390182529229724
+      CavaleiroBrasa_40: -4192619105846603265
+      CavaleiroBrasa_41: 8625721357709004995
+      CavaleiroBrasa_42: -6768895905148155695
+      CavaleiroBrasa_43: -7897715719282433752
+      CavaleiroBrasa_44: 1359791774432885800
+      CavaleiroBrasa_45: -7351394229365269423
+      CavaleiroBrasa_46: -4182776371403920006
+      CavaleiroBrasa_47: -6075960667998181646
+      CavaleiroBrasa_48: 8892163209609785280
+      CavaleiroBrasa_49: 5784242554916283988
+      CavaleiroBrasa_50: 7014093859271687595
+      CavaleiroBrasa_51: 7343718328799039083
+      CavaleiroBrasa_52: 4806519033277895049
+      CavaleiroBrasa_53: -39252600979630266
+      CavaleiroBrasa_54: 7993327992078034328
+      CavaleiroBrasa_55: -1833229710417083394
+      CavaleiroBrasa_56: 2957959692985774688
+      CavaleiroBrasa_57: -116738717110890799
+      CavaleiroBrasa_58: 5364001332629672965
+      CavaleiroBrasa_59: 7203406898900290765
+      CavaleiroBrasa_60: -753656564115231877
+      CavaleiroBrasa_61: 9023079295417362951
+      CavaleiroBrasa_62: -7234748544744654260
+      CavaleiroBrasa_63: -9123234118963506612
+      CavaleiroBrasa_64: -80967097481927231
+      CavaleiroBrasa_65: -1882406657103578466
+      CavaleiroBrasa_66: 1421152726568617970
+      CavaleiroBrasa_67: 163783929287575879
+      CavaleiroBrasa_68: -7598815062965424895
+      CavaleiroBrasa_69: -6482847714814987439
+      CavaleiroBrasa_70: -4272045376547605229
+      CavaleiroBrasa_71: -1165310025616618606
+      CavaleiroBrasa_72: 46070380350806319
+      CavaleiroBrasa_73: -4181795198782081756
+      CavaleiroBrasa_74: -981943087861631802
+      CavaleiroBrasa_75: -4250263063398897333
+      CavaleiroBrasa_76: -1131781794250191982
+      CavaleiroBrasa_77: -3399861923346803150
+      CavaleiroBrasa_78: -38716882303601473
+      CavaleiroBrasa_79: -6671543138655209436
+      CavaleiroBrasa_80: 3115160420939076382
+      CavaleiroBrasa_81: -934425315684869806
+      CavaleiroBrasa_82: 7854654787478054980
+      CavaleiroBrasa_83: 1652779394669867802
+      CavaleiroBrasa_84: -7039238705446634184
+      CavaleiroBrasa_85: -5990157876085326225
+      CavaleiroBrasa_86: 8859710865854980961
+      CavaleiroBrasa_87: 676405421742295173
+      CavaleiroBrasa_88: -5156183159245094340
+      CavaleiroBrasa_89: -1931941864094904648
+      CavaleiroBrasa_90: -5689359387158162183
+      CavaleiroBrasa_91: -2617004779624889390
+      CavaleiroBrasa_92: 1592170932430407594
+      CavaleiroBrasa_93: -5834204954703179541
+      CavaleiroBrasa_94: 4371783277782791699
+      CavaleiroBrasa_95: -3429054649413883893
+      CavaleiroBrasa_96: -937402918965924391
+      CavaleiroBrasa_97: -1413890304502806763
+      CavaleiroBrasa_98: -726461870811940520
+      CavaleiroBrasa_99: 6232067899535833528
+      CavaleiroBrasa_100: 5331486113440739808
+      CavaleiroBrasa_101: 5871601398515673833
+      CavaleiroBrasa_102: -612680790038122696
+      CavaleiroBrasa_103: 8652715785321525981
+      CavaleiroBrasa_104: 6395351545123063852
+      CavaleiroBrasa_105: 3350668982882745889
+      CavaleiroBrasa_106: 5692229625744629721
+      CavaleiroBrasa_107: 1776755687586525428
+      CavaleiroBrasa_108: -6709678586957928953
+      CavaleiroBrasa_109: -103594918611727780
+      CavaleiroBrasa_110: 4214338581894869696
+      CavaleiroBrasa_111: 3605982857260732274
+      CavaleiroBrasa_112: 8760530780613273492
+      CavaleiroBrasa_113: 5053491875032725441
+      CavaleiroBrasa_114: 2645697765730491416
+      CavaleiroBrasa_115: 5916811287641635223
+      CavaleiroBrasa_116: 624656310128126896
+      CavaleiroBrasa_117: -8272269349959148116
+      CavaleiroBrasa_118: 5553712068888954575
+      CavaleiroBrasa_119: 7011870274453429458
+      CavaleiroBrasa_120: -7977514092903460117
+      CavaleiroBrasa_121: -8561941966706947018
+      CavaleiroBrasa_122: -1647150729965042205
+      CavaleiroBrasa_123: 497567296441210030
+      CavaleiroBrasa_124: 56117251091040803
+      CavaleiroBrasa_125: -349157221938854627
+      CavaleiroBrasa_126: -1536472974019521125
+      CavaleiroBrasa_127: 3698199976932178086
+      CavaleiroBrasa_128: 2028052840202483084
+      CavaleiroBrasa_129: 7575156966747153836
+      CavaleiroBrasa_130: -8545083991780079114
+      CavaleiroBrasa_131: 390083013800553536
+      CavaleiroBrasa_132: -1587968062371837298
+      CavaleiroBrasa_133: 4755845321557015328
+      CavaleiroBrasa_134: 8784590470202331421
+      CavaleiroBrasa_135: 5558486152974394015
+      CavaleiroBrasa_136: 7680203505954317829
+      CavaleiroBrasa_137: -7689277311821929386
+      CavaleiroBrasa_138: 4470427149834242725
+      CavaleiroBrasa_139: 7845432984904630042
+      CavaleiroBrasa_140: 2680513741534511326
+      CavaleiroBrasa_141: -1622051386788091812
+      CavaleiroBrasa_142: 7742656652036305758
+      CavaleiroBrasa_143: 8610233844464504501
+      CavaleiroBrasa_144: -4312679250028828222
+      CavaleiroBrasa_145: 1615896989960391479
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
