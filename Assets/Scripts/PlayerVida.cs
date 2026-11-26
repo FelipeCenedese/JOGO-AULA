@@ -33,6 +33,11 @@ public class PlayerVida : MonoBehaviour
         bool posicionado = false;
         if (!string.IsNullOrEmpty(GerenciadorPortas.idChegada))
         {
+            // Veio por uma porta: continua com a vida que tinha (não enche)
+            if (GerenciadorPortas.vidaAoSair > 0)
+                vida = Mathf.Min(GerenciadorPortas.vidaAoSair, vidaMaxima);
+            GerenciadorPortas.vidaAoSair = -1;
+
             foreach (var ponto in FindObjectsByType<PontoChegada>(FindObjectsSortMode.None))
             {
                 if (ponto.id == GerenciadorPortas.idChegada)

@@ -193,6 +193,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5a038e3fdf9e4e1c8e08bfccb14a99c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Chefe
+  vidaMaxima: 120
   camadaChao:
     serializedVersion: 2
     m_Bits: 64

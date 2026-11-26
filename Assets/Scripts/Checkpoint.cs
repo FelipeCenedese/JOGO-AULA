@@ -140,7 +140,7 @@ public static class GerenciadorCheckpoint
 
     // Limpa tudo quando o jogo começa de novo (botão Play)
     [RuntimeInitializeOnLoadMethod(RuntimeInitializeLoadType.SubsystemRegistration)]
-    static void Limpar()
+    public static void Limpar()
     {
         temCheckpoint = false;
         idAtual = null;

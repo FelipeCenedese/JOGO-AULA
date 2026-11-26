@@ -54,6 +54,10 @@ public class Porta : MonoBehaviour
 
         yield return Fade.Escurecer(tempoFade);
 
+        // Guarda a vida atual: passar pela porta não pode encher a vida
+        var vidaPlayer = player.GetComponent<PlayerVida>();
+        GerenciadorPortas.vidaAoSair = vidaPlayer != null ? vidaPlayer.vida : -1;
+
         GerenciadorPortas.idChegada = idChegada;
         GerenciadorPortas.cenaOrigem = SceneManager.GetActiveScene().name;
         SceneManager.LoadScene(cenaDestino);
@@ -71,9 +75,10 @@ public static class GerenciadorPortas
 {
     public static string idChegada;
     public static string cenaOrigem;   // de qual cena o player veio
+    public static int vidaAoSair = -1; // vida do player quando passou pela porta
 
     [RuntimeInitializeOnLoadMethod(RuntimeInitializeLoadType.SubsystemRegistration)]
-    static void Limpar() { idChegada = null; cenaOrigem = null; }
+    public static void Limpar() { idChegada = null; cenaOrigem = null; vidaAoSair = -1; }
 }
 
 // Tela preta que escurece e clareia entre as cenas

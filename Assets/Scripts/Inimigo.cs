@@ -44,6 +44,10 @@ public class Inimigo : MonoBehaviour
     public Color corDano = Color.red;
     public float tempoParaSumir = 1f;
 
+    [Header("Renascer")]
+    public float tempoRenascer = 30f;        // segundos depois de morrer para ele voltar
+    public float distanciaMinimaPlayer = 8f; // só volta se o player estiver pelo menos tão longe
+
     Rigidbody2D rb;
     Collider2D col;
     SpriteRenderer sr;
@@ -61,6 +65,7 @@ public class Inimigo : MonoBehaviour
     bool morto;
     Color corOriginal;
     string animAtual;
+    Vector3 posicaoInicial;
 
     void Awake()
     {
@@ -85,6 +90,7 @@ public class Inimigo : MonoBehaviour
         vida = vidaMaxima;
         lado = comecaIndoParaDireita ? 1f : -1f;
         inicioX = transform.position.x;
+        posicaoInicial = transform.position;
         if (sr != null) corOriginal = sr.color;
 
         var p = FindFirstObjectByType<Player>();
@@ -312,7 +318,29 @@ public class Inimigo : MonoBehaviour
             }
             yield return null;
         }
-        Destroy(gameObject);
+
+        // Fica escondido e volta depois de um tempo, no lugar onde começou
+        yield return new WaitForSeconds(tempoRenascer);
+        while (player != null && Vector2.Distance(player.position, posicaoInicial) < distanciaMinimaPlayer)
+            yield return new WaitForSeconds(1f);
+        Renascer();
+    }
+
+    void Renascer()
+    {
+        transform.position = posicaoInicial;
+        vida = vidaMaxima;
+        morto = atacando = recuando = perseguindo = false;
+        pausadoAte = proximoAtaque = 0f;
+        rb.bodyType = RigidbodyType2D.Dynamic;
+        rb.linearVelocity = Vector2.zero;
+        col.enabled = true;
+        if (anim != null) anim.speed = 1;
+        if (sr != null) sr.color = corOriginal;
+        lado = comecaIndoParaDireita ? 1f : -1f;
+        Virar();
+        animAtual = null;
+        TocarAnimacao("Inimigo_Parado");
     }
 
     // ================= Encostar no player =================

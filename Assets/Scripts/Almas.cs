@@ -17,6 +17,8 @@ public static class Almas
         ContadorAlmas.Ganhou(quantidade);
     }
 
+    public static void Zerar() { total = 0; }
+
     public static bool Gastar(int quantidade)
     {
         if (quantidade > total) return false;

@@ -31,7 +31,7 @@ public class Chefe : MonoBehaviour
 
     [Header("Vida")]
     public string nome = "Cavaleiro em Brasa";
-    public int vidaMaxima = 40;
+    public int vidaMaxima = 120;
     public int almasAoMorrer = 1000;
     public int danoParaCambalear = 8;        // dano seguido que faz ele cambalear
 

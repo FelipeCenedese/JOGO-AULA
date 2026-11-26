@@ -302,7 +302,7 @@ public static class Melhorias
 
     // Zera quando o jogo começa de novo (botão Play)
     [RuntimeInitializeOnLoadMethod(RuntimeInitializeLoadType.SubsystemRegistration)]
-    static void Limpar()
+    public static void Limpar()
     {
         vidaExtra = 0;
         danoExtra = 0;
