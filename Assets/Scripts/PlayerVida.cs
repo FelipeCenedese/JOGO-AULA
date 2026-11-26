@@ -20,6 +20,7 @@ public class PlayerVida : MonoBehaviour
 
     void Awake()
     {
+        vidaMaxima += Melhorias.vidaExtra;   // + a vida comprada no checkpoint
         vida = vidaMaxima;
         player = GetComponent<Player>();
         sr = GetComponent<SpriteRenderer>();
@@ -59,6 +60,19 @@ public class PlayerVida : MonoBehaviour
         }
         if (!posicionado && GerenciadorCheckpoint.temCheckpoint && GerenciadorCheckpoint.cena == cenaAtual)
             transform.position = GerenciadorCheckpoint.posicao;
+    }
+
+    // Melhoria comprada no checkpoint: +vida máxima (e enche a vida)
+    public void AumentarVidaMaxima(int quanto)
+    {
+        vidaMaxima += quanto;
+        vida = vidaMaxima;
+    }
+
+    // Descansar no checkpoint: vida cheia
+    public void CurarTudo()
+    {
+        if (!morto) vida = vidaMaxima;
     }
 
     // Chamado pelo inimigo quando encosta no player

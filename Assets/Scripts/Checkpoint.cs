@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.InputSystem;
 using UnityEngine.Rendering.Universal;
 using UnityEngine.SceneManagement;
 
@@ -6,10 +7,12 @@ using UnityEngine.SceneManagement;
 // Quando o player chega perto, o fogo acende em cima do pilar e o checkpoint é salvo.
 // Ao morrer, o player volta para o último checkpoint aceso, com a vida cheia,
 // e todos os inimigos voltam (a fase é recarregada).
+// Perto do checkpoint aceso, apertar E abre o menu de melhorias (vida e dano, pagos com almas).
 public class Checkpoint : MonoBehaviour
 {
     [Header("Ativação")]
     public float distanciaAtivar = 1.2f;    // quão perto o player precisa chegar
+    public float distanciaMenu = 1.8f;      // quão perto precisa estar para abrir o menu com E
 
     [Header("Fogo")]
     public Sprite[] quadrosFogo;            // arraste aqui os quadros do fogo azul, em ordem
@@ -47,6 +50,14 @@ public class Checkpoint : MonoBehaviour
         {
             Acender(true);
         }
+
+        // Perto do checkpoint aceso: mostra a dica e abre o menu com E
+        bool perto = aceso && player != null &&
+                     Vector2.Distance(player.position, transform.position) <= distanciaMenu;
+        if (perto) MenuCheckpoint.PlayerPerto();
+        var tecla = Keyboard.current;
+        if (perto && tecla != null && tecla.eKey.wasPressedThisFrame && !MenuCheckpoint.Aberto)
+            MenuCheckpoint.Abrir();
 
         // Anima o fogo
         if (aceso && quadrosFogo != null && quadrosFogo.Length > 0)

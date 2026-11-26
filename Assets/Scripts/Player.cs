@@ -264,7 +264,8 @@ public class Player : MonoBehaviour
         foreach (var alvo in alvos)
         {
             // O inimigo precisa ter um método: public void ReceberDano(int dano)
-            alvo.SendMessage("ReceberDano", dano, SendMessageOptions.DontRequireReceiver);
+            // + o dano comprado no checkpoint
+            alvo.SendMessage("ReceberDano", dano + Melhorias.danoExtra, SendMessageOptions.DontRequireReceiver);
         }
     }
 
