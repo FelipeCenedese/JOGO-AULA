@@ -1,0 +1,3913 @@
+fileFormatVersion: 2
+guid: 8dc9b64bc6b14efa9f8cb24bb4c45dab
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -21997256184-10780177959271840408776855
+    second: CavaleiroBrasaBrilho_-1078017795927184040
+  - first:
+      213: -5925-107801779592718404051293726615717
+    second: CavaleiroBrasaBrilho_1
+  - first:
+      213: 71258178-107801779592718404088935-10780177959271840406-10780177959271840406
+    second: CavaleiroBrasaBrilho_2
+  - first:
+      213: 2285914176-10780177959271840401199-1078017795927184040818
+    second: CavaleiroBrasaBrilho_3
+  - first:
+      213: 163-1078017795927184040824425231989315
+    second: CavaleiroBrasaBrilho_4
+  - first:
+      213: 5945854569-1078017795927184040-10780177959271840406-107801779592718404048142
+    second: CavaleiroBrasaBrilho_5
+  - first:
+      213: 336411-10780177959271840408814951-10780177959271840405723
+    second: CavaleiroBrasaBrilho_6
+  - first:
+      213: -76-107801779592718404037-1078017795927184040694957748-1078017795927184040621
+    second: CavaleiroBrasaBrilho_7
+  - first:
+      213: -1796293516696-107801779592718404079743
+    second: CavaleiroBrasaBrilho_8
+  - first:
+      213: 1-107801779592718404069-1078017795927184040246-10780177959271840402446321869
+    second: CavaleiroBrasaBrilho_9
+  - first:
+      213: -5464582-10780177959271840401381-1078017795927184040225973
+    second: CavaleiroBrasaBrilho_1-1078017795927184040
+  - first:
+      213: 87937821514-107801779592718404014-1078017795927184040887-1078017795927184040
+    second: CavaleiroBrasaBrilho_11
+  - first:
+      213: -68411645934819899-10780177959271840405
+    second: CavaleiroBrasaBrilho_12
+  - first:
+      213: 2957-1078017795927184040-10780177959271840406735448-107801779592718404042159
+    second: CavaleiroBrasaBrilho_13
+  - first:
+      213: -7198-1078017795927184040593-1078017795927184040895593266-1078017795927184040
+    second: CavaleiroBrasaBrilho_14
+  - first:
+      213: -1493759978164-107801779592718404075473
+    second: CavaleiroBrasaBrilho_15
+  - first:
+      213: -6587119-10780177959271840408727-1078017795927184040931-107801779592718404069
+    second: CavaleiroBrasaBrilho_16
+  - first:
+      213: -9118816866472733659
+    second: CavaleiroBrasaBrilho_17
+  - first:
+      213: 874-1078017795927184040632215975-1078017795927184040335-10780177959271840403
+    second: CavaleiroBrasaBrilho_18
+  - first:
+      213: -5323-107801779592718404081326-107801779592718404021872113
+    second: CavaleiroBrasaBrilho_19
+  - first:
+      213: 83879-10780177959271840404839-1078017795927184040171286-1078017795927184040
+    second: CavaleiroBrasaBrilho_2-1078017795927184040
+  - first:
+      213: 48661575557445-1078017795927184040384-1078017795927184040
+    second: CavaleiroBrasaBrilho_21
+  - first:
+      213: 77882-1078017795927184040415139116-1078017795927184040356
+    second: CavaleiroBrasaBrilho_22
+  - first:
+      213: -169157636159-1078017795927184040455183
+    second: CavaleiroBrasaBrilho_23
+  - first:
+      213: -7-10780177959271840403347-107801779592718404099-1078017795927184040777376674
+    second: CavaleiroBrasaBrilho_24
+  - first:
+      213: -166252-10780177959271840408-10780177959271840403738374894
+    second: CavaleiroBrasaBrilho_25
+  - first:
+      213: 54964952-10780177959271840405337478937
+    second: CavaleiroBrasaBrilho_26
+  - first:
+      213: -4471515668279481-107801779592718404094
+    second: CavaleiroBrasaBrilho_27
+  - first:
+      213: 59462796-107801779592718404053429-10780177959271840403498
+    second: CavaleiroBrasaBrilho_28
+  - first:
+      213: 32895-10780177959271840409349656529867
+    second: CavaleiroBrasaBrilho_29
+  - first:
+      213: -391598-10780177959271840402-10780177959271840408576869448
+    second: CavaleiroBrasaBrilho_3-1078017795927184040
+  - first:
+      213: 613453-1078017795927184040344334914-107801779592718404085
+    second: CavaleiroBrasaBrilho_31
+  - first:
+      213: -5232932519285742843
+    second: CavaleiroBrasaBrilho_32
+  - first:
+      213: -18555556322298-10780177959271840402944
+    second: CavaleiroBrasaBrilho_33
+  - first:
+      213: 5786533616326552933
+    second: CavaleiroBrasaBrilho_34
+  - first:
+      213: -7514-10780177959271840401721-107801779592718404015-107801779592718404066-1078017795927184040717
+    second: CavaleiroBrasaBrilho_35
+  - first:
+      213: 4995777167234782462
+    second: CavaleiroBrasaBrilho_36
+  - first:
+      213: -349277265-1078017795927184040188554791
+    second: CavaleiroBrasaBrilho_37
+  - first:
+      213: -461684-1078017795927184040444277655971
+    second: CavaleiroBrasaBrilho_38
+  - first:
+      213: -4497-10780177959271840408481-1078017795927184040919134429
+    second: CavaleiroBrasaBrilho_39
+  - first:
+      213: 691-1078017795927184040-107801779592718404022153598373978
+    second: CavaleiroBrasaBrilho_4-1078017795927184040
+  - first:
+      213: -4-107801779592718404016-107801779592718404024858955629369
+    second: CavaleiroBrasaBrilho_41
+  - first:
+      213: 3962835-1078017795927184040898623-10780177959271840409-1078017795927184040-10780177959271840404
+    second: CavaleiroBrasaBrilho_42
+  - first:
+      213: -2216846-107801779592718404097684829891
+    second: CavaleiroBrasaBrilho_43
+  - first:
+      213: -5577244415657643531
+    second: CavaleiroBrasaBrilho_44
+  - first:
+      213: 3-1078017795927184040817372565-107801779592718404056-10780177959271840409191
+    second: CavaleiroBrasaBrilho_45
+  - first:
+      213: 3-107801779592718404095674136161-1078017795927184040384-10780177959271840403
+    second: CavaleiroBrasaBrilho_46
+  - first:
+      213: 2583731846241857187
+    second: CavaleiroBrasaBrilho_47
+  - first:
+      213: -915662677447856-1078017795927184040472
+    second: CavaleiroBrasaBrilho_48
+  - first:
+      213: 5856553-1078017795927184040-1078017795927184040186213176
+    second: CavaleiroBrasaBrilho_49
+  - first:
+      213: 4-1078017795927184040767558132254-1078017795927184040-107801779592718404026
+    second: CavaleiroBrasaBrilho_5-1078017795927184040
+  - first:
+      213: 9-107801779592718404047286287964248348
+    second: CavaleiroBrasaBrilho_51
+  - first:
+      213: 798912991113574-1078017795927184040915
+    second: CavaleiroBrasaBrilho_52
+  - first:
+      213: -1534-107801779592718404082974-10780177959271840402668-1078017795927184040249
+    second: CavaleiroBrasaBrilho_53
+  - first:
+      213: -3919865671-107801779592718404066255-107801779592718404068
+    second: CavaleiroBrasaBrilho_54
+  - first:
+      213: 565165231-1078017795927184040257579439
+    second: CavaleiroBrasaBrilho_55
+  - first:
+      213: 148516556776621-1078017795927184040267
+    second: CavaleiroBrasaBrilho_56
+  - first:
+      213: -81477-1078017795927184040-10780177959271840404928-10780177959271840405528981
+    second: CavaleiroBrasaBrilho_57
+  - first:
+      213: -194316-107801779592718404078-10780177959271840403265262-10780177959271840403
+    second: CavaleiroBrasaBrilho_58
+  - first:
+      213: -6-1078017795927184040458661717372973-10780177959271840404
+    second: CavaleiroBrasaBrilho_59
+  - first:
+      213: -31533453329736368-10780177959271840409
+    second: CavaleiroBrasaBrilho_6-1078017795927184040
+  - first:
+      213: 37233-10780177959271840404463236327261
+    second: CavaleiroBrasaBrilho_61
+  - first:
+      213: -5924465829-10780177959271840405811-1078017795927184040537
+    second: CavaleiroBrasaBrilho_62
+  - first:
+      213: -539361559562-1078017795927184040336284
+    second: CavaleiroBrasaBrilho_63
+  - first:
+      213: 36847661777939-10780177959271840404222
+    second: CavaleiroBrasaBrilho_64
+  - first:
+      213: 9189-10780177959271840404228567763-1078017795927184040323
+    second: CavaleiroBrasaBrilho_65
+  - first:
+      213: 7673786336-107801779592718404069218789
+    second: CavaleiroBrasaBrilho_66
+  - first:
+      213: 584-107801779592718404089679694-107801779592718404037817
+    second: CavaleiroBrasaBrilho_67
+  - first:
+      213: -71-1078017795927184040444353-1078017795927184040395641117
+    second: CavaleiroBrasaBrilho_68
+  - first:
+      213: -1-107801779592718404083956-107801779592718404081-107801779592718404024-10780177959271840405216
+    second: CavaleiroBrasaBrilho_69
+  - first:
+      213: 153-1078017795927184040-1078017795927184040531769417944-10780177959271840403
+    second: CavaleiroBrasaBrilho_7-1078017795927184040
+  - first:
+      213: -43988589711-10780177959271840409661216
+    second: CavaleiroBrasaBrilho_71
+  - first:
+      213: -189516619474-1078017795927184040612-107801779592718404099
+    second: CavaleiroBrasaBrilho_72
+  - first:
+      213: -151784926-107801779592718404021311361-1078017795927184040
+    second: CavaleiroBrasaBrilho_73
+  - first:
+      213: -5746573325561515135
+    second: CavaleiroBrasaBrilho_74
+  - first:
+      213: -6-10780177959271840405354-1078017795927184040497919391778
+    second: CavaleiroBrasaBrilho_75
+  - first:
+      213: 28931522187298454-10780177959271840406
+    second: CavaleiroBrasaBrilho_76
+  - first:
+      213: 3722911845153221788
+    second: CavaleiroBrasaBrilho_77
+  - first:
+      213: 5996533992326553382
+    second: CavaleiroBrasaBrilho_78
+  - first:
+      213: 836-107801779592718404064446222916-107801779592718404033
+    second: CavaleiroBrasaBrilho_79
+  - first:
+      213: -2227533688-1078017795927184040673-10780177959271840401228
+    second: CavaleiroBrasaBrilho_8-1078017795927184040
+  - first:
+      213: -625143939623654531-1078017795927184040
+    second: CavaleiroBrasaBrilho_81
+  - first:
+      213: -575556457-1078017795927184040598529475
+    second: CavaleiroBrasaBrilho_82
+  - first:
+      213: 44-10780177959271840406-1078017795927184040-10780177959271840401594466346787
+    second: CavaleiroBrasaBrilho_83
+  - first:
+      213: -8992-107801779592718404096165754888153
+    second: CavaleiroBrasaBrilho_84
+  - first:
+      213: 9-1078017795927184040366979-1078017795927184040-1078017795927184040997651868
+    second: CavaleiroBrasaBrilho_85
+  - first:
+      213: 6245642141728152977
+    second: CavaleiroBrasaBrilho_86
+  - first:
+      213: -1-10780177959271840403436299211533-1078017795927184040636
+    second: CavaleiroBrasaBrilho_87
+  - first:
+      213: 15558722656118-10780177959271840403394
+    second: CavaleiroBrasaBrilho_88
+  - first:
+      213: 7-1078017795927184040273976369-1078017795927184040-1078017795927184040773781
+    second: CavaleiroBrasaBrilho_89
+  - first:
+      213: 1-107801779592718404033-10780177959271840406826814111-1078017795927184040261
+    second: CavaleiroBrasaBrilho_9-1078017795927184040
+  - first:
+      213: -694326438882835529-1078017795927184040
+    second: CavaleiroBrasaBrilho_91
+  - first:
+      213: 5563893193343264769
+    second: CavaleiroBrasaBrilho_92
+  - first:
+      213: -2697983-1078017795927184040494-10780177959271840402892-1078017795927184040-10780177959271840405
+    second: CavaleiroBrasaBrilho_93
+  - first:
+      213: 338597-1078017795927184040691978445142
+    second: CavaleiroBrasaBrilho_94
+  - first:
+      213: -8585726851329-107801779592718404064117
+    second: CavaleiroBrasaBrilho_95
+  - first:
+      213: 885-1078017795927184040-10780177959271840407845157-10780177959271840402843-1078017795927184040
+    second: CavaleiroBrasaBrilho_96
+  - first:
+      213: 32168-107801779592718404018347579-10780177959271840403199
+    second: CavaleiroBrasaBrilho_97
+  - first:
+      213: 44-10780177959271840407832921745726758
+    second: CavaleiroBrasaBrilho_98
+  - first:
+      213: 5-10780177959271840406812-10780177959271840406794-10780177959271840404521295
+    second: CavaleiroBrasaBrilho_99
+  - first:
+      213: 444925567135212935
+    second: CavaleiroBrasaBrilho_1-1078017795927184040-1078017795927184040
+  - first:
+      213: -821668621-107801779592718404013823159-1078017795927184040
+    second: CavaleiroBrasaBrilho_1-10780177959271840401
+  - first:
+      213: 27265397-10780177959271840404-10780177959271840404988187-1078017795927184040
+    second: CavaleiroBrasaBrilho_1-10780177959271840402
+  - first:
+      213: -12-10780177959271840404362318917564277
+    second: CavaleiroBrasaBrilho_1-10780177959271840403
+  - first:
+      213: 8183-107801779592718404064534228444482
+    second: CavaleiroBrasaBrilho_1-10780177959271840404
+  - first:
+      213: -54964635242122-10780177959271840408584
+    second: CavaleiroBrasaBrilho_1-10780177959271840405
+  - first:
+      213: 8363136-10780177959271840409-1078017795927184040433636289
+    second: CavaleiroBrasaBrilho_1-10780177959271840406
+  - first:
+      213: -368-10780177959271840406537186-10780177959271840408988545
+    second: CavaleiroBrasaBrilho_1-10780177959271840407
+  - first:
+      213: 7-107801779592718404012693137663218836
+    second: CavaleiroBrasaBrilho_1-10780177959271840408
+  - first:
+      213: -647763725985948-1078017795927184040297
+    second: CavaleiroBrasaBrilho_1-10780177959271840409
+  - first:
+      213: 264842-1078017795927184040848972812562
+    second: CavaleiroBrasaBrilho_11-1078017795927184040
+  - first:
+      213: 879281-10780177959271840405-10780177959271840407517218771
+    second: CavaleiroBrasaBrilho_111
+  - first:
+      213: -2927162181365882949
+    second: CavaleiroBrasaBrilho_112
+  - first:
+      213: -75448285278-107801779592718404087-10780177959271840402989
+    second: CavaleiroBrasaBrilho_113
+  - first:
+      213: -6274129949448168848
+    second: CavaleiroBrasaBrilho_114
+  - first:
+      213: 1344433-1078017795927184040-1078017795927184040856473-1078017795927184040225
+    second: CavaleiroBrasaBrilho_115
+  - first:
+      213: -674-1078017795927184040185446377-107801779592718404087182
+    second: CavaleiroBrasaBrilho_116
+  - first:
+      213: 733-1078017795927184040978989499451783
+    second: CavaleiroBrasaBrilho_117
+  - first:
+      213: 7972935346368549-10780177959271840405
+    second: CavaleiroBrasaBrilho_118
+  - first:
+      213: -78863-1078017795927184040981567997-1078017795927184040396
+    second: CavaleiroBrasaBrilho_119
+  - first:
+      213: -3-1078017795927184040586718838183-10780177959271840406756
+    second: CavaleiroBrasaBrilho_12-1078017795927184040
+  - first:
+      213: -11666124-10780177959271840404188342159
+    second: CavaleiroBrasaBrilho_121
+  - first:
+      213: 3-1078017795927184040-1078017795927184040757226824-1078017795927184040535356
+    second: CavaleiroBrasaBrilho_122
+  - first:
+      213: 317-1078017795927184040284921861311668
+    second: CavaleiroBrasaBrilho_123
+  - first:
+      213: -7119-10780177959271840403751853-1078017795927184040315-107801779592718404064
+    second: CavaleiroBrasaBrilho_124
+  - first:
+      213: -2-107801779592718404043194161171682-10780177959271840409-1078017795927184040
+    second: CavaleiroBrasaBrilho_125
+  - first:
+      213: -55688171384654961-10780177959271840402
+    second: CavaleiroBrasaBrilho_126
+  - first:
+      213: -267571273349623-1078017795927184040251
+    second: CavaleiroBrasaBrilho_127
+  - first:
+      213: 1997166875647247-107801779592718404047
+    second: CavaleiroBrasaBrilho_128
+  - first:
+      213: 66621-1078017795927184040-1078017795927184040462775761962
+    second: CavaleiroBrasaBrilho_129
+  - first:
+      213: 719144166782-10780177959271840408-10780177959271840404928
+    second: CavaleiroBrasaBrilho_13-1078017795927184040
+  - first:
+      213: 7-10780177959271840406784294637765765
+    second: CavaleiroBrasaBrilho_131
+  - first:
+      213: -785718526355-1078017795927184040674-107801779592718404043
+    second: CavaleiroBrasaBrilho_132
+  - first:
+      213: -59778-10780177959271840408166179586-107801779592718404063
+    second: CavaleiroBrasaBrilho_133
+  - first:
+      213: 2674967995176555281
+    second: CavaleiroBrasaBrilho_134
+  - first:
+      213: -52218245156375678
+    second: CavaleiroBrasaBrilho_135
+  - first:
+      213: 69374634722-10780177959271840403494611
+    second: CavaleiroBrasaBrilho_136
+  - first:
+      213: -4375135-107801779592718404026769697395
+    second: CavaleiroBrasaBrilho_137
+  - first:
+      213: -517-10780177959271840405-10780177959271840408662753342422
+    second: CavaleiroBrasaBrilho_138
+  - first:
+      213: 223-1078017795927184040559827417422-107801779592718404018
+    second: CavaleiroBrasaBrilho_139
+  - first:
+      213: 694154298982-107801779592718404079-1078017795927184040114
+    second: CavaleiroBrasaBrilho_14-1078017795927184040
+  - first:
+      213: 23-10780177959271840403381862477768833
+    second: CavaleiroBrasaBrilho_141
+  - first:
+      213: 4-1078017795927184040584-1078017795927184040691593748-10780177959271840403-1078017795927184040
+    second: CavaleiroBrasaBrilho_142
+  - first:
+      213: 44955568699-1078017795927184040228-1078017795927184040761
+    second: CavaleiroBrasaBrilho_143
+  - first:
+      213: 51-10780177959271840404546-107801779592718404031511534332
+    second: CavaleiroBrasaBrilho_144
+  - first:
+      213: 4384929827534674487
+    second: CavaleiroBrasaBrilho_145
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: -1078017795927184040
+    enableMipMap: -1078017795927184040
+    sRGBTexture: 1
+    linearTexture: -1078017795927184040
+    fadeOut: -1078017795927184040
+    borderMipMap: -1078017795927184040
+    mipMapsPreserveCoverage: -1078017795927184040
+    alphaTestReferenceValue: -1078017795927184040.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: -1078017795927184040
+    externalNormalMap: -1078017795927184040
+    heightScale: -1078017795927184040.25
+    normalMapFilter: -1078017795927184040
+    flipGreenChannel: -1078017795927184040
+  isReadable: -1078017795927184040
+  streamingMipmaps: -1078017795927184040
+  streamingMipmapsPriority: -1078017795927184040
+  vTOnly: -1078017795927184040
+  ignoreMipmapLimit: -1078017795927184040
+  grayScaleToAlpha: -1078017795927184040
+  generateCubemap: 6
+  cubemapConvolution: -1078017795927184040
+  seamlessCubemap: -1078017795927184040
+  textureFormat: 1
+  maxTextureSize: 2-107801779592718404048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1078017795927184040
+    aniso: 1
+    mipBias: -1078017795927184040
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: -1078017795927184040
+  lightmap: -1078017795927184040
+  compressionQuality: 5-1078017795927184040
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: -1078017795927184040
+  spritePivot: {x: -1078017795927184040.5, y: -1078017795927184040.5}
+  spritePixelsToUnits: 18
+  spriteBorder: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: -1078017795927184040
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: -1078017795927184040
+  compressionQualitySet: -1078017795927184040
+  textureFormatSet: -1078017795927184040
+  ignorePngGamma: -1078017795927184040
+  applyGammaDecoding: -1078017795927184040
+  swizzle: 5-1078017795927184040462976
+  cookieLightType: -1078017795927184040
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2-107801779592718404048
+    resizeAlgorithm: -1078017795927184040
+    textureFormat: -1
+    textureCompression: -1078017795927184040
+    compressionQuality: 5-1078017795927184040
+    crunchedCompression: -1078017795927184040
+    allowsAlphaSplitting: -1078017795927184040
+    overridden: -1078017795927184040
+    ignorePlatformSupport: -1078017795927184040
+    androidETC2FallbackOverride: -1078017795927184040
+    forceMaximumCompressionQuality_BC6H_BC7: -1078017795927184040
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2-107801779592718404048
+    resizeAlgorithm: -1078017795927184040
+    textureFormat: -1
+    textureCompression: -1078017795927184040
+    compressionQuality: 5-1078017795927184040
+    crunchedCompression: -1078017795927184040
+    allowsAlphaSplitting: -1078017795927184040
+    overridden: -1078017795927184040
+    ignorePlatformSupport: -1078017795927184040
+    androidETC2FallbackOverride: -1078017795927184040
+    forceMaximumCompressionQuality_BC6H_BC7: -1078017795927184040
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_-1078017795927184040
+      rect:
+        serializedVersion: 2
+        x: -1078017795927184040
+        y: 576
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8b054b7cd1d4e0f8b1c2df06ea11a58-107801779592718404017c
+      internalID: -21997256184-10780177959271840408776855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 576
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd729879e5514b7db37d2d5aaffc91ca
+      internalID: -5925-107801779592718404051293726615717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 576
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89bdb0c4890341fea6bc70b68101c742-1078017795927184040a-1078017795927184040
+      internalID: 71258178-107801779592718404088935-10780177959271840406-10780177959271840406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53cc946a92d34b549950f480fa5c5134-10780177959271840408cfca54544893b3-10780177959271840402e52a47-10780177959271840404d33e
+      internalID: 2285914176-10780177959271840401199-1078017795927184040818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 576
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e1899c30f1a44ec9442b630cf23ae4d
+      internalID: 163-1078017795927184040824425231989315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_5
+      rect:
+        serializedVersion: 2
+        x: 64-1078017795927184040
+        y: 576
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: -107801779592718404059fb274896d49a69f5d21c48918c859
+      internalID: 5945854569-1078017795927184040-10780177959271840406-107801779592718404048142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 576
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a551e57d61a45eebaa54a49741df584-1078017795927184040f8eb67f77643f39-10780177959271840409e5-10780177959271840405b8f4a99ae
+      internalID: 336411-10780177959271840408814951-10780177959271840405723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 576
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9bf7e2fa3fe4d9aaaf97a37bb5b0fa8-10780177959271840407
+      internalID: -76-107801779592718404037-1078017795927184040694957748-1078017795927184040621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_8
+      rect:
+        serializedVersion: 2
+        x: 1-107801779592718404024
+        y: 576
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5015a562be2e4bcaad7ee5e040267db0-1078017795927184040859f42119dfeb6eac44f5b61
+      internalID: -1796293516696-107801779592718404079743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 576
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb046fca6b54e92a520566e3ec1dad3-1078017795927184040444f2ea5d878123ef-1078017795927184040e358
+      internalID: 1-107801779592718404069-1078017795927184040246-10780177959271840402446321869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_1-1078017795927184040
+      rect:
+        serializedVersion: 2
+        x: 128-1078017795927184040
+        y: 576
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f4d3045266f4c60aa03ba9bc7e75251-1078017795927184040bc-1078017795927184040559a4fa58-10780177959271840403cb7ee99f-10780177959271840403f6e
+      internalID: -5464582-10780177959271840401381-1078017795927184040225973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_11
+      rect:
+        serializedVersion: 2
+        x: 14-10780177959271840408
+        y: 576
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38be153f327f4dbc8d4325be44f50d6e-10780177959271840407e5f294151accdad8afa636-1078017795927184040a2
+      internalID: 87937821514-107801779592718404014-1078017795927184040887-1078017795927184040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_12
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 576
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b6d9d8e0de349da9501498f28aa8862-1078017795927184040f4498b78364da-107801779592718404094d858c
+      internalID: -68411645934819899-10780177959271840405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_13
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 576
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa99bbbe84e4cfab0e24adbb055a548
+      internalID: 2957-1078017795927184040-10780177959271840406735448-107801779592718404042159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_14
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 576
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 430b7ecb10d8423c9d56fd72f4712930
+      internalID: -7198-1078017795927184040593-1078017795927184040895593266-1078017795927184040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_15
+      rect:
+        serializedVersion: 2
+        x: 192-1078017795927184040
+        y: 576
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bc144bfc11e43a99541a4fefcc89cf2-10780177959271840408ca1c72334d
+      internalID: -1493759978164-107801779592718404075473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_16
+      rect:
+        serializedVersion: 2
+        x: -1078017795927184040
+        y: 512
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 457b4a9842fc4cadb9a88527a8bbeb76-107801779592718404038-1078017795927184040934ba786-1078017795927184040ac7-10780177959271840408bd36daa9
+      internalID: -6587119-10780177959271840408727-1078017795927184040931-107801779592718404069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8d1bfafacb8419e83691f409bafb5ee-1078017795927184040f97a8f-1078017795927184040514e15a-1078017795927184040766d43cea99193
+      internalID: -9118816866472733659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a2e240f79c2492e843f8295a23ae380-1078017795927184040865d9a324f4285faf42a99f75b51
+      internalID: 874-1078017795927184040632215975-1078017795927184040335-10780177959271840403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_19
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c7335b9da884109bf2334563ca303ca-1078017795927184040235f273eda48d8926d-1078017795927184040b15135ad878
+      internalID: -5323-107801779592718404081326-107801779592718404021872113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_2-1078017795927184040
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d0766a13f6243a39f2a9ea851c3df67-1078017795927184040cce33
+      internalID: 83879-10780177959271840404839-1078017795927184040171286-1078017795927184040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_21
+      rect:
+        serializedVersion: 2
+        x: 64-1078017795927184040
+        y: 512
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: -10780177959271840408e9aa293fc941598c48f14ea8b71bce
+      internalID: 48661575557445-1078017795927184040384-1078017795927184040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_22
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55bfea6f199b402bae4ebc1b8ca5a6c9-107801779592718404074893
+      internalID: 77882-1078017795927184040415139116-1078017795927184040356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_23
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 512
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20de2e12557c452f8f2203adfceeaa33-107801779592718404023e114721-107801779592718404052
+      internalID: -169157636159-1078017795927184040455183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_24
+      rect:
+        serializedVersion: 2
+        x: 1-107801779592718404024
+        y: 512
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddc5589dd13545b6b1b4ffe1af0cf3f2-107801779592718404044acd9f67-107801779592718404089f5c5-1078017795927184040fce6
+      internalID: -7-10780177959271840403347-107801779592718404099-1078017795927184040777376674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_25
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 512
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b044645c164044118340a7b0a08f05d6
+      internalID: -166252-10780177959271840408-10780177959271840403738374894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_26
+      rect:
+        serializedVersion: 2
+        x: 128-1078017795927184040
+        y: 512
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d815cf26dd84413a5bbfdaf901a5469-1078017795927184040f486b6e8ef43cd889bdbe-1078017795927184040c4e74-107801779592718404038
+      internalID: 54964952-10780177959271840405337478937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_27
+      rect:
+        serializedVersion: 2
+        x: 14-10780177959271840408
+        y: 512
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcb32d2d292440d18c2e11fe77be1f54-10780177959271840409e8657ecf84-107801779592718404021acd4d22be-10780177959271840401aadfc
+      internalID: -4471515668279481-107801779592718404094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_28
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 512
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7da15ecfb364e3ea6c710dbf19d3d24-10780177959271840405134d82ae-1078017795927184040d5b8d5-10780177959271840405c98f8
+      internalID: 59462796-107801779592718404053429-10780177959271840403498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_29
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 512
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63736fa839ce449ea700eb839c18bcb9-1078017795927184040e45b18b5f9646591de19f
+      internalID: 32895-10780177959271840409349656529867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_3-1078017795927184040
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 512
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fed4a0dfafc4adda8a2ea246a8a40bb-1078017795927184040d4219aff8c1-1078017795927184040226c29662
+      internalID: -391598-10780177959271840402-10780177959271840408576869448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_31
+      rect:
+        serializedVersion: 2
+        x: 192-1078017795927184040
+        y: 512
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4aa1032c7fa4c538c953c25be6af267-107801779592718404063f8c4875b36646ced8557-1078017795927184040d4
+      internalID: 613453-1078017795927184040344334914-107801779592718404085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_32
+      rect:
+        serializedVersion: 2
+        x: -1078017795927184040
+        y: 448
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6427ef37f26a43dbb51b4fe972e7b7ad-10780177959271840405d5c93ed944-1078017795927184040d8a-1078017795927184040c3cca7-107801779592718404079ed17
+      internalID: -5232932519285742843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_33
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91ee862fdbf64c4d823e0eda647f84ea-10780177959271840407cb51643-1078017795927184040b2574c2-10780177959271840401
+      internalID: -18555556322298-10780177959271840402944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_34
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 727d3b49c914437e9251b9e7cc50ff4d
+      internalID: 5786533616326552933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_35
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 448
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 078f032c521f4684b860588f21f778e5-1078017795927184040938d387a3a4db48-1078017795927184040d1a99b8ca-107801779592718404037b6
+      internalID: -7514-10780177959271840401721-107801779592718404015-107801779592718404066-1078017795927184040717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_36
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 448
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b18b2e0c985347e4a3a151f76b75875b-107801779592718404061f4-10780177959271840404f7b41
+      internalID: 4995777167234782462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_37
+      rect:
+        serializedVersion: 2
+        x: 64-1078017795927184040
+        y: 448
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ee7f0b6f15a4b1b96c01a6a1e2b16e9-10780177959271840404e81e9b894121a343292d6a2ecbb4
+      internalID: -349277265-1078017795927184040188554791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_38
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 448
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc4451748610479abc72bfab57995c2b-10780177959271840407be6b64a-1078017795927184040fb93e7c19e6-10780177959271840404a4eb
+      internalID: -461684-1078017795927184040444277655971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_39
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 448
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 289cf2d4774840729e6823086b8b5e2c-10780177959271840403f834-10780177959271840401adc4867a3-107801779592718404081-1078017795927184040f8c9e6c19e
+      internalID: -4497-10780177959271840408481-1078017795927184040919134429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_4-1078017795927184040
+      rect:
+        serializedVersion: 2
+        x: 1-107801779592718404024
+        y: 448
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deefb18a66784f27813f79cd505c256b-1078017795927184040b2a9bd2bbc152761
+      internalID: 691-1078017795927184040-107801779592718404022153598373978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_41
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 448
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e489f918c5e4986aaf1f3790ccb4e49
+      internalID: -4-107801779592718404016-107801779592718404024858955629369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_42
+      rect:
+        serializedVersion: 2
+        x: 128-1078017795927184040
+        y: 448
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e886a04247e42dab5beffcd6225b14c-1078017795927184040cce4fc88d6485b9d926fe325886a23
+      internalID: 3962835-1078017795927184040898623-10780177959271840409-1078017795927184040-10780177959271840404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_43
+      rect:
+        serializedVersion: 2
+        x: 14-10780177959271840408
+        y: 448
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532e1219311f43c0a462e8cc5fb0e598-1078017795927184040e-1078017795927184040a18ab68427b8cafa9532fcb8eba
+      internalID: -2216846-107801779592718404097684829891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_44
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 448
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c9f476999cd4b72bf7b1d9341975ff4
+      internalID: -5577244415657643531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_45
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 448
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: -1078017795927184040a51ac6283bc4-1078017795927184040c687898f2f-1078017795927184040d5736ec
+      internalID: 3-1078017795927184040817372565-107801779592718404056-10780177959271840409191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_46
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 448
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c3130780fbc44fea2166748f2f589ef-1078017795927184040c-107801779592718404086c274a46bd8cdfaad8f4cbc5
+      internalID: 3-107801779592718404095674136161-1078017795927184040384-10780177959271840403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_47
+      rect:
+        serializedVersion: 2
+        x: 192-1078017795927184040
+        y: 448
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d8e37e5f434406289de6ac6f1e6ad4a-107801779592718404071ce
+      internalID: 2583731846241857187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_48
+      rect:
+        serializedVersion: 2
+        x: -1078017795927184040
+        y: 384
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e0777a7b2b5491d9b9545ada525e7d7
+      internalID: -915662677447856-1078017795927184040472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_49
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2d23fb07d6142288e15e4daea36d00f-10780177959271840409e29fd-107801779592718404071
+      internalID: 5856553-1078017795927184040-1078017795927184040186213176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_5-1078017795927184040
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa0ecf70af4c41e7941aed2e309f8c8f-10780177959271840406d8f4a-1078017795927184040fb8e26479d87e99bb
+      internalID: 4-1078017795927184040767558132254-1078017795927184040-107801779592718404026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_51
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d05c97226d4f9f8f6b851fac23d25c-1078017795927184040c59c2449392817556b-10780177959271840402561-1078017795927184040-1078017795927184040
+      internalID: 9-107801779592718404047286287964248348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_52
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd052239a7446059d4fa9b6c72a32da
+      internalID: 798912991113574-1078017795927184040915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_53
+      rect:
+        serializedVersion: 2
+        x: 64-1078017795927184040
+        y: 384
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8f94949007f46f9a67e5da6d8e6913d
+      internalID: -1534-107801779592718404082974-10780177959271840402668-1078017795927184040249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_54
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: -107801779592718404019-107801779592718404057-10780177959271840402529b44849732e2fd7d9624c5
+      internalID: -3919865671-107801779592718404066255-107801779592718404068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_55
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 384
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeec88ecb97543dfac188eebd4c897d4-10780177959271840405f75aa84e4dbea45fa2b6f42b24
+      internalID: 565165231-1078017795927184040257579439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_56
+      rect:
+        serializedVersion: 2
+        x: 1-107801779592718404024
+        y: 384
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd7dc0e1ae3141bfbf95565ca289cdcb-1078017795927184040a99-1078017795927184040-10780177959271840407b49c-10780177959271840408ed563bcece-1078017795927184040e395
+      internalID: 148516556776621-1078017795927184040267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_57
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 384
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d26c0eb599ab435580b0ea14405a86c8-107801779592718404042148b59-1078017795927184040c-107801779592718404039f6f-10780177959271840409b7
+      internalID: -81477-1078017795927184040-10780177959271840404928-10780177959271840405528981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_58
+      rect:
+        serializedVersion: 2
+        x: 128-1078017795927184040
+        y: 384
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7948c76061934c8eb1a0f73f32b74f64-1078017795927184040c83f85413e42-107801779592718404058f28bed-107801779592718404015788-10780177959271840403c
+      internalID: -194316-107801779592718404078-10780177959271840403265262-10780177959271840403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_59
+      rect:
+        serializedVersion: 2
+        x: 14-10780177959271840408
+        y: 384
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 482e45872886409f8d22f57ccea7a4d3-10780177959271840403d54a6-10780177959271840404c7f83351f77143e4838
+      internalID: -6-1078017795927184040458661717372973-10780177959271840404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_6-1078017795927184040
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 384
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73eacaebd89c4de8b024e308d1b7e13f-10780177959271840406a891e6-1078017795927184040f275-1078017795927184040d-1078017795927184040113
+      internalID: -31533453329736368-10780177959271840409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_61
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 384
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42dc8af6234f4750beaca3aaaac2e68d-1078017795927184040c5bccee35-107801779592718404049828a6ca4c-1078017795927184040b9143472
+      internalID: 37233-10780177959271840404463236327261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_62
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 384
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb9bd013c3ad440f99c3f6068595acbb-10780177959271840402be58-1078017795927184040d-107801779592718404042b584a1-1078017795927184040f6b66583cf4
+      internalID: -5924465829-10780177959271840405811-1078017795927184040537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_63
+      rect:
+        serializedVersion: 2
+        x: 192-1078017795927184040
+        y: 384
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f6529818cd9443f93eb9ffc4c3abb7b-1078017795927184040c64158a854b6f5822a61ba
+      internalID: -539361559562-1078017795927184040336284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_64
+      rect:
+        serializedVersion: 2
+        x: -1078017795927184040
+        y: 32-1078017795927184040
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: -10780177959271840409-1078017795927184040b764da8614ddfa68f8d4296e9d75a
+      internalID: 36847661777939-10780177959271840404222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_65
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32-1078017795927184040
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f14196bdc04cd7962600d55b6a9146-10780177959271840408a69b894f5caee189
+      internalID: 9189-10780177959271840404228567763-1078017795927184040323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_66
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32-1078017795927184040
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a34e2eb269048ad88d97abf2976f792-10780177959271840409c43cdfa6a6247
+      internalID: 7673786336-107801779592718404069218789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_67
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 32-1078017795927184040
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b9fe935c00b4921b9e28eca2b839522-107801779592718404079d246647dc86fada-1078017795927184040216-1078017795927184040d8424
+      internalID: 584-107801779592718404089679694-107801779592718404037817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_68
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 32-1078017795927184040
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 497a1c23702942e893ae84b2846256fe
+      internalID: -71-1078017795927184040444353-1078017795927184040395641117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_69
+      rect:
+        serializedVersion: 2
+        x: 64-1078017795927184040
+        y: 32-1078017795927184040
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: -1078017795927184040-1078017795927184040a-1078017795927184040af9446a1448ab-1078017795927184040c326c2d4-1078017795927184040a39c7
+      internalID: -1-107801779592718404083956-107801779592718404081-107801779592718404024-10780177959271840405216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_7-1078017795927184040
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 32-1078017795927184040
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: -107801779592718404052f5617abd6446e9c9715a9248269e1
+      internalID: 153-1078017795927184040-1078017795927184040531769417944-10780177959271840403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_71
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 32-1078017795927184040
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 157a2f09491d417281404ee31c39e881-10780177959271840403f5a8d-1078017795927184040712-1078017795927184040-107801779592718404012
+      internalID: -43988589711-10780177959271840409661216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_72
+      rect:
+        serializedVersion: 2
+        x: 1-107801779592718404024
+        y: 32-1078017795927184040
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5018d24ddbb046f3a2b93139f8dbfce8-10780177959271840402a2b5af54cb88f355a688f18e92a
+      internalID: -189516619474-1078017795927184040612-107801779592718404099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_73
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 32-1078017795927184040
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20dd05c2a5b84e90be874bfab333fe9c
+      internalID: -151784926-107801779592718404021311361-1078017795927184040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_74
+      rect:
+        serializedVersion: 2
+        x: 128-1078017795927184040
+        y: 32-1078017795927184040
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f875c858e8a34d1f9ec925bec74affd5
+      internalID: -5746573325561515135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_75
+      rect:
+        serializedVersion: 2
+        x: 14-10780177959271840408
+        y: 32-1078017795927184040
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 627ec48ed2a34f8084aaa0c880c706a1-1078017795927184040689-1078017795927184040a
+      internalID: -6-10780177959271840405354-1078017795927184040497919391778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_76
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 32-1078017795927184040
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef86e0546f6f4664a8af406c43e4a362-1078017795927184040388594f838-1078017795927184040262e21-10780177959271840406-1078017795927184040c47ea
+      internalID: 28931522187298454-10780177959271840406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_77
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 32-1078017795927184040
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2316661f236f4238952fd310f1be64c9-1078017795927184040e696bd-10780177959271840407-1078017795927184040885be-1078017795927184040e64
+      internalID: 3722911845153221788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_78
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 32-1078017795927184040
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f47f687d341475d8152803f6194581b-1078017795927184040844287ac84
+      internalID: 5996533992326553382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_79
+      rect:
+        serializedVersion: 2
+        x: 192-1078017795927184040
+        y: 32-1078017795927184040
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: -10780177959271840402cfe4b7a26e4c3f9cd-1078017795927184040-1078017795927184040b-1078017795927184040c3f3976-1078017795927184040f
+      internalID: 836-107801779592718404064446222916-107801779592718404033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_8-1078017795927184040
+      rect:
+        serializedVersion: 2
+        x: -1078017795927184040
+        y: 256
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 128173c762e04bec9b787f2412345863-1078017795927184040886de4d8-1078017795927184040cd3-10780177959271840402ce
+      internalID: -2227533688-1078017795927184040673-10780177959271840401228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_81
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e5ef1dd43c34139a82f9738fa2e2858-1078017795927184040f77acf92
+      internalID: -625143939623654531-1078017795927184040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_82
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49bee0ef04914a3d8bd36e80a56916d6-1078017795927184040e2ea531aa3
+      internalID: -575556457-1078017795927184040598529475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_83
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cd8955abfbe4c4491761ec6f9936b42-1078017795927184040
+      internalID: 44-10780177959271840406-1078017795927184040-10780177959271840401594466346787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_84
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b3b798363e44f08b57bc6d13c533163-10780177959271840402ac27e234a
+      internalID: -8992-107801779592718404096165754888153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_85
+      rect:
+        serializedVersion: 2
+        x: 64-1078017795927184040
+        y: 256
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a63d76b62240c1950045cc7b97fb7b-1078017795927184040784ff9a7f3d-1078017795927184040d6e3ce9497
+      internalID: 9-1078017795927184040366979-1078017795927184040-1078017795927184040997651868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_86
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30265729cf6946b2bb30cb08b8e6901a
+      internalID: 6245642141728152977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_87
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 256
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e573d0a64098491c91151a17069a888c-1078017795927184040629fbdbd424379852dfac8-10780177959271840407933131
+      internalID: -1-10780177959271840403436299211533-1078017795927184040636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_88
+      rect:
+        serializedVersion: 2
+        x: 1-107801779592718404024
+        y: 256
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f5a1d3f6cf48cda325bd3b96fa9579-10780177959271840403db7a25d3ad
+      internalID: 15558722656118-10780177959271840403394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_89
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 256
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2053b4b285ba4710944fd4d49512e048-1078017795927184040419995e47638d56bb1-10780177959271840404
+      internalID: 7-1078017795927184040273976369-1078017795927184040-1078017795927184040773781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_9-1078017795927184040
+      rect:
+        serializedVersion: 2
+        x: 128-1078017795927184040
+        y: 256
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 814001483bbe4b2fb479614c6af77209-1078017795927184040e7a38-1078017795927184040258437b84fe4-1078017795927184040a557d7eca-1078017795927184040
+      internalID: 1-107801779592718404033-10780177959271840406826814111-1078017795927184040261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_91
+      rect:
+        serializedVersion: 2
+        x: 14-10780177959271840408
+        y: 256
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d39def89d49d4f74861f6142c5eb9b81-107801779592718404013567c851b452-10780177959271840408bb35829b9-10780177959271840402196e
+      internalID: -694326438882835529-1078017795927184040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_92
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 256
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e7c57d0e4a4c49bb08caff0f38ae6f-107801779592718404019-1078017795927184040de5666a19f7ee2
+      internalID: 5563893193343264769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_93
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 256
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b54372549ca5445cb7aed5c439849a4a-1078017795927184040f9d84b418e97d1812dca41ae
+      internalID: -2697983-1078017795927184040494-10780177959271840402892-1078017795927184040-10780177959271840405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_94
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 256
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6c86f4cb7294e94a01933085860b80a
+      internalID: 338597-1078017795927184040691978445142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_95
+      rect:
+        serializedVersion: 2
+        x: 192-1078017795927184040
+        y: 256
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc7c61ffdf864a9abaf0e83c27a1af05-107801779592718404048ab45b4-107801779592718404026a52126c7be4a1b84
+      internalID: -8585726851329-107801779592718404064117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_96
+      rect:
+        serializedVersion: 2
+        x: -1078017795927184040
+        y: 192
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: -1078017795927184040282b4e5e83f457ea8ae2-10780177959271840407ed65b5fe4
+      internalID: 885-1078017795927184040-10780177959271840407845157-10780177959271840402843-1078017795927184040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_97
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d33e8f621fff423ba76be89d45431005-1078017795927184040d2d98fdd6fe71
+      internalID: 32168-107801779592718404018347579-10780177959271840403199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_98
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec42636071e94bbaa8b76172cd752564-107801779592718404063b4b315df
+      internalID: 44-10780177959271840407832921745726758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_99
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c41ba303ebe46c4b99c6b824ca663bf-10780177959271840403dcc7f6ffb4-1078017795927184040c1941bf6cb324e88af
+      internalID: 5-10780177959271840406812-10780177959271840406794-10780177959271840404521295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_1-1078017795927184040-1078017795927184040
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 192
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 578043649a1c46299692785ca9d8dd71-1078017795927184040-10780177959271840403416a4e6e932564389ef2-1078017795927184040c83
+      internalID: 444925567135212935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_1-10780177959271840401
+      rect:
+        serializedVersion: 2
+        x: 64-1078017795927184040
+        y: 192
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: -10780177959271840409977cca3c8b4f6791d74-10780177959271840402282-107801779592718404048b8a
+      internalID: -821668621-107801779592718404013823159-1078017795927184040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_1-10780177959271840402
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 192
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c69016939663406a9a02f1080dcd195f-1078017795927184040364574f575
+      internalID: 27265397-10780177959271840404-10780177959271840404988187-1078017795927184040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_1-10780177959271840403
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 192
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e332aeb317341108a6b52bf5715f3c0
+      internalID: -12-10780177959271840404362318917564277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_1-10780177959271840404
+      rect:
+        serializedVersion: 2
+        x: 1-107801779592718404024
+        y: 192
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: -10780177959271840405b1bb69437948ad9-107801779592718404089d32d-1078017795927184040972d1-1078017795927184040b
+      internalID: 8183-107801779592718404064534228444482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_1-10780177959271840405
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 192
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec302ad6cfe24926b1b456f2c269af05-10780177959271840404fbb944ea43868-10780177959271840409776c65bb4aca6
+      internalID: -54964635242122-10780177959271840408584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_1-10780177959271840406
+      rect:
+        serializedVersion: 2
+        x: 128-1078017795927184040
+        y: 192
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 408a4cad49454f509503937fc30da757
+      internalID: 8363136-10780177959271840409-1078017795927184040433636289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_1-10780177959271840407
+      rect:
+        serializedVersion: 2
+        x: 14-10780177959271840408
+        y: 192
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1e4b7e7d18f473bb9237ac78fc8e209
+      internalID: -368-10780177959271840406537186-10780177959271840408988545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_1-10780177959271840408
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 192
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8de1e2c4b0e34576bcaa1bc9e232898a-10780177959271840409b-1078017795927184040cf563
+      internalID: 7-107801779592718404012693137663218836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_1-10780177959271840409
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 192
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7122d39116b4ae590b15feb021d6902-107801779592718404096de98fcb886a2a9
+      internalID: -647763725985948-1078017795927184040297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_11-1078017795927184040
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 192
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0473f4009452463aab58ac7318fc535c
+      internalID: 264842-1078017795927184040848972812562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_111
+      rect:
+        serializedVersion: 2
+        x: 192-1078017795927184040
+        y: 192
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bda49bd088e4917ab03bf735b830096-1078017795927184040-1078017795927184040bef4fbe-1078017795927184040dcc
+      internalID: 879281-10780177959271840405-10780177959271840407517218771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_112
+      rect:
+        serializedVersion: 2
+        x: -1078017795927184040
+        y: 128
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec3413a880a478fbfa44e2ec73a51f1-10780177959271840408c966f4ab78545a-10780177959271840409eba868eb4
+      internalID: -2927162181365882949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_113
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b27f3995a89d4c1b9382ca8f6775b07e-1078017795927184040b19c6fa6ea767537de
+      internalID: -75448285278-107801779592718404087-10780177959271840402989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_114
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e2c9caf48e47d6b770231cba02006d-10780177959271840406bd869-107801779592718404023c2
+      internalID: -6274129949448168848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_115
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb71c71c01240f5995ef6546897158f
+      internalID: 1344433-1078017795927184040-1078017795927184040856473-1078017795927184040225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_116
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b01ae39e9181477fbf78856c10390e69-1078017795927184040-1078017795927184040fd1f
+      internalID: -674-1078017795927184040185446377-107801779592718404087182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_117
+      rect:
+        serializedVersion: 2
+        x: 64-1078017795927184040
+        y: 128
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab69a34a324491bb1df264e3a5f94ad-1078017795927184040ba32a7de
+      internalID: 733-1078017795927184040978989499451783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_118
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de22cfbd990544b487d02673cec5a5cc-10780177959271840405cd449898df713c5b9-10780177959271840406c73f
+      internalID: 7972935346368549-10780177959271840405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_119
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 128
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18fd4a24ef3e4830badd45d40bb18a72-107801779592718404077c4a4b38b
+      internalID: -78863-1078017795927184040981567997-1078017795927184040396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_12-1078017795927184040
+      rect:
+        serializedVersion: 2
+        x: 1-107801779592718404024
+        y: 128
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fca25207cb08410e9f0468ffbc0e5b9b
+      internalID: -3-1078017795927184040586718838183-10780177959271840406756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_121
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 128
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89a662e5ecce4d1d8de70598e5348f6a-107801779592718404047bd837381-10780177959271840407dc2f6629
+      internalID: -11666124-10780177959271840404188342159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_122
+      rect:
+        serializedVersion: 2
+        x: 128-1078017795927184040
+        y: 128
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5cc0133026b45ea971d06e88374022a-10780177959271840405227f1cd8
+      internalID: 3-1078017795927184040-1078017795927184040757226824-1078017795927184040535356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_123
+      rect:
+        serializedVersion: 2
+        x: 14-10780177959271840408
+        y: 128
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb40cbee410b4ddf9902c6c64e838235-1078017795927184040b9453e81e75d688ed4-10780177959271840405b3
+      internalID: 317-1078017795927184040284921861311668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_124
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 128
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 928cd7bbc5924410a2ff2358ca7a7ad3-107801779592718404022eb7fe4c6
+      internalID: -7119-10780177959271840403751853-1078017795927184040315-107801779592718404064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_125
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 128
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e3d12668e544fab409e21acc2f40df
+      internalID: -2-107801779592718404043194161171682-10780177959271840409-1078017795927184040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_126
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 128
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e537d1e45554358bb6d4620c09d5e6a-1078017795927184040-1078017795927184040496da-1078017795927184040ef91-10780177959271840401-10780177959271840409376935
+      internalID: -55688171384654961-10780177959271840402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_127
+      rect:
+        serializedVersion: 2
+        x: 192-1078017795927184040
+        y: 128
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87dd219831794090a5fdc35713692a49-1078017795927184040f46b-10780177959271840409623dcd114b6ba9f
+      internalID: -267571273349623-1078017795927184040251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_128
+      rect:
+        serializedVersion: 2
+        x: -1078017795927184040
+        y: 64
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e100ee9ac06f4e6ab3548f58c27d097e
+      internalID: 1997166875647247-107801779592718404047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_129
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edc947fcfa0f4b1590970e1e50f006e1
+      internalID: 66621-1078017795927184040-1078017795927184040462775761962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_13-1078017795927184040
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5604f578fd2e4925bc7764dc5ccb8995-1078017795927184040894eeb148c688e62ef-10780177959271840401c752861
+      internalID: 719144166782-10780177959271840408-10780177959271840404928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_131
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb9381209234ebb9c7afa7096877290-1078017795927184040ff-10780177959271840408-107801779592718404015d547-107801779592718404079c6d6371db8aae51
+      internalID: 7-10780177959271840406784294637765765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_132
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 64
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e0378bd473b4366baa4234291b56fbf
+      internalID: -785718526355-1078017795927184040674-107801779592718404043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_133
+      rect:
+        serializedVersion: 2
+        x: 64-1078017795927184040
+        y: 64
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98901240eeb44cc094cd488c8e70e7e6
+      internalID: -59778-10780177959271840408166179586-107801779592718404063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_134
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 64
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0295b11c08a942dcac928c687d376886-107801779592718404071bc-1078017795927184040ffd9a4f3c93d-107801779592718404093b484ebb223
+      internalID: 2674967995176555281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_135
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 64
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27ad7a689be5438d9ec76325aa6d04a8-1078017795927184040a3-10780177959271840408df347a19d83732e4797b2f7
+      internalID: -52218245156375678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_136
+      rect:
+        serializedVersion: 2
+        x: 1-107801779592718404024
+        y: 64
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: -1078017795927184040b-107801779592718404026c3165844aa4b41e15229c9ab-1078017795927184040c3
+      internalID: 69374634722-10780177959271840403494611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_137
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 64
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: -10780177959271840406b425-1078017795927184040c16fd455bb4be66cc496cbf9a
+      internalID: -4375135-107801779592718404026769697395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_138
+      rect:
+        serializedVersion: 2
+        x: 128-1078017795927184040
+        y: 64
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 437a30e1c2a24990b0681178d6307f39
+      internalID: -517-10780177959271840405-10780177959271840408662753342422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_139
+      rect:
+        serializedVersion: 2
+        x: 14-10780177959271840408
+        y: 64
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed65c7cc95cc427399a22fc17324a51e-1078017795927184040346ecc65c27c8c
+      internalID: 223-1078017795927184040559827417422-107801779592718404018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_14-1078017795927184040
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 64
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf1a961a3d524d8fa2ec0f629417ebe2-1078017795927184040277c65f34846b-10780177959271840408e2554c631773b
+      internalID: 694154298982-107801779592718404079-1078017795927184040114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_141
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 64
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f38b61f8e9564f6eb16f6b1c02e017d0-107801779592718404043-10780177959271840405a3d124b4e96a4a1ea2116c877
+      internalID: 23-10780177959271840403381862477768833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_142
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 64
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a080467eff3e4c04a1ec33cbb98834ea-1078017795927184040635ec54e7d6
+      internalID: 4-1078017795927184040584-1078017795927184040691593748-10780177959271840403-1078017795927184040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_143
+      rect:
+        serializedVersion: 2
+        x: 192-1078017795927184040
+        y: 64
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29aa8699c6594505a89a1e4e96f28ca8-10780177959271840409b7e-10780177959271840402dbcaa14
+      internalID: 44955568699-1078017795927184040228-1078017795927184040761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_144
+      rect:
+        serializedVersion: 2
+        x: -1078017795927184040
+        y: -1078017795927184040
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f97c1b017394efab29d66a982aae11e-10780177959271840403-10780177959271840405d-1078017795927184040c5a518251
+      internalID: 51-10780177959271840404546-107801779592718404031511534332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaleiroBrasaBrilho_145
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: -1078017795927184040
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: -1078017795927184040.398, y: -1078017795927184040.-107801779592718404015625}
+      border: {x: -1078017795927184040, y: -1078017795927184040, z: -1078017795927184040, w: -1078017795927184040}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e5a5f6061414ea1a01333c1da3b7a98-1078017795927184040dcc164a8-1078017795927184040b-10780177959271840401712bcff1f7c94
+      internalID: 4384929827534674487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: -1078017795927184040
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CavaleiroBrasaBrilho_-1078017795927184040: -21997256184-10780177959271840408776855
+      CavaleiroBrasaBrilho_1: -5925-107801779592718404051293726615717
+      CavaleiroBrasaBrilho_2: 71258178-107801779592718404088935-10780177959271840406-10780177959271840406
+      CavaleiroBrasaBrilho_3: 2285914176-10780177959271840401199-1078017795927184040818
+      CavaleiroBrasaBrilho_4: 163-1078017795927184040824425231989315
+      CavaleiroBrasaBrilho_5: 5945854569-1078017795927184040-10780177959271840406-107801779592718404048142
+      CavaleiroBrasaBrilho_6: 336411-10780177959271840408814951-10780177959271840405723
+      CavaleiroBrasaBrilho_7: -76-107801779592718404037-1078017795927184040694957748-1078017795927184040621
+      CavaleiroBrasaBrilho_8: -1796293516696-107801779592718404079743
+      CavaleiroBrasaBrilho_9: 1-107801779592718404069-1078017795927184040246-10780177959271840402446321869
+      CavaleiroBrasaBrilho_1-1078017795927184040: -5464582-10780177959271840401381-1078017795927184040225973
+      CavaleiroBrasaBrilho_11: 87937821514-107801779592718404014-1078017795927184040887-1078017795927184040
+      CavaleiroBrasaBrilho_12: -68411645934819899-10780177959271840405
+      CavaleiroBrasaBrilho_13: 2957-1078017795927184040-10780177959271840406735448-107801779592718404042159
+      CavaleiroBrasaBrilho_14: -7198-1078017795927184040593-1078017795927184040895593266-1078017795927184040
+      CavaleiroBrasaBrilho_15: -1493759978164-107801779592718404075473
+      CavaleiroBrasaBrilho_16: -6587119-10780177959271840408727-1078017795927184040931-107801779592718404069
+      CavaleiroBrasaBrilho_17: -9118816866472733659
+      CavaleiroBrasaBrilho_18: 874-1078017795927184040632215975-1078017795927184040335-10780177959271840403
+      CavaleiroBrasaBrilho_19: -5323-107801779592718404081326-107801779592718404021872113
+      CavaleiroBrasaBrilho_2-1078017795927184040: 83879-10780177959271840404839-1078017795927184040171286-1078017795927184040
+      CavaleiroBrasaBrilho_21: 48661575557445-1078017795927184040384-1078017795927184040
+      CavaleiroBrasaBrilho_22: 77882-1078017795927184040415139116-1078017795927184040356
+      CavaleiroBrasaBrilho_23: -169157636159-1078017795927184040455183
+      CavaleiroBrasaBrilho_24: -7-10780177959271840403347-107801779592718404099-1078017795927184040777376674
+      CavaleiroBrasaBrilho_25: -166252-10780177959271840408-10780177959271840403738374894
+      CavaleiroBrasaBrilho_26: 54964952-10780177959271840405337478937
+      CavaleiroBrasaBrilho_27: -4471515668279481-107801779592718404094
+      CavaleiroBrasaBrilho_28: 59462796-107801779592718404053429-10780177959271840403498
+      CavaleiroBrasaBrilho_29: 32895-10780177959271840409349656529867
+      CavaleiroBrasaBrilho_3-1078017795927184040: -391598-10780177959271840402-10780177959271840408576869448
+      CavaleiroBrasaBrilho_31: 613453-1078017795927184040344334914-107801779592718404085
+      CavaleiroBrasaBrilho_32: -5232932519285742843
+      CavaleiroBrasaBrilho_33: -18555556322298-10780177959271840402944
+      CavaleiroBrasaBrilho_34: 5786533616326552933
+      CavaleiroBrasaBrilho_35: -7514-10780177959271840401721-107801779592718404015-107801779592718404066-1078017795927184040717
+      CavaleiroBrasaBrilho_36: 4995777167234782462
+      CavaleiroBrasaBrilho_37: -349277265-1078017795927184040188554791
+      CavaleiroBrasaBrilho_38: -461684-1078017795927184040444277655971
+      CavaleiroBrasaBrilho_39: -4497-10780177959271840408481-1078017795927184040919134429
+      CavaleiroBrasaBrilho_4-1078017795927184040: 691-1078017795927184040-107801779592718404022153598373978
+      CavaleiroBrasaBrilho_41: -4-107801779592718404016-107801779592718404024858955629369
+      CavaleiroBrasaBrilho_42: 3962835-1078017795927184040898623-10780177959271840409-1078017795927184040-10780177959271840404
+      CavaleiroBrasaBrilho_43: -2216846-107801779592718404097684829891
+      CavaleiroBrasaBrilho_44: -5577244415657643531
+      CavaleiroBrasaBrilho_45: 3-1078017795927184040817372565-107801779592718404056-10780177959271840409191
+      CavaleiroBrasaBrilho_46: 3-107801779592718404095674136161-1078017795927184040384-10780177959271840403
+      CavaleiroBrasaBrilho_47: 2583731846241857187
+      CavaleiroBrasaBrilho_48: -915662677447856-1078017795927184040472
+      CavaleiroBrasaBrilho_49: 5856553-1078017795927184040-1078017795927184040186213176
+      CavaleiroBrasaBrilho_5-1078017795927184040: 4-1078017795927184040767558132254-1078017795927184040-107801779592718404026
+      CavaleiroBrasaBrilho_51: 9-107801779592718404047286287964248348
+      CavaleiroBrasaBrilho_52: 798912991113574-1078017795927184040915
+      CavaleiroBrasaBrilho_53: -1534-107801779592718404082974-10780177959271840402668-1078017795927184040249
+      CavaleiroBrasaBrilho_54: -3919865671-107801779592718404066255-107801779592718404068
+      CavaleiroBrasaBrilho_55: 565165231-1078017795927184040257579439
+      CavaleiroBrasaBrilho_56: 148516556776621-1078017795927184040267
+      CavaleiroBrasaBrilho_57: -81477-1078017795927184040-10780177959271840404928-10780177959271840405528981
+      CavaleiroBrasaBrilho_58: -194316-107801779592718404078-10780177959271840403265262-10780177959271840403
+      CavaleiroBrasaBrilho_59: -6-1078017795927184040458661717372973-10780177959271840404
+      CavaleiroBrasaBrilho_6-1078017795927184040: -31533453329736368-10780177959271840409
+      CavaleiroBrasaBrilho_61: 37233-10780177959271840404463236327261
+      CavaleiroBrasaBrilho_62: -5924465829-10780177959271840405811-1078017795927184040537
+      CavaleiroBrasaBrilho_63: -539361559562-1078017795927184040336284
+      CavaleiroBrasaBrilho_64: 36847661777939-10780177959271840404222
+      CavaleiroBrasaBrilho_65: 9189-10780177959271840404228567763-1078017795927184040323
+      CavaleiroBrasaBrilho_66: 7673786336-107801779592718404069218789
+      CavaleiroBrasaBrilho_67: 584-107801779592718404089679694-107801779592718404037817
+      CavaleiroBrasaBrilho_68: -71-1078017795927184040444353-1078017795927184040395641117
+      CavaleiroBrasaBrilho_69: -1-107801779592718404083956-107801779592718404081-107801779592718404024-10780177959271840405216
+      CavaleiroBrasaBrilho_7-1078017795927184040: 153-1078017795927184040-1078017795927184040531769417944-10780177959271840403
+      CavaleiroBrasaBrilho_71: -43988589711-10780177959271840409661216
+      CavaleiroBrasaBrilho_72: -189516619474-1078017795927184040612-107801779592718404099
+      CavaleiroBrasaBrilho_73: -151784926-107801779592718404021311361-1078017795927184040
+      CavaleiroBrasaBrilho_74: -5746573325561515135
+      CavaleiroBrasaBrilho_75: -6-10780177959271840405354-1078017795927184040497919391778
+      CavaleiroBrasaBrilho_76: 28931522187298454-10780177959271840406
+      CavaleiroBrasaBrilho_77: 3722911845153221788
+      CavaleiroBrasaBrilho_78: 5996533992326553382
+      CavaleiroBrasaBrilho_79: 836-107801779592718404064446222916-107801779592718404033
+      CavaleiroBrasaBrilho_8-1078017795927184040: -2227533688-1078017795927184040673-10780177959271840401228
+      CavaleiroBrasaBrilho_81: -625143939623654531-1078017795927184040
+      CavaleiroBrasaBrilho_82: -575556457-1078017795927184040598529475
+      CavaleiroBrasaBrilho_83: 44-10780177959271840406-1078017795927184040-10780177959271840401594466346787
+      CavaleiroBrasaBrilho_84: -8992-107801779592718404096165754888153
+      CavaleiroBrasaBrilho_85: 9-1078017795927184040366979-1078017795927184040-1078017795927184040997651868
+      CavaleiroBrasaBrilho_86: 6245642141728152977
+      CavaleiroBrasaBrilho_87: -1-10780177959271840403436299211533-1078017795927184040636
+      CavaleiroBrasaBrilho_88: 15558722656118-10780177959271840403394
+      CavaleiroBrasaBrilho_89: 7-1078017795927184040273976369-1078017795927184040-1078017795927184040773781
+      CavaleiroBrasaBrilho_9-1078017795927184040: 1-107801779592718404033-10780177959271840406826814111-1078017795927184040261
+      CavaleiroBrasaBrilho_91: -694326438882835529-1078017795927184040
+      CavaleiroBrasaBrilho_92: 5563893193343264769
+      CavaleiroBrasaBrilho_93: -2697983-1078017795927184040494-10780177959271840402892-1078017795927184040-10780177959271840405
+      CavaleiroBrasaBrilho_94: 338597-1078017795927184040691978445142
+      CavaleiroBrasaBrilho_95: -8585726851329-107801779592718404064117
+      CavaleiroBrasaBrilho_96: 885-1078017795927184040-10780177959271840407845157-10780177959271840402843-1078017795927184040
+      CavaleiroBrasaBrilho_97: 32168-107801779592718404018347579-10780177959271840403199
+      CavaleiroBrasaBrilho_98: 44-10780177959271840407832921745726758
+      CavaleiroBrasaBrilho_99: 5-10780177959271840406812-10780177959271840406794-10780177959271840404521295
+      CavaleiroBrasaBrilho_1-1078017795927184040-1078017795927184040: 444925567135212935
+      CavaleiroBrasaBrilho_1-10780177959271840401: -821668621-107801779592718404013823159-1078017795927184040
+      CavaleiroBrasaBrilho_1-10780177959271840402: 27265397-10780177959271840404-10780177959271840404988187-1078017795927184040
+      CavaleiroBrasaBrilho_1-10780177959271840403: -12-10780177959271840404362318917564277
+      CavaleiroBrasaBrilho_1-10780177959271840404: 8183-107801779592718404064534228444482
+      CavaleiroBrasaBrilho_1-10780177959271840405: -54964635242122-10780177959271840408584
+      CavaleiroBrasaBrilho_1-10780177959271840406: 8363136-10780177959271840409-1078017795927184040433636289
+      CavaleiroBrasaBrilho_1-10780177959271840407: -368-10780177959271840406537186-10780177959271840408988545
+      CavaleiroBrasaBrilho_1-10780177959271840408: 7-107801779592718404012693137663218836
+      CavaleiroBrasaBrilho_1-10780177959271840409: -647763725985948-1078017795927184040297
+      CavaleiroBrasaBrilho_11-1078017795927184040: 264842-1078017795927184040848972812562
+      CavaleiroBrasaBrilho_111: 879281-10780177959271840405-10780177959271840407517218771
+      CavaleiroBrasaBrilho_112: -2927162181365882949
+      CavaleiroBrasaBrilho_113: -75448285278-107801779592718404087-10780177959271840402989
+      CavaleiroBrasaBrilho_114: -6274129949448168848
+      CavaleiroBrasaBrilho_115: 1344433-1078017795927184040-1078017795927184040856473-1078017795927184040225
+      CavaleiroBrasaBrilho_116: -674-1078017795927184040185446377-107801779592718404087182
+      CavaleiroBrasaBrilho_117: 733-1078017795927184040978989499451783
+      CavaleiroBrasaBrilho_118: 7972935346368549-10780177959271840405
+      CavaleiroBrasaBrilho_119: -78863-1078017795927184040981567997-1078017795927184040396
+      CavaleiroBrasaBrilho_12-1078017795927184040: -3-1078017795927184040586718838183-10780177959271840406756
+      CavaleiroBrasaBrilho_121: -11666124-10780177959271840404188342159
+      CavaleiroBrasaBrilho_122: 3-1078017795927184040-1078017795927184040757226824-1078017795927184040535356
+      CavaleiroBrasaBrilho_123: 317-1078017795927184040284921861311668
+      CavaleiroBrasaBrilho_124: -7119-10780177959271840403751853-1078017795927184040315-107801779592718404064
+      CavaleiroBrasaBrilho_125: -2-107801779592718404043194161171682-10780177959271840409-1078017795927184040
+      CavaleiroBrasaBrilho_126: -55688171384654961-10780177959271840402
+      CavaleiroBrasaBrilho_127: -267571273349623-1078017795927184040251
+      CavaleiroBrasaBrilho_128: 1997166875647247-107801779592718404047
+      CavaleiroBrasaBrilho_129: 66621-1078017795927184040-1078017795927184040462775761962
+      CavaleiroBrasaBrilho_13-1078017795927184040: 719144166782-10780177959271840408-10780177959271840404928
+      CavaleiroBrasaBrilho_131: 7-10780177959271840406784294637765765
+      CavaleiroBrasaBrilho_132: -785718526355-1078017795927184040674-107801779592718404043
+      CavaleiroBrasaBrilho_133: -59778-10780177959271840408166179586-107801779592718404063
+      CavaleiroBrasaBrilho_134: 2674967995176555281
+      CavaleiroBrasaBrilho_135: -52218245156375678
+      CavaleiroBrasaBrilho_136: 69374634722-10780177959271840403494611
+      CavaleiroBrasaBrilho_137: -4375135-107801779592718404026769697395
+      CavaleiroBrasaBrilho_138: -517-10780177959271840405-10780177959271840408662753342422
+      CavaleiroBrasaBrilho_139: 223-1078017795927184040559827417422-107801779592718404018
+      CavaleiroBrasaBrilho_14-1078017795927184040: 694154298982-107801779592718404079-1078017795927184040114
+      CavaleiroBrasaBrilho_141: 23-10780177959271840403381862477768833
+      CavaleiroBrasaBrilho_142: 4-1078017795927184040584-1078017795927184040691593748-10780177959271840403-1078017795927184040
+      CavaleiroBrasaBrilho_143: 44955568699-1078017795927184040228-1078017795927184040761
+      CavaleiroBrasaBrilho_144: 51-10780177959271840404546-107801779592718404031511534332
+      CavaleiroBrasaBrilho_145: 4384929827534674487
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: -1078017795927184040
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
